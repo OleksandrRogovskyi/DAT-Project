@@ -15,6 +15,10 @@
 		{
 			"Name": "ShallowWater",
 			"Enabled": true
+		},
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true
 		}
 	]
 }

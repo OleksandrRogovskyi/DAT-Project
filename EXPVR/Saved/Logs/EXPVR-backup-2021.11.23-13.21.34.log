@@ -1,0 +1,1478 @@
+﻿Log file open, 11/23/21 14:18:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EXPVR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.290569
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ShallowWater
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=justsupermen123 -epicuserid=4933047f1fa245618c30523ab84776df -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/programs/unreal engine/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2021.11.23-13.18.24:343][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.23-13.18.24:343][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.23-13.18.24:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2021.11.23-13.18.24:343][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.23-13.18.24:343][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2021.11.23-13.18.24:344][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.23-13.18.24:344][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2021.11.23-13.18.24:344][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2021.11.23-13.18.24:355][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:355][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.23-13.18.24:356][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2021.11.23-13.18.24:357][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.23-13.18.24:357][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.23-13.18.24:357][  0]LogHAL: Display: Platform has ~ 32 GB [34301628416 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.23-13.18.24:357][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.23-13.18.24:357][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.23-13.18.24:357][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.23-13.18.24:358][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2021.11.23-13.18.24:358][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Editor.ini]
+[2021.11.23-13.18.24:358][  0]LogInit: Computer: DESKTOP-UCBGAU3
+[2021.11.23-13.18.24:358][  0]LogInit: User: fukin
+[2021.11.23-13.18.24:358][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.11.23-13.18.24:358][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.23-13.18.24:358][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.11.23-13.18.24:358][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.23-13.18.24:358][  0]LogMemory: Process Physical Memory: 148.06 MB used, 148.07 MB peak
+[2021.11.23-13.18.24:358][  0]LogMemory: Process Virtual Memory: 146.68 MB used, 146.68 MB peak
+[2021.11.23-13.18.24:358][  0]LogMemory: Physical Memory: 4967.59 MB used,  27744.99 MB free, 32712.58 MB total
+[2021.11.23-13.18.24:358][  0]LogMemory: Virtual Memory: 134187192.00 MB used,  30533.70 MB free, 134217728.00 MB total
+[2021.11.23-13.18.24:362][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.23-13.18.24:391][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.23-13.18.24:391][  0]LogInit: Using OS detected language (en-US).
+[2021.11.23-13.18.24:391][  0]LogInit: Using OS detected locale (en-150).
+[2021.11.23-13.18.24:393][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.11.23-13.18.24:540][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.23-13.18.24:548][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-13.18.24:558][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.23-13.18.24:558][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.23-13.18.24:652][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2021.11.23-13.18.24:655][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.23-13.18.24:655][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.23-13.18.24:655][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.23-13.18.24:655][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.23-13.18.24:737][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2021.11.23-13.18.24:737][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2021.11.23-13.18.24:739][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     SubSysId    : 37491458
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     SharedSystemMemory : 17150814208 bytes
+[2021.11.23-13.18.24:740][  0]LogD3D11RHI:     AdapterLuid : 0 47163
+[2021.11.23-13.18.24:743][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.23-13.18.24:743][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.23-13.18.24:743][  0]LogWindows: EnumDisplayDevices:
+[2021.11.23-13.18.24:743][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2021.11.23-13.18.24:743][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2021.11.23-13.18.24:744][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.11.23-13.18.24:744][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2021.11.23-13.18.24:744][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2021.11.23-13.18.24:744][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     VendorId    : 10de
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     SubSysId    : 37491458
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     Revision    : 00a1
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     SharedSystemMemory : 17150814208 bytes
+[2021.11.23-13.18.24:744][  0]LogD3D11RHI:     AdapterLuid : 0 47163
+[2021.11.23-13.18.24:792][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.23-13.18.24:792][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.23-13.18.24:792][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.23-13.18.25:096][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.11.23-13.18.25:116][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.23-13.18.25:334][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.23-13.18.25:354][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.23-13.18.25:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.23-13.18.25:369][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.23-13.18.25:376][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.23-13.18.25:380][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.23-13.18.25:383][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.23-13.18.25:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.23-13.18.25:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.23-13.18.25:397][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.23-13.18.25:401][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.23-13.18.25:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.23-13.18.25:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.23-13.18.25:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.23-13.18.25:431][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.23-13.18.25:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.23-13.18.25:437][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.23-13.18.25:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.23-13.18.25:445][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.23-13.18.25:453][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.23-13.18.25:456][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.23-13.18.25:460][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.23-13.18.25:463][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.23-13.18.25:463][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.23-13.18.25:468][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.23-13.18.25:488][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2021.11.23-13.18.25:507][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.23-13.18.25:507][  0]LogShaderCompilers: Guid format shader working directory is -42 characters bigger than the processId version (../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Intermediate/Shaders/WorkingDirectory/6560/).
+[2021.11.23-13.18.25:507][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fukin/AppData/Local/Temp/UnrealShaderWorkingDir/AD8457BF4556AF149786958A0C5B3462/'.
+[2021.11.23-13.18.25:507][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.11.23-13.18.25:507][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.23-13.18.25:507][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.23-13.18.28:126][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.23-13.18.28:168][  0]LogDerivedDataCache: Loaded boot cache 0.04s 108MB C:/Users/fukin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.23-13.18.28:168][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fukin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2021.11.23-13.18.28:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.23-13.18.28:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.23-13.18.28:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.23-13.18.28:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.23-13.18.28:217][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.23-13.18.28:217][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.23-13.18.28:217][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.23-13.18.28:222][  0]LogDerivedDataCache: Speed tests for C:/Users/fukin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.23-13.18.28:223][  0]LogDerivedDataCache: Display: Performance to C:/Users/fukin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1687.27MBs, RandomWriteSpeed=188.99MBs. Assigned SpeedClass 'Local'
+[2021.11.23-13.18.28:223][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fukin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.23-13.18.28:223][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.23-13.18.28:223][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.23-13.18.28:274][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.23-13.18.28:274][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.23-13.18.28:293][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2021.11.23-13.18.29:330][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.23-13.18.29:330][  0]LogInit: Active device profile: [0000021FAB155400][0000021F9F7FC980 49] Windows
+[2021.11.23-13.18.29:330][  0]LogInit: Profiles: [0000021FAB155400][0000021F9F7FC980 49] Windows, [0000021FAB155500][0000021F9F804C40 49] WindowsNoEditor, [0000021FAB0CC100][0000021F9F808F00 49] WindowsServer, [0000021FAB0EE000][0000021F9F80D1C0 49] WindowsClient, [0000021FAB0CE200][0000021F9F811480 49] IOS, [0000021FAB0EFC00][0000021F9F815740 49] iPadAir, [0000021FAB0CDF00][0000021F9F819A00 49] iPadAir2, [0000021FAB094B00][0000021F9F82C3C0 49] IPadPro, [0000021FAB094C00][0000021F9F81C400 49] iPadAir3, [0000021FAB0CC500][0000021F9F8246C0 49] iPadAir4, [0000021FAB094600][0000021F9F800940 49] iPadMini2, [0000021FAB0CF400][0000021F9F820BC0 49] iPadMini3, [0000021FAB095600][0000021FA9B70E80 49] iPadMini4, [0000021FAB0CEC00][0000021FA9B75140 49] iPadMini5, [0000021FAB0ED700][0000021FA9B89680 49] iPhone6, [0000021FAB0ED800][0000021FA9B796C0 49] iPodTouch6, [0000021FAB095100][0000021FA9B91C00 49] iPhone7, [0000021FAB08BF00][0000021FA9B800C0 49] iPodTouch7, [0000021FAB0EF700][0000021FA9B84380 49] iPhone5S, [0000021FAB088600][0000021FA9B7C640 49] iPhone6Plus, [0000021FAB0EFD00][0000021FA9B8C900 49] iPhone6S, [0000021FAB08B500][0000021F9F828B80 49] iPhone6SPlus, [0000021FAB0EE300][0000021FA9B94E00 49] iPhone7Plus, [0000021FAB088E00][0000021FA9B9D0C0 49] iPhoneSE, [0000021FAB0EE100][0000021FA9BA1380 49] iPhone8, [0000021FAB08AD00][0000021FA9BA5640 49] iPhone8Plus, [0000021FAB0EEF00][0000021FA9BA9900 49] iPhoneX, [0000021FAB089500][0000021FA9BADBC0 49] iPhoneXS, [0000021FAB0ECF00][0000021FA9BB0300 49] iPhoneXSMax, [0000021FAB08A600][0000021FA9BB45C0 49] iPhoneXR, [0000021FAB0EE900][0000021FA7CA6880 49] iPhone11, [0000021FAB089C00][0000021FA7CAAB40 49] iPhone11Pro, [0000021FAB0ED400][0000021FA9B98DC0 49] iPhone11ProMax, [0000021FAB08B900][0000021FA7CAF040 49] iPhoneSE2, [0000021FAB0EC200][0000021FA7CB7300 49] iPhone12Mini, [0000021FAB088C00][0000021FA7CBB5C0 49] iPhone12, [0000021FAB0EE400][0000021FA7CBF880 49] iPhone12Pro, [0000021FAB08B100][0000021FA7CC3B40 49] iPhone12ProMax, [0000021FAB0EF800][0000021FA7CC6280 49] iPadPro105, [0000021FAB089400][0000021FA7CCA540 49] iPadPro129, [0000021FAB0EED00][0000021FA7CCE800 49] iPadPro97, [0000021FAB089600][0000021FA7CD2AC0 49] iPadPro2_129, [0000021FAB0EC400][0000021FA7CD6D80 49] iPad5, [0000021FAB08A400][0000021FA7CB3000 49] iPad6, [0000021FAB0EDC00][0000021FA7CDF2C0 49] iPad7, [0000021FAB08B000][0000021FA7CE3580 49] iPad8, [0000021FAB0EEE00][0000021FA7CE7840 49] iPadPro11, [0000021FAB088100][0000021FA7CEBB00 49] iPadPro2_11, [0000021FAB0EC800][0000021FA7CEE240 49] iPadPro3_129, [0000021FAB089700][0000021FA7DA6500 49] iPadPro4_129, [0000021FAB0EE800][0000021FA7DAA7C0 49] AppleTV, [0000021FAB088F00][0000021FA7DAEA80 49] AppleTV4K, [0000021FAB0EC900][0000021FA7DB2D40 49] TVOS, [0000021FAB08AE00][0000021FA7CDAFC0 49] Mac, [0000021FAB0EC700][0000021FA7DB7240 49] MacClient, [0000021FAB089D00][0000021FA7DBF500 49] MacNoEditor, [0000021FAB0EF900][0000021FA7DC37C0 49] MacServer, [0000021FAB08A200][0000021FA7DC7A80 49] Linux, [0000021FAB0EC100][0000021FA7DCA1C0 49] LinuxAArch64, [0000021FAB08A900][0000021FA7DCE480 49] LinuxNoEditor, [0000021FAB0ECC00][0000021FA7DD2740 49] LinuxAArch64NoEditor, [0000021FAB088700][0000021FA7DD6A00 49] LinuxClient, [0000021FAB0EFA00][0000021FA7DDACC0 49] LinuxAArch64Client, [0000021FAB088D00][0000021FA7DDEF80 49] LinuxServer, [0000021FAB0ED200][0000021FA7DBB200 49] LinuxAArch64Server, [0000021FAB08B400][0000021FA7DE3480 49] Android, [0000021FAB0EF100][0000021FA7DEB740 49] Android_Low, [0000021FAB08B700][0000021FA7DEFA00 49] Android_Mid, [0000021FAB0EFE00][0000021FA7DF2140 49] Android_High, [0000021FAB089E00][0000021FA7DF6400 49] Android_Default, [0000021FAB156800][0000021FA7DFA6C0 49] Android_Adreno4xx, [0000021FAB097600][0000021FA7DFE980 49] Android_Adreno5xx_Low, [0000021FAB156900][0000021FA7E02C40 49] Android_Adreno5xx, [0000021FAB097000][0000021FA7E06F00 49] Android_Adreno6xx, [0000021FAB154A00][0000021FA7E0B1C0 49] Android_Adreno6xx_Vulkan, [0000021FAB096500][0000021FA7DE7440 49] Android_Mali_T6xx, [0000021FAB154F00][0000021FA7E0F6C0 49] Android_Mali_T7xx, [0000021FAB096200][0000021FAC095980 49] Android_Mali_T8xx, [0000021FAB157200][0000021FAC0980C0 49] Android_Mali_G71, [0000021FAB097C00][0000021FAC09C380 49] Android_Mali_G72, [0000021FAB154500][0000021FAC0A0640 49] Android_Mali_G72_Vulkan, [0000021FAB095200][0000021FAC0A4900 49] Android_Mali_G76, [0000021FAB154300][0000021FAC0A8BC0 49] Android_Mali_G76_Vulkan, [0000021FAB094700][0000021FAC0ACE80 49] Android_Mali_G77, [0000021FAB155900][0000021FAC0B1140 49] Android_Mali_G77_Vulkan, [0000021FAB095900][0000021FAC0B5400 49] Android_Mali_G78, [0000021FAB155700][0000021FAC091680 49] Android_Mali_G78_Vulkan, [0000021FAB097F00][0000021FAC0B9900 49] Android_Mali_G710, [0000021FAB154D00][0000021FAC0C1BC0 49] Android_Mali_G710_Vulkan, [0000021FAB095B00][0000021FAC0C4300 49] Android_Vulkan_SM5, [0000021FAB156A00][0000021FAC0C85C0 49] Android_PowerVR_G6xxx, [0000021FAB097D00][0000021FAC0CC880 49] Android_PowerVR_GT7xxx, [0000021FAB154B00][0000021FAC0D0B40 49] Android_PowerVR_GE8xxx, [0000021FAB096B00][0000021FAC0D4E00 49] Android_PowerVR_GM9xxx, [0000021FAB156300][0000021FAC0D90C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000021FAB095300][0000021FAC0DD380 49] Android_TegraK1, [0000021FAB155D00][0000021FAC0E1640 49] Android_Unknown_Vulkan, [0000021FAB096700][0000021FAC0BD8C0 49] Lumin, [0000021FAB155C00][0000021FAC0E5B40 49] Lumin_Desktop, [0000021FAB0EE500][0000021FAC0EC280 49] HoloLens, 
+[2021.11.23-13.18.29:479][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.23-13.18.29:479][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.23-13.18.29:479][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.23-13.18.29:479][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.23-13.18.29:479][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.23-13.18.29:498][  0]LogNetVersion: EXPVR 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3398417609)
+[2021.11.23-13.18.30:011][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2021.11.23-13.18.30:564][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.23-13.18.30:571][  0]LogUObjectArray: 18271 objects as part of root set at end of initial load.
+[2021.11.23-13.18.30:571][  0]LogUObjectAllocator: 4728864 out of 0 bytes used by permanent object pool.
+[2021.11.23-13.18.30:571][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.23-13.18.30:939][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: EE3C095E41285BB5F8142BBDD2F6C134 | Instance: E3A4B67D4B8CA58DF64E10A89D2D0EEA (DESKTOP-UCBGAU3-6560).
+[2021.11.23-13.18.31:061][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-13.18.31:061][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-13.18.31:061][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.23-13.18.31:064][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.23-13.18.31:073][  0]LogPython: Using Python 3.7.7
+[2021.11.23-13.18.31:676][  0]SourceControl: Source control is disabled
+[2021.11.23-13.18.31:676][  0]SourceControl: Source control is disabled
+[2021.11.23-13.18.31:678][  0]SourceControl: Source control is disabled
+[2021.11.23-13.18.31:682][  0]SourceControl: Source control is disabled
+[2021.11.23-13.18.31:686][  0]SourceControl: Source control is disabled
+[2021.11.23-13.18.31:691][  0]LogUProjectInfo: Found projects:
+[2021.11.23-13.18.31:696][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-13.18.31:696][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-13.18.31:697][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-13.18.32:392][  0]LogOpenImageDenoise: OIDN starting up
+[2021.11.23-13.18.32:409][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.23-13.18.32:422][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.23-13.18.32:422][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.23-13.18.32:805][  0]LogCollectionManager: Loaded 0 collections in 0.017537 seconds
+[2021.11.23-13.18.32:834][  0]LogFileCache: Scanning file cache for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Collections/' took 0.00s
+[2021.11.23-13.18.32:834][  0]LogFileCache: Scanning file cache for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Developers/fukin/Collections/' took 0.00s
+[2021.11.23-13.18.32:834][  0]LogFileCache: Scanning file cache for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Collections/' took 0.00s
+[2021.11.23-13.18.32:834][  0]LogOcInput: OculusInput pre-init called
+[2021.11.23-13.18.33:089][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-13.18.33:089][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-13.18.33:089][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumVertices is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumFaces is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Length is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: StructProperty FPhysicsBoxData::Dimensions is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: FloatProperty FPhysicsSphereData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: EnumProperty FLODLevelGenerateSettings::TargetMode is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetPercentage is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetCount is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2021.11.23-13.18.33:089][  0]LogClass: Display: 9 Uninitialized script struct members found including 0 object properties
+[2021.11.23-13.18.33:090][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-13.18.33:090][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-13.18.33:090][  0]LogEngine: Initializing Engine...
+[2021.11.23-13.18.33:275][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2021.11.23-13.18.33:296][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.23-13.18.33:310][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.23-13.18.33:311][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2021.11.23-13.18.33:350][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.23-13.18.33:601][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.23-13.18.33:649][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.23-13.18.33:667][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.23-13.18.33:669][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2021.11.23-13.18.33:670][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2021.11.23-13.18.33:670][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.23-13.18.33:670][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.23-13.18.33:670][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-13.18.33:670][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-13.18.33:670][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-13.18.33:670][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-13.18.33:670][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-13.18.33:670][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-13.18.33:670][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-13.18.33:670][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-13.18.33:671][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.11.23-13.18.33:671][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.11.23-13.18.33:671][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.11.23-13.18.33:671][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-13.18.33:679][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-13.18.33:679][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-13.18.33:691][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2021.11.23-13.18.33:692][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-13.18.33:694][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-13.18.33:694][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-13.18.33:694][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-13.18.33:694][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-13.18.33:694][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-13.18.33:695][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-13.18.33:695][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-13.18.33:695][  0]LogInit: FAudioDevice initialized.
+[2021.11.23-13.18.33:695][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.23-13.18.33:695][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.23-13.18.33:781][  0]LogDerivedDataCache: Saved boot cache 0.09s 113MB C:/Users/fukin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2021.11.23-13.18.33:782][  0]LogInit: Texture streaming: Enabled
+[2021.11.23-13.18.33:792][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2021.11.23-13.18.33:795][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.23-13.18.33:795][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.23-13.18.33:796][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.23-13.18.33:817][  0]LogInit: Transaction tracking system initialized
+[2021.11.23-13.18.33:834][  0]BlueprintLog: New page: Editor Load
+[2021.11.23-13.18.33:918][  0]LocalizationService: Localization service is disabled
+[2021.11.23-13.18.33:945][  0]TimingProfiler: Initialize
+[2021.11.23-13.18.33:945][  0]TimingProfiler: OnSessionChanged
+[2021.11.23-13.18.33:945][  0]LoadingProfiler: Initialize
+[2021.11.23-13.18.33:945][  0]LoadingProfiler: OnSessionChanged
+[2021.11.23-13.18.33:945][  0]NetworkingProfiler: Initialize
+[2021.11.23-13.18.33:945][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.23-13.18.33:945][  0]MemoryProfiler: Initialize
+[2021.11.23-13.18.33:945][  0]MemoryProfiler: OnSessionChanged
+[2021.11.23-13.18.34:002][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-13.18.34:002][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-13.18.34:003][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2021.11.23-13.18.34:224][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.23-13.18.34:224][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.23-13.18.35:378][  0]LogFileCache: Scanning file cache for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/' took 0.02s
+[2021.11.23-13.18.36:054][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-13.18.36:054][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2021.11.23-13.18.36:054][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.23-13.18.36:056][  0]SourceControl: Source control is disabled
+[2021.11.23-13.18.36:057][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.940
+[2021.11.23-13.18.36:057][  0]Cmd: MAP LOAD FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.23-13.18.36:088][  0]LightingResults: New page: Lighting Build
+[2021.11.23-13.18.36:090][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-13.18.36:090][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-13.18.36:090][  0]MapCheck: New page: Map Check
+[2021.11.23-13.18.36:090][  0]LightingResults: New page: Lighting Build
+[2021.11.23-13.18.36:093][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-13.18.36:105][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.11.23-13.18.36:143][  0]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.11.23-13.18.36:143][  0]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.11.23-13.18.36:516][  0]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.11.23-13.18.36:675][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.11.23-13.18.36:675][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.11.23-13.18.36:677][  0]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2021.11.23-13.18.36:677][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2021.11.23-13.18.37:078][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2021.11.23-13.18.37:079][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2021.11.23-13.18.37:177][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.23-13.18.37:183][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.23-13.18.37:183][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.23-13.18.37:183][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.094ms to complete.
+[2021.11.23-13.18.37:183][  0]LogFileHelpers: Loading map 'Minimal_Default' took 1.127
+[2021.11.23-13.18.37:228][  0]LogUnrealEdMisc: Total Editor Startup Time, took 15.110
+[2021.11.23-13.18.37:729][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-13.18.37:735][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-13.18.37:740][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-13.18.37:745][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-13.18.37:904][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0103 seconds. Added 4260 classes and 972 folders.
+[2021.11.23-13.18.37:944][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.23-13.18.38:139][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-13.18.38:139][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:139][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-13.18.38:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:139][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2021.11.23-13.18.38:139][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.11.23-13.18.38:181][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.23-13.18.38:181][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:181][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.23-13.18.38:181][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:181][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2021.11.23-13.18.38:181][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.23-13.18.38:221][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.23-13.18.38:221][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:221][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.23-13.18.38:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:221][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2021.11.23-13.18.38:221][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2021.11.23-13.18.38:225][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-13.18.38:225][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:225][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-13.18.38:225][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:225][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2021.11.23-13.18.38:225][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.23-13.18.38:239][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.23-13.18.38:239][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:239][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.23-13.18.38:239][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:239][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2021.11.23-13.18.38:239][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.11.23-13.18.38:248][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.23-13.18.38:248][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:248][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.23-13.18.38:248][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:248][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2021.11.23-13.18.38:248][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.11.23-13.18.38:264][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.23-13.18.38:264][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:264][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.23-13.18.38:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:264][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2021.11.23-13.18.38:264][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.23-13.18.38:267][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.23-13.18.38:267][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:267][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.23-13.18.38:267][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:267][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2021.11.23-13.18.38:267][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.23-13.18.38:318][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-13.18.38:318][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:318][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-13.18.38:318][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:319][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2021.11.23-13.18.38:319][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.11.23-13.18.38:341][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.23-13.18.38:341][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:341][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.23-13.18.38:341][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:341][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2021.11.23-13.18.38:341][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.23-13.18.38:362][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.23-13.18.38:362][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:362][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.23-13.18.38:362][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:362][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2021.11.23-13.18.38:362][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2021.11.23-13.18.38:385][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-13.18.38:385][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:385][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-13.18.38:385][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:385][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2021.11.23-13.18.38:385][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.11.23-13.18.38:400][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-13.18.38:400][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:400][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-13.18.38:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:400][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2021.11.23-13.18.38:400][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2021.11.23-13.18.38:403][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-13.18.38:403][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:403][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-13.18.38:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:403][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2021.11.23-13.18.38:403][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.23-13.18.38:406][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.23-13.18.38:406][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:406][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.23-13.18.38:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:406][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2021.11.23-13.18.38:406][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.23-13.18.38:427][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-13.18.38:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-13.18.38:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:428][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2021.11.23-13.18.38:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.11.23-13.18.38:440][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.23-13.18.38:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.23-13.18.38:440][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:440][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2021.11.23-13.18.38:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2021.11.23-13.18.38:452][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-13.18.38:452][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:452][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-13.18.38:453][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:453][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2021.11.23-13.18.38:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2021.11.23-13.18.38:456][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-13.18.38:456][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:456][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-13.18.38:456][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:456][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2021.11.23-13.18.38:456][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2021.11.23-13.18.38:462][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-13.18.38:462][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:462][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-13.18.38:462][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:462][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2021.11.23-13.18.38:462][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2021.11.23-13.18.38:465][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-13.18.38:465][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:465][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-13.18.38:465][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:466][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2021.11.23-13.18.38:466][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.11.23-13.18.38:469][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-13.18.38:469][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:469][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-13.18.38:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:469][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2021.11.23-13.18.38:469][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.23-13.18.38:473][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.23-13.18.38:473][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:473][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.23-13.18.38:473][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:473][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2021.11.23-13.18.38:473][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.23-13.18.38:477][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-13.18.38:477][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:477][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-13.18.38:477][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:477][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2021.11.23-13.18.38:477][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2021.11.23-13.18.38:577][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-13.18.38:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-13.18.38:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2021.11.23-13.18.38:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2021.11.23-13.18.38:589][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.23-13.18.38:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-13.18.38:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.23-13.18.38:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2021.11.23-13.18.38:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2021.11.23-13.18.38:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2021.11.23-13.18.39:517][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.23-13.18.39:546][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.11.23-13.18.40:011][  0]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.23-13.18.40:036][  0]LogSlate: Took 0.023919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.23-13.18.40:042][  0]LogSlate: Took 0.000133 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.23-13.18.40:522][  0]LogRenderer: Reallocating scene render targets to support 1288x620 Format 10 NumSamples 1 (Frame:1).
+[2021.11.23-13.18.40:949][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.11.23-13.18.40:949][  0]LogLoad: (Engine Initialization) Total time: 18.83 seconds
+[2021.11.23-13.18.40:949][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.23-13.18.41:076][  0]LogAssetRegistry: Asset discovery search completed in 12.7840 seconds
+[2021.11.23-13.18.41:081][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.11.23-13.18.41:104][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.23-13.18.41:283][  0]LogSlate: Took 0.024966 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.11.23-13.18.43:760][238]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-13.18.43:764][238]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-13.18.45:628][462]LogSlate: Window 'Plugins' being destroyed
+[2021.11.23-13.18.45:631][462]LogSlate: Window 'Plugins' being destroyed
+[2021.11.23-13.18.45:632][462]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.11.23-13.18.48:483][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.11.23-13.18.48:513][782]LogSlate: Took 0.022766 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.23-13.18.50:186][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_material': Can't find file.
+[2021.11.23-13.18.50:186][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_material': Can't find file.
+[2021.11.23-13.18.50:453][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower_Material': Can't find file.
+[2021.11.23-13.18.50:453][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower_Material': Can't find file.
+[2021.11.23-13.18.50:453][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full': Can't find file.
+[2021.11.23-13.18.50:453][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full': Can't find file.
+[2021.11.23-13.18.50:484][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel': Can't find file.
+[2021.11.23-13.18.50:484][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel': Can't find file.
+[2021.11.23-13.18.50:484][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_material': Can't find file.
+[2021.11.23-13.18.50:524][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower': Can't find file.
+[2021.11.23-13.18.50:524][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower': Can't find file.
+[2021.11.23-13.18.50:524][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower_Material': Can't find file.
+[2021.11.23-13.18.50:853][782]LogLinker: Warning: Asset '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/MSPresets/MSTextures/Metalness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2021.11.23-13.18.52:595][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full': Can't find file.
+[2021.11.23-13.18.52:595][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel': Can't find file.
+[2021.11.23-13.18.52:595][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_material': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower_Material': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_material': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower_Material': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel': Can't find file.
+[2021.11.23-13.18.52:598][782]LogLinker: Warning: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower': Can't find file.
+[2021.11.23-13.18.53:862][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full': Can't find file.
+[2021.11.23-13.18.53:862][782]LoadErrors: Failed to load /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full.foundation_full Referenced by foundation_full_2
+[2021.11.23-13.18.53:862][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel': Can't find file.
+[2021.11.23-13.18.53:862][782]LoadErrors: Failed to load /Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel.Lake_Chapel Referenced by Lake_Chapel_8
+[2021.11.23-13.18.53:862][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_material': Can't find file.
+[2021.11.23-13.18.53:862][782]LoadErrors: Failed to load /Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_material.Lake_Chapel_material Referenced by Lake_Chapel_8
+[2021.11.23-13.18.53:863][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower': Can't find file.
+[2021.11.23-13.18.53:863][782]LoadErrors: Failed to load /Game/Assets/Alex_assets/Water_Tower/Water_Tower.Water_Tower Referenced by Water_Tower_5
+[2021.11.23-13.18.53:863][782]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to load '/Game/Assets/Alex_assets/Water_Tower/Water_Tower_Material': Can't find file.
+[2021.11.23-13.18.53:863][782]LoadErrors: Failed to load /Game/Assets/Alex_assets/Water_Tower/Water_Tower_Material.Water_Tower_Material Referenced by Water_Tower_5
+[2021.11.23-13.18.55:942][782]LogAssetEditorSubsystem: Opening Asset editor for World /Game/EXVR_P.EXVR_P
+[2021.11.23-13.18.55:950][782]Cmd: MAP LOAD FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.23-13.18.55:950][782]LightingResults: New page: Lighting Build
+[2021.11.23-13.18.55:950][782]LoadErrors: New page: Loading map: EXVR_P.umap
+[2021.11.23-13.18.55:977][782]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-13.18.55:977][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-13.18.55:977][782]MapCheck: New page: Map Check
+[2021.11.23-13.18.55:977][782]LightingResults: New page: Lighting Build
+[2021.11.23-13.18.55:981][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.11.23-13.18.55:987][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2021.11.23-13.18.55:987][782]LogAudio: Display: Audio Device (ID: 1) registered with world 'EXVR_P'.
+[2021.11.23-13.19.02:117][782]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.23-13.19.02:117][782]LogAIModule: Creating AISystem for world EXVR_P
+[2021.11.23-13.19.02:147][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2021.11.23-13.19.02:153][782]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.23-13.19.02:154][782]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.07ms to complete.
+[2021.11.23-13.19.02:154][782]LogFileHelpers: Loading map 'EXVR_P' took 6.204
+[2021.11.23-13.19.28:559][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (building_ready)
+[2021.11.23-13.19.30:175][856]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.11.23-13.19.42:257][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.11.23-13.19.43:141][279]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-13.19.43:218][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.23-13.19.43:230][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.11.23-13.19.43:234][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.11.23-13.19.55:889][547]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\uni\year 3\3D VR project\3D\fishing lodge\foundation full.fbx)
+[2021.11.23-13.19.55:897][547]LogFbx: Loading FBX Scene from D:\uni\year 3\3D VR project\3D\fishing lodge\foundation full.fbx
+[2021.11.23-13.19.55:919][547]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.23-13.19.57:118][547]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.23-13.19.57:295][547]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: D6A7F284056F97807A3CB14BF7FF08DBA3A44C5C), compiling. 
+[2021.11.23-13.19.57:306][547]LogFbx: Display: Triangulating static mesh polySurface618
+[2021.11.23-13.19.57:359][547]LogStaticMesh: Building static mesh foundation_full_polySurface618...
+[2021.11.23-13.19.57:402][547]LogStaticMesh: Built static mesh [0.04s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface618.foundation_full_polySurface618
+[2021.11.23-13.19.57:494][547]LogFbx: Display: Triangulating static mesh polySurface619
+[2021.11.23-13.19.57:494][547]LogStaticMesh: Building static mesh foundation_full_polySurface619...
+[2021.11.23-13.19.57:496][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface619.foundation_full_polySurface619
+[2021.11.23-13.19.57:498][547]LogFbx: Display: Triangulating static mesh polySurface620
+[2021.11.23-13.19.57:499][547]LogStaticMesh: Building static mesh foundation_full_polySurface620...
+[2021.11.23-13.19.57:500][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface620.foundation_full_polySurface620
+[2021.11.23-13.19.57:503][547]LogFbx: Display: Triangulating static mesh polySurface621
+[2021.11.23-13.19.57:504][547]LogStaticMesh: Building static mesh foundation_full_polySurface621...
+[2021.11.23-13.19.57:505][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface621.foundation_full_polySurface621
+[2021.11.23-13.19.57:509][547]LogFbx: Display: Triangulating static mesh polySurface622
+[2021.11.23-13.19.57:509][547]LogStaticMesh: Building static mesh foundation_full_polySurface622...
+[2021.11.23-13.19.57:511][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface622.foundation_full_polySurface622
+[2021.11.23-13.19.57:513][547]LogFbx: Display: Triangulating static mesh polySurface623
+[2021.11.23-13.19.57:514][547]LogStaticMesh: Building static mesh foundation_full_polySurface623...
+[2021.11.23-13.19.57:515][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface623.foundation_full_polySurface623
+[2021.11.23-13.19.57:518][547]LogFbx: Display: Triangulating static mesh polySurface624
+[2021.11.23-13.19.57:519][547]LogStaticMesh: Building static mesh foundation_full_polySurface624...
+[2021.11.23-13.19.57:520][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface624.foundation_full_polySurface624
+[2021.11.23-13.19.57:523][547]LogFbx: Display: Triangulating static mesh polySurface625
+[2021.11.23-13.19.57:524][547]LogStaticMesh: Building static mesh foundation_full_polySurface625...
+[2021.11.23-13.19.57:525][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface625.foundation_full_polySurface625
+[2021.11.23-13.19.57:528][547]LogFbx: Display: Triangulating static mesh polySurface626
+[2021.11.23-13.19.57:529][547]LogStaticMesh: Building static mesh foundation_full_polySurface626...
+[2021.11.23-13.19.57:530][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface626.foundation_full_polySurface626
+[2021.11.23-13.19.57:533][547]LogFbx: Display: Triangulating static mesh polySurface627
+[2021.11.23-13.19.57:534][547]LogStaticMesh: Building static mesh foundation_full_polySurface627...
+[2021.11.23-13.19.57:536][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface627.foundation_full_polySurface627
+[2021.11.23-13.19.57:539][547]LogFbx: Display: Triangulating static mesh polySurface628
+[2021.11.23-13.19.57:540][547]LogStaticMesh: Building static mesh foundation_full_polySurface628...
+[2021.11.23-13.19.57:542][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface628.foundation_full_polySurface628
+[2021.11.23-13.19.57:545][547]LogFbx: Display: Triangulating static mesh polySurface629
+[2021.11.23-13.19.57:545][547]LogStaticMesh: Building static mesh foundation_full_polySurface629...
+[2021.11.23-13.19.57:547][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface629.foundation_full_polySurface629
+[2021.11.23-13.19.57:550][547]LogFbx: Display: Triangulating static mesh polySurface630
+[2021.11.23-13.19.57:551][547]LogStaticMesh: Building static mesh foundation_full_polySurface630...
+[2021.11.23-13.19.57:553][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface630.foundation_full_polySurface630
+[2021.11.23-13.19.57:556][547]LogFbx: Display: Triangulating static mesh polySurface631
+[2021.11.23-13.19.57:556][547]LogStaticMesh: Building static mesh foundation_full_polySurface631...
+[2021.11.23-13.19.57:558][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface631.foundation_full_polySurface631
+[2021.11.23-13.19.57:560][547]LogFbx: Display: Triangulating static mesh polySurface632
+[2021.11.23-13.19.57:561][547]LogStaticMesh: Building static mesh foundation_full_polySurface632...
+[2021.11.23-13.19.57:562][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface632.foundation_full_polySurface632
+[2021.11.23-13.19.57:565][547]LogFbx: Display: Triangulating static mesh polySurface633
+[2021.11.23-13.19.57:566][547]LogStaticMesh: Building static mesh foundation_full_polySurface633...
+[2021.11.23-13.19.57:568][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface633.foundation_full_polySurface633
+[2021.11.23-13.19.57:571][547]LogFbx: Display: Triangulating static mesh polySurface634
+[2021.11.23-13.19.57:571][547]LogStaticMesh: Building static mesh foundation_full_polySurface634...
+[2021.11.23-13.19.57:573][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface634.foundation_full_polySurface634
+[2021.11.23-13.19.57:575][547]LogFbx: Display: Triangulating static mesh polySurface635
+[2021.11.23-13.19.57:576][547]LogStaticMesh: Building static mesh foundation_full_polySurface635...
+[2021.11.23-13.19.57:577][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface635.foundation_full_polySurface635
+[2021.11.23-13.19.57:580][547]LogFbx: Display: Triangulating static mesh polySurface636
+[2021.11.23-13.19.57:581][547]LogStaticMesh: Building static mesh foundation_full_polySurface636...
+[2021.11.23-13.19.57:583][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface636.foundation_full_polySurface636
+[2021.11.23-13.19.57:586][547]LogFbx: Display: Triangulating static mesh polySurface637
+[2021.11.23-13.19.57:587][547]LogStaticMesh: Building static mesh foundation_full_polySurface637...
+[2021.11.23-13.19.57:589][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface637.foundation_full_polySurface637
+[2021.11.23-13.19.57:592][547]LogFbx: Display: Triangulating static mesh polySurface638
+[2021.11.23-13.19.57:593][547]LogStaticMesh: Building static mesh foundation_full_polySurface638...
+[2021.11.23-13.19.57:595][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface638.foundation_full_polySurface638
+[2021.11.23-13.19.57:598][547]LogFbx: Display: Triangulating static mesh polySurface639
+[2021.11.23-13.19.57:598][547]LogStaticMesh: Building static mesh foundation_full_polySurface639...
+[2021.11.23-13.19.57:600][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface639.foundation_full_polySurface639
+[2021.11.23-13.19.57:602][547]LogFbx: Display: Triangulating static mesh polySurface640
+[2021.11.23-13.19.57:603][547]LogStaticMesh: Building static mesh foundation_full_polySurface640...
+[2021.11.23-13.19.57:604][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface640.foundation_full_polySurface640
+[2021.11.23-13.19.57:608][547]LogFbx: Display: Triangulating static mesh polySurface641
+[2021.11.23-13.19.57:609][547]LogStaticMesh: Building static mesh foundation_full_polySurface641...
+[2021.11.23-13.19.57:610][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface641.foundation_full_polySurface641
+[2021.11.23-13.19.57:613][547]LogFbx: Display: Triangulating static mesh polySurface642
+[2021.11.23-13.19.57:614][547]LogStaticMesh: Building static mesh foundation_full_polySurface642...
+[2021.11.23-13.19.57:616][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface642.foundation_full_polySurface642
+[2021.11.23-13.19.57:619][547]LogFbx: Display: Triangulating static mesh polySurface643
+[2021.11.23-13.19.57:620][547]LogStaticMesh: Building static mesh foundation_full_polySurface643...
+[2021.11.23-13.19.57:622][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface643.foundation_full_polySurface643
+[2021.11.23-13.19.57:625][547]LogFbx: Display: Triangulating static mesh polySurface644
+[2021.11.23-13.19.57:626][547]LogStaticMesh: Building static mesh foundation_full_polySurface644...
+[2021.11.23-13.19.57:627][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface644.foundation_full_polySurface644
+[2021.11.23-13.19.57:630][547]LogFbx: Display: Triangulating static mesh polySurface645
+[2021.11.23-13.19.57:631][547]LogStaticMesh: Building static mesh foundation_full_polySurface645...
+[2021.11.23-13.19.57:632][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface645.foundation_full_polySurface645
+[2021.11.23-13.19.57:636][547]LogFbx: Display: Triangulating static mesh polySurface646
+[2021.11.23-13.19.57:637][547]LogStaticMesh: Building static mesh foundation_full_polySurface646...
+[2021.11.23-13.19.57:639][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface646.foundation_full_polySurface646
+[2021.11.23-13.19.57:643][547]LogFbx: Display: Triangulating static mesh polySurface647
+[2021.11.23-13.19.57:643][547]LogStaticMesh: Building static mesh foundation_full_polySurface647...
+[2021.11.23-13.19.57:645][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface647.foundation_full_polySurface647
+[2021.11.23-13.19.57:648][547]LogFbx: Display: Triangulating static mesh polySurface648
+[2021.11.23-13.19.57:649][547]LogStaticMesh: Building static mesh foundation_full_polySurface648...
+[2021.11.23-13.19.57:650][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface648.foundation_full_polySurface648
+[2021.11.23-13.19.57:654][547]LogFbx: Display: Triangulating static mesh polySurface649
+[2021.11.23-13.19.57:655][547]LogStaticMesh: Building static mesh foundation_full_polySurface649...
+[2021.11.23-13.19.57:656][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface649.foundation_full_polySurface649
+[2021.11.23-13.19.57:659][547]LogFbx: Display: Triangulating static mesh polySurface650
+[2021.11.23-13.19.57:660][547]LogStaticMesh: Building static mesh foundation_full_polySurface650...
+[2021.11.23-13.19.57:661][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface650.foundation_full_polySurface650
+[2021.11.23-13.19.57:664][547]LogFbx: Display: Triangulating static mesh polySurface651
+[2021.11.23-13.19.57:665][547]LogStaticMesh: Building static mesh foundation_full_polySurface651...
+[2021.11.23-13.19.57:666][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface651.foundation_full_polySurface651
+[2021.11.23-13.19.57:669][547]LogFbx: Display: Triangulating static mesh polySurface652
+[2021.11.23-13.19.57:670][547]LogStaticMesh: Building static mesh foundation_full_polySurface652...
+[2021.11.23-13.19.57:671][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface652.foundation_full_polySurface652
+[2021.11.23-13.19.57:674][547]LogFbx: Display: Triangulating static mesh polySurface653
+[2021.11.23-13.19.57:675][547]LogStaticMesh: Building static mesh foundation_full_polySurface653...
+[2021.11.23-13.19.57:676][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface653.foundation_full_polySurface653
+[2021.11.23-13.19.57:679][547]LogFbx: Display: Triangulating static mesh polySurface654
+[2021.11.23-13.19.57:680][547]LogStaticMesh: Building static mesh foundation_full_polySurface654...
+[2021.11.23-13.19.57:681][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface654.foundation_full_polySurface654
+[2021.11.23-13.19.57:684][547]LogFbx: Display: Triangulating static mesh polySurface655
+[2021.11.23-13.19.57:685][547]LogStaticMesh: Building static mesh foundation_full_polySurface655...
+[2021.11.23-13.19.57:687][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface655.foundation_full_polySurface655
+[2021.11.23-13.19.57:690][547]LogFbx: Display: Triangulating static mesh polySurface656
+[2021.11.23-13.19.57:691][547]LogStaticMesh: Building static mesh foundation_full_polySurface656...
+[2021.11.23-13.19.57:692][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface656.foundation_full_polySurface656
+[2021.11.23-13.19.57:695][547]LogFbx: Display: Triangulating static mesh polySurface657
+[2021.11.23-13.19.57:695][547]LogStaticMesh: Building static mesh foundation_full_polySurface657...
+[2021.11.23-13.19.57:697][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface657.foundation_full_polySurface657
+[2021.11.23-13.19.57:700][547]LogFbx: Display: Triangulating static mesh polySurface658
+[2021.11.23-13.19.57:701][547]LogStaticMesh: Building static mesh foundation_full_polySurface658...
+[2021.11.23-13.19.57:702][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface658.foundation_full_polySurface658
+[2021.11.23-13.19.57:705][547]LogFbx: Display: Triangulating static mesh polySurface659
+[2021.11.23-13.19.57:706][547]LogStaticMesh: Building static mesh foundation_full_polySurface659...
+[2021.11.23-13.19.57:707][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface659.foundation_full_polySurface659
+[2021.11.23-13.19.57:710][547]LogFbx: Display: Triangulating static mesh polySurface660
+[2021.11.23-13.19.57:711][547]LogStaticMesh: Building static mesh foundation_full_polySurface660...
+[2021.11.23-13.19.57:712][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface660.foundation_full_polySurface660
+[2021.11.23-13.19.57:715][547]LogFbx: Display: Triangulating static mesh polySurface661
+[2021.11.23-13.19.57:716][547]LogStaticMesh: Building static mesh foundation_full_polySurface661...
+[2021.11.23-13.19.57:717][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface661.foundation_full_polySurface661
+[2021.11.23-13.19.57:720][547]LogFbx: Display: Triangulating static mesh polySurface662
+[2021.11.23-13.19.57:721][547]LogStaticMesh: Building static mesh foundation_full_polySurface662...
+[2021.11.23-13.19.57:722][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface662.foundation_full_polySurface662
+[2021.11.23-13.19.57:725][547]LogFbx: Display: Triangulating static mesh polySurface663
+[2021.11.23-13.19.57:726][547]LogStaticMesh: Building static mesh foundation_full_polySurface663...
+[2021.11.23-13.19.57:727][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface663.foundation_full_polySurface663
+[2021.11.23-13.19.57:730][547]LogFbx: Display: Triangulating static mesh polySurface664
+[2021.11.23-13.19.57:731][547]LogStaticMesh: Building static mesh foundation_full_polySurface664...
+[2021.11.23-13.19.57:732][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface664.foundation_full_polySurface664
+[2021.11.23-13.19.57:735][547]LogFbx: Display: Triangulating static mesh polySurface665
+[2021.11.23-13.19.57:736][547]LogStaticMesh: Building static mesh foundation_full_polySurface665...
+[2021.11.23-13.19.57:737][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface665.foundation_full_polySurface665
+[2021.11.23-13.19.57:740][547]LogFbx: Display: Triangulating static mesh polySurface666
+[2021.11.23-13.19.57:741][547]LogStaticMesh: Building static mesh foundation_full_polySurface666...
+[2021.11.23-13.19.57:742][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface666.foundation_full_polySurface666
+[2021.11.23-13.19.57:745][547]LogFbx: Display: Triangulating static mesh polySurface667
+[2021.11.23-13.19.57:746][547]LogStaticMesh: Building static mesh foundation_full_polySurface667...
+[2021.11.23-13.19.57:747][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface667.foundation_full_polySurface667
+[2021.11.23-13.19.57:751][547]LogFbx: Display: Triangulating static mesh polySurface668
+[2021.11.23-13.19.57:751][547]LogStaticMesh: Building static mesh foundation_full_polySurface668...
+[2021.11.23-13.19.57:753][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface668.foundation_full_polySurface668
+[2021.11.23-13.19.57:756][547]LogFbx: Display: Triangulating static mesh polySurface669
+[2021.11.23-13.19.57:757][547]LogStaticMesh: Building static mesh foundation_full_polySurface669...
+[2021.11.23-13.19.57:758][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface669.foundation_full_polySurface669
+[2021.11.23-13.19.57:761][547]LogFbx: Display: Triangulating static mesh polySurface670
+[2021.11.23-13.19.57:762][547]LogStaticMesh: Building static mesh foundation_full_polySurface670...
+[2021.11.23-13.19.57:763][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface670.foundation_full_polySurface670
+[2021.11.23-13.19.57:766][547]LogFbx: Display: Triangulating static mesh polySurface671
+[2021.11.23-13.19.57:766][547]LogStaticMesh: Building static mesh foundation_full_polySurface671...
+[2021.11.23-13.19.57:768][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface671.foundation_full_polySurface671
+[2021.11.23-13.19.57:771][547]LogFbx: Display: Triangulating static mesh polySurface672
+[2021.11.23-13.19.57:772][547]LogStaticMesh: Building static mesh foundation_full_polySurface672...
+[2021.11.23-13.19.57:773][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface672.foundation_full_polySurface672
+[2021.11.23-13.19.57:776][547]LogFbx: Display: Triangulating static mesh polySurface673
+[2021.11.23-13.19.57:777][547]LogStaticMesh: Building static mesh foundation_full_polySurface673...
+[2021.11.23-13.19.57:778][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface673.foundation_full_polySurface673
+[2021.11.23-13.19.57:781][547]LogFbx: Display: Triangulating static mesh polySurface674
+[2021.11.23-13.19.57:782][547]LogStaticMesh: Building static mesh foundation_full_polySurface674...
+[2021.11.23-13.19.57:784][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface674.foundation_full_polySurface674
+[2021.11.23-13.19.57:788][547]LogFbx: Display: Triangulating static mesh polySurface675
+[2021.11.23-13.19.57:789][547]LogStaticMesh: Building static mesh foundation_full_polySurface675...
+[2021.11.23-13.19.57:790][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface675.foundation_full_polySurface675
+[2021.11.23-13.19.57:793][547]LogFbx: Display: Triangulating static mesh polySurface676
+[2021.11.23-13.19.57:794][547]LogStaticMesh: Building static mesh foundation_full_polySurface676...
+[2021.11.23-13.19.57:795][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface676.foundation_full_polySurface676
+[2021.11.23-13.19.57:798][547]LogFbx: Display: Triangulating static mesh polySurface677
+[2021.11.23-13.19.57:799][547]LogStaticMesh: Building static mesh foundation_full_polySurface677...
+[2021.11.23-13.19.57:800][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface677.foundation_full_polySurface677
+[2021.11.23-13.19.57:803][547]LogFbx: Display: Triangulating static mesh polySurface678
+[2021.11.23-13.19.57:804][547]LogStaticMesh: Building static mesh foundation_full_polySurface678...
+[2021.11.23-13.19.57:806][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface678.foundation_full_polySurface678
+[2021.11.23-13.19.57:808][547]LogFbx: Display: Triangulating static mesh polySurface679
+[2021.11.23-13.19.57:809][547]LogStaticMesh: Building static mesh foundation_full_polySurface679...
+[2021.11.23-13.19.57:810][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface679.foundation_full_polySurface679
+[2021.11.23-13.19.57:813][547]LogFbx: Display: Triangulating static mesh polySurface680
+[2021.11.23-13.19.57:814][547]LogStaticMesh: Building static mesh foundation_full_polySurface680...
+[2021.11.23-13.19.57:816][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface680.foundation_full_polySurface680
+[2021.11.23-13.19.57:819][547]LogFbx: Display: Triangulating static mesh polySurface681
+[2021.11.23-13.19.57:819][547]LogStaticMesh: Building static mesh foundation_full_polySurface681...
+[2021.11.23-13.19.57:821][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface681.foundation_full_polySurface681
+[2021.11.23-13.19.57:824][547]LogFbx: Display: Triangulating static mesh polySurface682
+[2021.11.23-13.19.57:824][547]LogStaticMesh: Building static mesh foundation_full_polySurface682...
+[2021.11.23-13.19.57:826][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface682.foundation_full_polySurface682
+[2021.11.23-13.19.57:829][547]LogFbx: Display: Triangulating static mesh polySurface683
+[2021.11.23-13.19.57:829][547]LogStaticMesh: Building static mesh foundation_full_polySurface683...
+[2021.11.23-13.19.57:831][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface683.foundation_full_polySurface683
+[2021.11.23-13.19.57:834][547]LogFbx: Display: Triangulating static mesh polySurface684
+[2021.11.23-13.19.57:835][547]LogStaticMesh: Building static mesh foundation_full_polySurface684...
+[2021.11.23-13.19.57:836][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface684.foundation_full_polySurface684
+[2021.11.23-13.19.57:839][547]LogFbx: Display: Triangulating static mesh polySurface685
+[2021.11.23-13.19.57:840][547]LogStaticMesh: Building static mesh foundation_full_polySurface685...
+[2021.11.23-13.19.57:841][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface685.foundation_full_polySurface685
+[2021.11.23-13.19.57:844][547]LogFbx: Display: Triangulating static mesh polySurface686
+[2021.11.23-13.19.57:845][547]LogStaticMesh: Building static mesh foundation_full_polySurface686...
+[2021.11.23-13.19.57:846][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface686.foundation_full_polySurface686
+[2021.11.23-13.19.57:849][547]LogFbx: Display: Triangulating static mesh polySurface687
+[2021.11.23-13.19.57:850][547]LogStaticMesh: Building static mesh foundation_full_polySurface687...
+[2021.11.23-13.19.57:851][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface687.foundation_full_polySurface687
+[2021.11.23-13.19.57:854][547]LogFbx: Display: Triangulating static mesh polySurface688
+[2021.11.23-13.19.57:855][547]LogStaticMesh: Building static mesh foundation_full_polySurface688...
+[2021.11.23-13.19.57:856][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface688.foundation_full_polySurface688
+[2021.11.23-13.19.57:859][547]LogFbx: Display: Triangulating static mesh polySurface689
+[2021.11.23-13.19.57:860][547]LogStaticMesh: Building static mesh foundation_full_polySurface689...
+[2021.11.23-13.19.57:861][547]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface689.foundation_full_polySurface689
+[2021.11.23-13.19.57:917][547]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.23-13.19.58:191][552]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.11.23-13.19.58:202][552]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.11.23-13.19.58:202][552]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.11.23-13.19.58:202][552]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.11.23-13.19.58:225][552]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2021.11.23-13.19.58:266][553]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2021.11.23-13.19.58:266][553]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2021.11.23-13.19.58:266][553]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2021.11.23-13.19.58:266][553]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2021.11.23-13.19.58:266][553]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2021.11.23-13.19.58:266][553]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2021.11.23-13.19.58:266][553]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2021.11.23-13.19.59:584][674]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-13.19.59:589][674]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-13.20.00:232][727]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2021.11.23-13.20.00:232][727]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.23-13.20.00:375][740]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2021.11.23-13.20.00:375][740]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.11.23-13.20.04:233][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.11.23-13.20.05:488][ 70]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-13.20.05:541][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.23-13.20.07:190][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.23-13.20.07:902][265]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-13.20.07:937][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.11.23-13.20.10:972][390]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\uni\year 3\3D VR project\3D\fishing lodge\foundation full.fbx)
+[2021.11.23-13.20.10:978][390]LogFbx: Loading FBX Scene from D:\uni\year 3\3D VR project\3D\fishing lodge\foundation full.fbx
+[2021.11.23-13.20.11:000][390]LogFbx: FBX Scene Loaded Succesfully
+[2021.11.23-13.20.11:980][390]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.11.23-13.20.11:994][390]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: DFF124C2A1EB50D9534A61E88C7B8042E3A5D38F), compiling. 
+[2021.11.23-13.20.11:999][390]LogFbx: Display: Triangulating static mesh polySurface618
+[2021.11.23-13.20.12:047][390]LogStaticMesh: Building static mesh foundation_full_polySurface618...
+[2021.11.23-13.20.12:048][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface618.foundation_full_polySurface618
+[2021.11.23-13.20.12:051][390]LogFbx: Display: Triangulating static mesh polySurface619
+[2021.11.23-13.20.12:052][390]LogStaticMesh: Building static mesh foundation_full_polySurface619...
+[2021.11.23-13.20.12:053][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface619.foundation_full_polySurface619
+[2021.11.23-13.20.12:056][390]LogFbx: Display: Triangulating static mesh polySurface620
+[2021.11.23-13.20.12:057][390]LogStaticMesh: Building static mesh foundation_full_polySurface620...
+[2021.11.23-13.20.12:058][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface620.foundation_full_polySurface620
+[2021.11.23-13.20.12:061][390]LogFbx: Display: Triangulating static mesh polySurface621
+[2021.11.23-13.20.12:062][390]LogStaticMesh: Building static mesh foundation_full_polySurface621...
+[2021.11.23-13.20.12:063][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface621.foundation_full_polySurface621
+[2021.11.23-13.20.12:066][390]LogFbx: Display: Triangulating static mesh polySurface622
+[2021.11.23-13.20.12:067][390]LogStaticMesh: Building static mesh foundation_full_polySurface622...
+[2021.11.23-13.20.12:068][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface622.foundation_full_polySurface622
+[2021.11.23-13.20.12:071][390]LogFbx: Display: Triangulating static mesh polySurface623
+[2021.11.23-13.20.12:072][390]LogStaticMesh: Building static mesh foundation_full_polySurface623...
+[2021.11.23-13.20.12:073][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface623.foundation_full_polySurface623
+[2021.11.23-13.20.12:076][390]LogFbx: Display: Triangulating static mesh polySurface624
+[2021.11.23-13.20.12:077][390]LogStaticMesh: Building static mesh foundation_full_polySurface624...
+[2021.11.23-13.20.12:078][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface624.foundation_full_polySurface624
+[2021.11.23-13.20.12:081][390]LogFbx: Display: Triangulating static mesh polySurface625
+[2021.11.23-13.20.12:082][390]LogStaticMesh: Building static mesh foundation_full_polySurface625...
+[2021.11.23-13.20.12:083][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface625.foundation_full_polySurface625
+[2021.11.23-13.20.12:086][390]LogFbx: Display: Triangulating static mesh polySurface626
+[2021.11.23-13.20.12:087][390]LogStaticMesh: Building static mesh foundation_full_polySurface626...
+[2021.11.23-13.20.12:088][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface626.foundation_full_polySurface626
+[2021.11.23-13.20.12:091][390]LogFbx: Display: Triangulating static mesh polySurface627
+[2021.11.23-13.20.12:092][390]LogStaticMesh: Building static mesh foundation_full_polySurface627...
+[2021.11.23-13.20.12:093][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface627.foundation_full_polySurface627
+[2021.11.23-13.20.12:096][390]LogFbx: Display: Triangulating static mesh polySurface628
+[2021.11.23-13.20.12:097][390]LogStaticMesh: Building static mesh foundation_full_polySurface628...
+[2021.11.23-13.20.12:098][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface628.foundation_full_polySurface628
+[2021.11.23-13.20.12:101][390]LogFbx: Display: Triangulating static mesh polySurface629
+[2021.11.23-13.20.12:102][390]LogStaticMesh: Building static mesh foundation_full_polySurface629...
+[2021.11.23-13.20.12:103][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface629.foundation_full_polySurface629
+[2021.11.23-13.20.12:107][390]LogFbx: Display: Triangulating static mesh polySurface630
+[2021.11.23-13.20.12:108][390]LogStaticMesh: Building static mesh foundation_full_polySurface630...
+[2021.11.23-13.20.12:109][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface630.foundation_full_polySurface630
+[2021.11.23-13.20.12:112][390]LogFbx: Display: Triangulating static mesh polySurface631
+[2021.11.23-13.20.12:113][390]LogStaticMesh: Building static mesh foundation_full_polySurface631...
+[2021.11.23-13.20.12:115][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface631.foundation_full_polySurface631
+[2021.11.23-13.20.12:118][390]LogFbx: Display: Triangulating static mesh polySurface632
+[2021.11.23-13.20.12:118][390]LogStaticMesh: Building static mesh foundation_full_polySurface632...
+[2021.11.23-13.20.12:120][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface632.foundation_full_polySurface632
+[2021.11.23-13.20.12:122][390]LogFbx: Display: Triangulating static mesh polySurface633
+[2021.11.23-13.20.12:123][390]LogStaticMesh: Building static mesh foundation_full_polySurface633...
+[2021.11.23-13.20.12:124][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface633.foundation_full_polySurface633
+[2021.11.23-13.20.12:128][390]LogFbx: Display: Triangulating static mesh polySurface634
+[2021.11.23-13.20.12:128][390]LogStaticMesh: Building static mesh foundation_full_polySurface634...
+[2021.11.23-13.20.12:130][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface634.foundation_full_polySurface634
+[2021.11.23-13.20.12:133][390]LogFbx: Display: Triangulating static mesh polySurface635
+[2021.11.23-13.20.12:133][390]LogStaticMesh: Building static mesh foundation_full_polySurface635...
+[2021.11.23-13.20.12:135][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface635.foundation_full_polySurface635
+[2021.11.23-13.20.12:138][390]LogFbx: Display: Triangulating static mesh polySurface636
+[2021.11.23-13.20.12:138][390]LogStaticMesh: Building static mesh foundation_full_polySurface636...
+[2021.11.23-13.20.12:140][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface636.foundation_full_polySurface636
+[2021.11.23-13.20.12:142][390]LogFbx: Display: Triangulating static mesh polySurface637
+[2021.11.23-13.20.12:143][390]LogStaticMesh: Building static mesh foundation_full_polySurface637...
+[2021.11.23-13.20.12:144][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface637.foundation_full_polySurface637
+[2021.11.23-13.20.12:148][390]LogFbx: Display: Triangulating static mesh polySurface638
+[2021.11.23-13.20.12:149][390]LogStaticMesh: Building static mesh foundation_full_polySurface638...
+[2021.11.23-13.20.12:150][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface638.foundation_full_polySurface638
+[2021.11.23-13.20.12:153][390]LogFbx: Display: Triangulating static mesh polySurface639
+[2021.11.23-13.20.12:154][390]LogStaticMesh: Building static mesh foundation_full_polySurface639...
+[2021.11.23-13.20.12:155][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface639.foundation_full_polySurface639
+[2021.11.23-13.20.12:158][390]LogFbx: Display: Triangulating static mesh polySurface640
+[2021.11.23-13.20.12:159][390]LogStaticMesh: Building static mesh foundation_full_polySurface640...
+[2021.11.23-13.20.12:160][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface640.foundation_full_polySurface640
+[2021.11.23-13.20.12:163][390]LogFbx: Display: Triangulating static mesh polySurface641
+[2021.11.23-13.20.12:163][390]LogStaticMesh: Building static mesh foundation_full_polySurface641...
+[2021.11.23-13.20.12:165][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface641.foundation_full_polySurface641
+[2021.11.23-13.20.12:168][390]LogFbx: Display: Triangulating static mesh polySurface642
+[2021.11.23-13.20.12:169][390]LogStaticMesh: Building static mesh foundation_full_polySurface642...
+[2021.11.23-13.20.12:170][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface642.foundation_full_polySurface642
+[2021.11.23-13.20.12:173][390]LogFbx: Display: Triangulating static mesh polySurface643
+[2021.11.23-13.20.12:174][390]LogStaticMesh: Building static mesh foundation_full_polySurface643...
+[2021.11.23-13.20.12:175][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface643.foundation_full_polySurface643
+[2021.11.23-13.20.12:178][390]LogFbx: Display: Triangulating static mesh polySurface644
+[2021.11.23-13.20.12:178][390]LogStaticMesh: Building static mesh foundation_full_polySurface644...
+[2021.11.23-13.20.12:180][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface644.foundation_full_polySurface644
+[2021.11.23-13.20.12:183][390]LogFbx: Display: Triangulating static mesh polySurface645
+[2021.11.23-13.20.12:184][390]LogStaticMesh: Building static mesh foundation_full_polySurface645...
+[2021.11.23-13.20.12:185][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface645.foundation_full_polySurface645
+[2021.11.23-13.20.12:188][390]LogFbx: Display: Triangulating static mesh polySurface646
+[2021.11.23-13.20.12:189][390]LogStaticMesh: Building static mesh foundation_full_polySurface646...
+[2021.11.23-13.20.12:191][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface646.foundation_full_polySurface646
+[2021.11.23-13.20.12:201][390]LogFbx: Display: Triangulating static mesh polySurface647
+[2021.11.23-13.20.12:202][390]LogStaticMesh: Building static mesh foundation_full_polySurface647...
+[2021.11.23-13.20.12:203][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface647.foundation_full_polySurface647
+[2021.11.23-13.20.12:207][390]LogFbx: Display: Triangulating static mesh polySurface648
+[2021.11.23-13.20.12:207][390]LogStaticMesh: Building static mesh foundation_full_polySurface648...
+[2021.11.23-13.20.12:209][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface648.foundation_full_polySurface648
+[2021.11.23-13.20.12:212][390]LogFbx: Display: Triangulating static mesh polySurface649
+[2021.11.23-13.20.12:212][390]LogStaticMesh: Building static mesh foundation_full_polySurface649...
+[2021.11.23-13.20.12:214][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface649.foundation_full_polySurface649
+[2021.11.23-13.20.12:216][390]LogFbx: Display: Triangulating static mesh polySurface650
+[2021.11.23-13.20.12:217][390]LogStaticMesh: Building static mesh foundation_full_polySurface650...
+[2021.11.23-13.20.12:218][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface650.foundation_full_polySurface650
+[2021.11.23-13.20.12:221][390]LogFbx: Display: Triangulating static mesh polySurface651
+[2021.11.23-13.20.12:222][390]LogStaticMesh: Building static mesh foundation_full_polySurface651...
+[2021.11.23-13.20.12:223][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface651.foundation_full_polySurface651
+[2021.11.23-13.20.12:226][390]LogFbx: Display: Triangulating static mesh polySurface652
+[2021.11.23-13.20.12:227][390]LogStaticMesh: Building static mesh foundation_full_polySurface652...
+[2021.11.23-13.20.12:228][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface652.foundation_full_polySurface652
+[2021.11.23-13.20.12:231][390]LogFbx: Display: Triangulating static mesh polySurface653
+[2021.11.23-13.20.12:231][390]LogStaticMesh: Building static mesh foundation_full_polySurface653...
+[2021.11.23-13.20.12:233][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface653.foundation_full_polySurface653
+[2021.11.23-13.20.12:236][390]LogFbx: Display: Triangulating static mesh polySurface654
+[2021.11.23-13.20.12:236][390]LogStaticMesh: Building static mesh foundation_full_polySurface654...
+[2021.11.23-13.20.12:238][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface654.foundation_full_polySurface654
+[2021.11.23-13.20.12:241][390]LogFbx: Display: Triangulating static mesh polySurface655
+[2021.11.23-13.20.12:241][390]LogStaticMesh: Building static mesh foundation_full_polySurface655...
+[2021.11.23-13.20.12:243][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface655.foundation_full_polySurface655
+[2021.11.23-13.20.12:246][390]LogFbx: Display: Triangulating static mesh polySurface656
+[2021.11.23-13.20.12:246][390]LogStaticMesh: Building static mesh foundation_full_polySurface656...
+[2021.11.23-13.20.12:248][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface656.foundation_full_polySurface656
+[2021.11.23-13.20.12:251][390]LogFbx: Display: Triangulating static mesh polySurface657
+[2021.11.23-13.20.12:251][390]LogStaticMesh: Building static mesh foundation_full_polySurface657...
+[2021.11.23-13.20.12:253][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface657.foundation_full_polySurface657
+[2021.11.23-13.20.12:256][390]LogFbx: Display: Triangulating static mesh polySurface658
+[2021.11.23-13.20.12:257][390]LogStaticMesh: Building static mesh foundation_full_polySurface658...
+[2021.11.23-13.20.12:258][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface658.foundation_full_polySurface658
+[2021.11.23-13.20.12:261][390]LogFbx: Display: Triangulating static mesh polySurface659
+[2021.11.23-13.20.12:261][390]LogStaticMesh: Building static mesh foundation_full_polySurface659...
+[2021.11.23-13.20.12:263][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface659.foundation_full_polySurface659
+[2021.11.23-13.20.12:265][390]LogFbx: Display: Triangulating static mesh polySurface660
+[2021.11.23-13.20.12:266][390]LogStaticMesh: Building static mesh foundation_full_polySurface660...
+[2021.11.23-13.20.12:268][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface660.foundation_full_polySurface660
+[2021.11.23-13.20.12:271][390]LogFbx: Display: Triangulating static mesh polySurface661
+[2021.11.23-13.20.12:272][390]LogStaticMesh: Building static mesh foundation_full_polySurface661...
+[2021.11.23-13.20.12:273][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface661.foundation_full_polySurface661
+[2021.11.23-13.20.12:276][390]LogFbx: Display: Triangulating static mesh polySurface662
+[2021.11.23-13.20.12:277][390]LogStaticMesh: Building static mesh foundation_full_polySurface662...
+[2021.11.23-13.20.12:278][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface662.foundation_full_polySurface662
+[2021.11.23-13.20.12:281][390]LogFbx: Display: Triangulating static mesh polySurface663
+[2021.11.23-13.20.12:282][390]LogStaticMesh: Building static mesh foundation_full_polySurface663...
+[2021.11.23-13.20.12:283][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface663.foundation_full_polySurface663
+[2021.11.23-13.20.12:286][390]LogFbx: Display: Triangulating static mesh polySurface664
+[2021.11.23-13.20.12:287][390]LogStaticMesh: Building static mesh foundation_full_polySurface664...
+[2021.11.23-13.20.12:288][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface664.foundation_full_polySurface664
+[2021.11.23-13.20.12:291][390]LogFbx: Display: Triangulating static mesh polySurface665
+[2021.11.23-13.20.12:292][390]LogStaticMesh: Building static mesh foundation_full_polySurface665...
+[2021.11.23-13.20.12:294][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface665.foundation_full_polySurface665
+[2021.11.23-13.20.12:297][390]LogFbx: Display: Triangulating static mesh polySurface666
+[2021.11.23-13.20.12:297][390]LogStaticMesh: Building static mesh foundation_full_polySurface666...
+[2021.11.23-13.20.12:299][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface666.foundation_full_polySurface666
+[2021.11.23-13.20.12:301][390]LogFbx: Display: Triangulating static mesh polySurface667
+[2021.11.23-13.20.12:302][390]LogStaticMesh: Building static mesh foundation_full_polySurface667...
+[2021.11.23-13.20.12:304][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface667.foundation_full_polySurface667
+[2021.11.23-13.20.12:306][390]LogFbx: Display: Triangulating static mesh polySurface668
+[2021.11.23-13.20.12:307][390]LogStaticMesh: Building static mesh foundation_full_polySurface668...
+[2021.11.23-13.20.12:308][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface668.foundation_full_polySurface668
+[2021.11.23-13.20.12:311][390]LogFbx: Display: Triangulating static mesh polySurface669
+[2021.11.23-13.20.12:312][390]LogStaticMesh: Building static mesh foundation_full_polySurface669...
+[2021.11.23-13.20.12:313][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface669.foundation_full_polySurface669
+[2021.11.23-13.20.12:316][390]LogFbx: Display: Triangulating static mesh polySurface670
+[2021.11.23-13.20.12:317][390]LogStaticMesh: Building static mesh foundation_full_polySurface670...
+[2021.11.23-13.20.12:318][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface670.foundation_full_polySurface670
+[2021.11.23-13.20.12:321][390]LogFbx: Display: Triangulating static mesh polySurface671
+[2021.11.23-13.20.12:322][390]LogStaticMesh: Building static mesh foundation_full_polySurface671...
+[2021.11.23-13.20.12:323][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface671.foundation_full_polySurface671
+[2021.11.23-13.20.12:326][390]LogFbx: Display: Triangulating static mesh polySurface672
+[2021.11.23-13.20.12:327][390]LogStaticMesh: Building static mesh foundation_full_polySurface672...
+[2021.11.23-13.20.12:328][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface672.foundation_full_polySurface672
+[2021.11.23-13.20.12:331][390]LogFbx: Display: Triangulating static mesh polySurface673
+[2021.11.23-13.20.12:332][390]LogStaticMesh: Building static mesh foundation_full_polySurface673...
+[2021.11.23-13.20.12:333][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface673.foundation_full_polySurface673
+[2021.11.23-13.20.12:336][390]LogFbx: Display: Triangulating static mesh polySurface674
+[2021.11.23-13.20.12:337][390]LogStaticMesh: Building static mesh foundation_full_polySurface674...
+[2021.11.23-13.20.12:338][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface674.foundation_full_polySurface674
+[2021.11.23-13.20.12:342][390]LogFbx: Display: Triangulating static mesh polySurface675
+[2021.11.23-13.20.12:342][390]LogStaticMesh: Building static mesh foundation_full_polySurface675...
+[2021.11.23-13.20.12:344][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface675.foundation_full_polySurface675
+[2021.11.23-13.20.12:347][390]LogFbx: Display: Triangulating static mesh polySurface676
+[2021.11.23-13.20.12:348][390]LogStaticMesh: Building static mesh foundation_full_polySurface676...
+[2021.11.23-13.20.12:350][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface676.foundation_full_polySurface676
+[2021.11.23-13.20.12:352][390]LogFbx: Display: Triangulating static mesh polySurface677
+[2021.11.23-13.20.12:353][390]LogStaticMesh: Building static mesh foundation_full_polySurface677...
+[2021.11.23-13.20.12:354][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface677.foundation_full_polySurface677
+[2021.11.23-13.20.12:358][390]LogFbx: Display: Triangulating static mesh polySurface678
+[2021.11.23-13.20.12:359][390]LogStaticMesh: Building static mesh foundation_full_polySurface678...
+[2021.11.23-13.20.12:360][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface678.foundation_full_polySurface678
+[2021.11.23-13.20.12:363][390]LogFbx: Display: Triangulating static mesh polySurface679
+[2021.11.23-13.20.12:364][390]LogStaticMesh: Building static mesh foundation_full_polySurface679...
+[2021.11.23-13.20.12:365][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface679.foundation_full_polySurface679
+[2021.11.23-13.20.12:368][390]LogFbx: Display: Triangulating static mesh polySurface680
+[2021.11.23-13.20.12:369][390]LogStaticMesh: Building static mesh foundation_full_polySurface680...
+[2021.11.23-13.20.12:370][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface680.foundation_full_polySurface680
+[2021.11.23-13.20.12:374][390]LogFbx: Display: Triangulating static mesh polySurface681
+[2021.11.23-13.20.12:375][390]LogStaticMesh: Building static mesh foundation_full_polySurface681...
+[2021.11.23-13.20.12:376][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface681.foundation_full_polySurface681
+[2021.11.23-13.20.12:379][390]LogFbx: Display: Triangulating static mesh polySurface682
+[2021.11.23-13.20.12:380][390]LogStaticMesh: Building static mesh foundation_full_polySurface682...
+[2021.11.23-13.20.12:381][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface682.foundation_full_polySurface682
+[2021.11.23-13.20.12:384][390]LogFbx: Display: Triangulating static mesh polySurface683
+[2021.11.23-13.20.12:385][390]LogStaticMesh: Building static mesh foundation_full_polySurface683...
+[2021.11.23-13.20.12:387][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface683.foundation_full_polySurface683
+[2021.11.23-13.20.12:389][390]LogFbx: Display: Triangulating static mesh polySurface684
+[2021.11.23-13.20.12:389][390]LogStaticMesh: Building static mesh foundation_full_polySurface684...
+[2021.11.23-13.20.12:391][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface684.foundation_full_polySurface684
+[2021.11.23-13.20.12:394][390]LogFbx: Display: Triangulating static mesh polySurface685
+[2021.11.23-13.20.12:395][390]LogStaticMesh: Building static mesh foundation_full_polySurface685...
+[2021.11.23-13.20.12:396][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface685.foundation_full_polySurface685
+[2021.11.23-13.20.12:398][390]LogFbx: Display: Triangulating static mesh polySurface686
+[2021.11.23-13.20.12:399][390]LogStaticMesh: Building static mesh foundation_full_polySurface686...
+[2021.11.23-13.20.12:401][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface686.foundation_full_polySurface686
+[2021.11.23-13.20.12:403][390]LogFbx: Display: Triangulating static mesh polySurface687
+[2021.11.23-13.20.12:403][390]LogStaticMesh: Building static mesh foundation_full_polySurface687...
+[2021.11.23-13.20.12:405][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface687.foundation_full_polySurface687
+[2021.11.23-13.20.12:407][390]LogFbx: Display: Triangulating static mesh polySurface688
+[2021.11.23-13.20.12:408][390]LogStaticMesh: Building static mesh foundation_full_polySurface688...
+[2021.11.23-13.20.12:409][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface688.foundation_full_polySurface688
+[2021.11.23-13.20.12:411][390]LogFbx: Display: Triangulating static mesh polySurface689
+[2021.11.23-13.20.12:412][390]LogStaticMesh: Building static mesh foundation_full_polySurface689...
+[2021.11.23-13.20.12:413][390]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/Fishing_lodge/Foundation/foundation_full_polySurface689.foundation_full_polySurface689
+[2021.11.23-13.20.12:448][390]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.11.23-13.20.13:976][533]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-13.20.13:980][533]LogSlate: Window 'Message Log' being destroyed
+[2021.11.23-13.20.16:375][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.11.23-13.20.17:433][750]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-13.20.17:493][750]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.11.23-13.21.31:774][ 43]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-13.21.31:774][ 43]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-13.21.33:766][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.11.23-13.21.34:583][233]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-13.21.34:625][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
