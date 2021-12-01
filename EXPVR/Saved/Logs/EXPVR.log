@@ -3020,3 +3020,292 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.01-11.22.34:982][845]AssetCheck: New page: Asset Save: multiple assets
 [2021.12.01-11.22.34:982][845]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EXVR_P_BuiltData.EXVR_P_BuiltData
 [2021.12.01-11.22.34:982][845]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2021.12.01-11.25.52:337][833]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.12.01-11.25.52:353][833]LogContentBrowser: Creating deferred item: NewFolder
+[2021.12.01-11.26.00:082][761]LogContentBrowser: Attempting asset rename: NewFolder -> Football_Assrts
+[2021.12.01-11.26.00:083][761]LogContentBrowser: End creating deferred item NewFolder
+[2021.12.01-11.26.08:980][791]LogContentBrowser: Attempting asset rename: Football_Assrts -> Football_Assets
+[2021.12.01-11.26.22:040][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\football field\Football_Gate.fbx)
+[2021.12.01-11.26.22:046][ 48]LogFbx: Loading FBX Scene from D:\uni\year 3\3D VR project\3D DAT VR\football field\Football_Gate.fbx
+[2021.12.01-11.26.22:051][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-11.26.23:441][ 48]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.01-11.26.23:451][ 48]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: 8DE3B1633418518B96A2378AC8B8A84544927E56), compiling. 
+[2021.12.01-11.26.23:457][ 48]LogFbx: Display: Triangulating static mesh polySurface4
+[2021.12.01-11.26.23:506][ 48]LogStaticMesh: Building static mesh Football_Gate...
+[2021.12.01-11.26.23:514][ 48]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Alex_assets/Football_Assets/Football_Gate.Football_Gate
+[2021.12.01-11.26.23:515][ 48]LogStaticMesh: Warning: Football_Gate has some nearly zero normals which can create some issues. (Tolerance of 1E-4)
+[2021.12.01-11.26.23:515][ 48]LogStaticMesh: Warning: Football_Gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2021.12.01-11.26.23:520][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.01-11.26.23:520][ 48]FBXImport: Warning: Football_Gate has some nearly zero normals which can create some issues. (Tolerance of 1E-4) 
+[2021.12.01-11.26.23:520][ 48]FBXImport: Warning: Football_Gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2021.12.01-11.26.23:577][ 48]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\football field\Football_Seats.fbx)
+[2021.12.01-11.26.23:613][ 48]LogFbx: Loading FBX Scene from D:\uni\year 3\3D VR project\3D DAT VR\football field\Football_Seats.fbx
+[2021.12.01-11.26.23:618][ 48]LogFbx: FBX Scene Loaded Succesfully
+[2021.12.01-11.26.24:396][ 48]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.12.01-11.26.24:405][ 48]LogFbx: Display: Triangulating static mesh Tribune
+[2021.12.01-11.26.24:425][ 48]LogStaticMesh: Building static mesh Football_Seats...
+[2021.12.01-11.26.24:445][ 48]LogStaticMesh: Built static mesh [0.02s] /Game/Assets/Alex_assets/Football_Assets/Football_Seats.Football_Seats
+[2021.12.01-11.26.24:452][ 48]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.12.01-11.26.24:521][ 50]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.12.01-11.26.24:521][ 50]LogShaderCompilers: Display: Total job queries 4912, among them cache hits 4228 (86.07%)
+[2021.12.01-11.26.24:521][ 50]LogShaderCompilers: Display: Tracking 493 distinct input hashes that result in 271 distinct outputs (54.97%)
+[2021.12.01-11.26.24:521][ 50]LogShaderCompilers: Display: RAM used: 2.47 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.15%
+[2021.12.01-11.26.24:521][ 50]LogShaderCompilers: Display: ================================================
+[2021.12.01-11.26.25:865][210]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-11.26.25:869][210]LogSlate: Window 'Message Log' being destroyed
+[2021.12.01-11.26.27:886][414]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2021.12.01-11.26.28:655][414]LogSlate: Window 'Delete Assets' being destroyed
+[2021.12.01-11.26.28:664][414]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Alex_assets/Football_Assets/lambert1.lambert1
+[2021.12.01-11.26.28:885][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.12.01-11.27.15:573][304]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\football field\Textures\Football texture_lambert1_BaseColor.png)
+[2021.12.01-11.27.15:593][304]LogTexture: Display: Building textures: Football_texture_lambert1_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2021.12.01-11.27.15:646][304]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.01-11.27.15:646][304]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\football field\Textures\Football texture_lambert1_Normal.png)
+[2021.12.01-11.27.15:677][304]LogTexture: Display: Building textures: Football_texture_lambert1_Normal (OODLE_BC5, 1024X1024)
+[2021.12.01-11.27.15:696][304]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.12.01-11.27.15:696][304]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\football field\Textures\Football texture_lambert1_OcclusionRoughnessMetallic.png)
+[2021.12.01-11.27.15:721][304]LogTexture: Display: Building textures: Football_texture_lambert1_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2021.12.01-11.27.15:773][304]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.01-11.27.17:400][431]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.12.01-11.27.17:410][431]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.12.01-11.27.27:049][587]LogContentBrowser: Attempting asset rename: NewMaterial -> Football_Assets_Material
+[2021.12.01-11.27.27:050][587]LogContentBrowser: End creating deferred item NewMaterial
+[2021.12.01-11.27.28:965][773]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Alex_assets/Football_Assets/Football_Assets_Material.Football_Assets_Material
+[2021.12.01-11.27.28:966][773]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: ED1FCE677813163F6412C638F6A95DCEB9B7366E), compiling. 
+[2021.12.01-11.27.28:973][773]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.29:045][773]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: D1514B34EDBFE71CC63DF65A6F4269A8364BD909), compiling. 
+[2021.12.01-11.27.29:047][773]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 6C9F152A3104A2F628F0D6018C025AD8681FA7C9), compiling. 
+[2021.12.01-11.27.29:058][773]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.29:100][774]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.29:661][801]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.01-11.27.30:077][825]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.12.01-11.27.30:077][825]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.12.01-11.27.30:077][825]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.12.01-11.27.30:077][825]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.01-11.27.30:821][900]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: C34A6BBE051EDB04FC5CCE3D378258F6DC47C1D7), compiling. 
+[2021.12.01-11.27.30:823][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 775E0AB9F6396DE4268D81EAE02A6A528FB78A54), compiling. 
+[2021.12.01-11.27.30:824][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 02D64D71257433EA079062E3FC16B27700DAA721), compiling. 
+[2021.12.01-11.27.30:830][900]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: B4E511AAB8685B972076A92BF368538A0CB247B1), compiling. 
+[2021.12.01-11.27.30:832][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2E84AFDFAC2AA8EF3926429AB49A02E3433B906F), compiling. 
+[2021.12.01-11.27.30:833][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 5C827E6FBED2D93592E9CDF20F93174D4D5F381A), compiling. 
+[2021.12.01-11.27.30:834][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 08C9817CA69F31B2A7FDEFB2A5CFD6A8D7C7FC37), compiling. 
+[2021.12.01-11.27.30:840][900]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: FEB449B5B803CFEE0EFF4D4A7523483E0747EE3C), compiling. 
+[2021.12.01-11.27.30:841][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: E1CE820353E0192A7DF9D2A8FC7B206591EDD25F), compiling. 
+[2021.12.01-11.27.30:842][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ACD4DAAC6E4159C4A5622ABC41A57369D44643C3), compiling. 
+[2021.12.01-11.27.30:843][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0446C63CB35B8DBF5667CCF8F90EFCF4A35CD7B2), compiling. 
+[2021.12.01-11.27.30:844][900]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 51EC291616E2B27251C7D13E4936C5B9CFF9DC40), compiling. 
+[2021.12.01-11.27.30:848][900]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.01-11.27.30:883][901]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.12.01-11.27.30:883][901]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.12.01-11.27.30:883][901]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.12.01-11.27.30:883][901]MaterialEditorStats: Texture samplers: 2/16
+[2021.12.01-11.27.33:289][138]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 064E5BAC27EACFF6F3073EFE6C08EC924A87DE9E), compiling. 
+[2021.12.01-11.27.33:291][138]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3EA47FC2DFDE4D4B697A4142FC1EB715196B7B12), compiling. 
+[2021.12.01-11.27.33:293][138]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.01-11.27.33:293][138]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.01-11.27.33:293][138]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.33:303][139]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.12.01-11.27.33:313][140]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.33:755][163]MaterialEditorStats: Texture samplers: 3/16
+[2021.12.01-11.27.33:755][163]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2021.12.01-11.27.33:755][163]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.34:614][247]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 11C5D648A0CE05E79FD9429A764EF8AEE8A8B7CD), compiling. 
+[2021.12.01-11.27.34:616][247]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 0E453EBCFEC82375E03399366101329064AEFE60), compiling. 
+[2021.12.01-11.27.34:619][247]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.01-11.27.34:619][247]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.12.01-11.27.34:619][247]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.34:628][248]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.34:655][249]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.35:087][269]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.01-11.27.35:087][269]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.12.01-11.27.35:087][269]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.35:505][300]MaterialEditorStats: Base pass shader: 126 instructions
+[2021.12.01-11.27.35:505][300]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2021.12.01-11.27.35:505][300]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.12.01-11.27.35:505][300]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.01-11.27.35:505][300]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2021.12.01-11.27.35:505][300]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.38:751][652]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: D82B78947395A7EC73FE4E6098969DCAB521A369), compiling. 
+[2021.12.01-11.27.38:752][652]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: EEF14D1254C95FFB6376C0DC24B9E5F437CACDDA), compiling. 
+[2021.12.01-11.27.38:755][652]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.01-11.27.38:755][652]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.38:755][652]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.38:764][653]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.38:772][654]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.38:776][654]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.12.01-11.27.38:776][654]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.01-11.27.38:776][654]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.12.01-11.27.38:776][654]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.12.01-11.27.38:776][654]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.01-11.27.38:776][654]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.12.01-11.27.38:776][654]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.38:776][654]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.39:229][677]MaterialEditorStats: Texture samplers: 4/16
+[2021.12.01-11.27.39:229][677]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.39:229][677]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.41:229][880]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: A2857B725B51D04225F372E58BAD3F7BFF428502), compiling. 
+[2021.12.01-11.27.41:231][880]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 60B1A77439F7BB952B3788762D68043D4FB1210B), compiling. 
+[2021.12.01-11.27.41:234][880]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.01-11.27.41:234][880]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.41:234][880]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.41:243][881]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.41:252][882]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.41:706][905]MaterialEditorStats: Texture samplers: 5/16
+[2021.12.01-11.27.41:706][905]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.41:706][905]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.42:099][934]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.12.01-11.27.42:099][934]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2021.12.01-11.27.42:099][934]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.12.01-11.27.42:100][934]MaterialEditorStats: Texture samplers: 5/16
+[2021.12.01-11.27.42:100][934]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.42:100][934]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.42:889][ 13]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: CD18F76F28C43713D7B81EBF8CF0BB80B15B6037), compiling. 
+[2021.12.01-11.27.42:891][ 13]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 39264D8BCF013B49674D4A834286892BA255D8A4), compiling. 
+[2021.12.01-11.27.42:894][ 13]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.01-11.27.42:894][ 13]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.42:894][ 13]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.42:903][ 14]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.12.01-11.27.42:929][ 15]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.43:371][ 36]MaterialEditorStats: Texture samplers: 5/16
+[2021.12.01-11.27.43:371][ 36]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.43:371][ 36]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.43:777][ 66]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.12.01-11.27.43:777][ 66]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.12.01-11.27.43:777][ 66]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.12.01-11.27.43:777][ 66]MaterialEditorStats: Texture samplers: 5/16
+[2021.12.01-11.27.43:777][ 66]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.43:777][ 66]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.44:526][134]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_OcclusionRoughnessMetallic.Football_texture_lambert1_OcclusionRoughnessMetallic
+[2021.12.01-11.27.45:438][230]LogTexture: Display: Building textures: Football_texture_lambert1_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2021.12.01-11.27.45:484][230]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.12.01-11.27.45:498][230]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 26D00146958DCBFDE95EA6BA5D8D691EE86D1C07), compiling. 
+[2021.12.01-11.27.45:498][230]LogMaterial: Warning: [AssetLog] /Engine/Transient.Football_Assets_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.01-11.27.45:498][230]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_OcclusionRoughnessMetallic.Football_texture_lambert1_OcclusionRoughnessMetallic
+[2021.12.01-11.27.45:505][230]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_OcclusionRoughnessMetallic.Football_texture_lambert1_OcclusionRoughnessMetallic
+[2021.12.01-11.27.47:217][385]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 9A83EFF1544F7E0A571FD83B741C1A5C6E0186FF), compiling. 
+[2021.12.01-11.27.47:217][385]LogMaterial: Warning: [AssetLog] /Engine/Transient.Football_Assets_Material (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.12.01-11.27.47:217][385]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_OcclusionRoughnessMetallic.Football_texture_lambert1_OcclusionRoughnessMetallic
+[2021.12.01-11.27.48:300][510]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: ABC27B538A7066BD527580B3460711DA6A4F96D4), compiling. 
+[2021.12.01-11.27.48:302][510]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: A17232EC460C89E9332ABE85F7A4425AC65235B9), compiling. 
+[2021.12.01-11.27.48:303][510]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 0A9FC7A8664D066B0EED476AE04AD1F51250C4D8), compiling. 
+[2021.12.01-11.27.48:308][510]MaterialEditorStats: Texture samplers: 0/16
+[2021.12.01-11.27.48:308][510]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.48:308][510]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.48:326][511]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.48:785][538]MaterialEditorStats: Texture samplers: 5/16
+[2021.12.01-11.27.48:785][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.48:785][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.49:107][561]LogMaterialEditor: Applying material Football_Assets_Material
+[2021.12.01-11.27.49:389][561]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 95F3408B85ECA417BED93F69197054144C20DF90), compiling. 
+[2021.12.01-11.27.49:431][561]LogMaterial: Display: Missing cached shadermap for Football_Assets_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 2A4AD729B6423EDE9FF6FBAC4C85DA1353DB1D3F), compiling. 
+[2021.12.01-11.27.49:494][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.12.01-11.27.49:499][561]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.49:708][561]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2021.12.01-11.27.49:708][561]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.12.01-11.27.49:714][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.12.01-11.27.49:721][561]MaterialEditorStats: Texture samplers: 3/16
+[2021.12.01-11.27.49:721][561]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.49:721][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.49:740][563]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.49:747][563]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2021.12.01-11.27.49:747][563]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2021.12.01-11.27.49:747][563]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2021.12.01-11.27.49:747][563]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2021.12.01-11.27.49:747][563]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2021.12.01-11.27.49:747][563]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.12.01-11.27.49:752][563]MaterialEditorStats: Texture samplers: 5/16
+[2021.12.01-11.27.49:752][563]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.49:752][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.50:162][594]MaterialEditorStats: Texture samplers: 6/16
+[2021.12.01-11.27.50:162][594]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.50:162][594]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.50:175][595]MaterialEditorStats: Base pass shader: 128 instructions
+[2021.12.01-11.27.50:175][595]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2021.12.01-11.27.50:175][595]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2021.12.01-11.27.50:175][595]MaterialEditorStats: Texture samplers: 6/16
+[2021.12.01-11.27.50:175][595]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2021.12.01-11.27.50:175][595]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2021.12.01-11.27.50:272][606]LogSlate: Window 'Football_texture_lambert1_OcclusionRoughnessMetallic' being destroyed
+[2021.12.01-11.27.50:276][606]LogSlate: Window 'Football_texture_lambert1_OcclusionRoughnessMetallic' being destroyed
+[2021.12.01-11.27.50:280][606]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.12.01-11.27.50:280][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.01-11.27.52:024][793]LogActorFactory: Actor Factory created Football_Gate
+[2021.12.01-11.27.52:773][868]LogActorFactory: Actor Factory created Football_Gate
+[2021.12.01-11.27.53:102][904]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2021.12.01-11.28.24:014][479]Cmd: EDIT COPY
+[2021.12.01-11.29.04:473][ 98]LogActorFactory: Actor Factory created Football_Seats
+[2021.12.01-11.29.04:975][148]LogActorFactory: Actor Factory created Football_Seats
+[2021.12.01-11.29.25:699][549]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2021.12.01-11.29.39:505][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.01-11.29.39:511][180]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.12.01-11.29.40:877][180]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P481405994D451936EBE8AEBACFD99AFE.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2021.12.01-11.29.40:888][180]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P_BuiltData" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset" SILENT=true
+[2021.12.01-11.29.41:074][180]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P_BuiltData087A60AE4774255462E9C29386FA1123.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset'
+[2021.12.01-11.29.41:101][180]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.01-11.29.41:101][180]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EXVR_P_BuiltData.EXVR_P_BuiltData
+[2021.12.01-11.29.41:101][180]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2021.12.01-11.29.49:017][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2021.12.01-11.29.49:061][994]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Football_Gate634F99624B05C9FD63F3B9AE932EA6E5.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/Football_Assets/Football_Gate.uasset'
+[2021.12.01-11.29.49:079][994]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Football_Seats27F2C7C247A494DB76E078A61D4CCCFC.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/Football_Assets/Football_Seats.uasset'
+[2021.12.01-11.29.49:124][994]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Football_texture_lambert1_BaseCo1EA27ECA4B81A1963D6A3A84F30FEAF1.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_BaseColor.uasset'
+[2021.12.01-11.29.49:192][994]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Football_texture_lambert1_NormalF3F48B2F4C1E6D472C1C3C95B675A769.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_Normal.uasset'
+[2021.12.01-11.29.49:250][994]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Football_texture_lambert1_Occlus642E4CAA4449E16232E1C3BF5AAD6E58.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_OcclusionRoughnessMetallic.uasset'
+[2021.12.01-11.29.49:266][994]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Football_Assets_Material1DB148B7489A6D98A9E8B2A8B2A28B01.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/Football_Assets/Football_Assets_Material.uasset'
+[2021.12.01-11.29.49:279][994]AssetCheck: New page: Asset Save: multiple assets
+[2021.12.01-11.29.49:279][994]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_BaseColor.Football_texture_lambert1_BaseColor
+[2021.12.01-11.29.49:279][994]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Alex_assets/Football_Assets/Football_Seats.Football_Seats
+[2021.12.01-11.29.49:279][994]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Alex_assets/Football_Assets/Football_Gate.Football_Gate
+[2021.12.01-11.29.49:279][994]LogContentValidation: Display: Validating Material /Game/Assets/Alex_assets/Football_Assets/Football_Assets_Material.Football_Assets_Material
+[2021.12.01-11.29.49:279][994]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_OcclusionRoughnessMetallic.Football_texture_lambert1_OcclusionRoughnessMetallic
+[2021.12.01-11.29.49:279][994]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/Football_Assets/Football_texture_lambert1_Normal.Football_texture_lambert1_Normal
