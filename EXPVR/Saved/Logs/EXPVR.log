@@ -5050,3 +5050,213 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.09-08.08.58:208][353]PIE: Server logged in
 [2021.12.09-08.08.58:209][353]PIE: Play in editor total start time 0.712 seconds.
 [2021.12.09-08.08.58:273][354]LogRenderer: Reallocating scene render targets to support 2072x856 Format 10 NumSamples 1 (Frame:1).
+[2021.12.09-08.09.51:839][233]LogSlate: Window 'EXPVR Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.12.09-08.09.51:877][233]LogWorld: BeginTearingDown for /Game/UEDPIE_0_EXVR_P
+[2021.12.09-08.09.51:878][233]LogWorld: UWorld::CleanupWorld for EXVR_P, bSessionEnded=true, bCleanupResources=true
+[2021.12.09-08.09.51:882][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.09-08.09.51:892][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.12.09-08.09.51:896][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.12.09-08.09.51:906][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.09-08.09.51:907][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.12.09-08.09.51:917][233]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2021.12.09-08.09.52:179][234]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.12.09-08.10.13:825][651]Cmd: TRANSACTION UNDO
+[2021.12.09-08.10.13:825][651]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:893][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.13:894][651]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.13:894][651]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:011][812]Cmd: TRANSACTION UNDO
+[2021.12.09-08.10.18:011][812]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:056][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.18:057][812]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.31:778][456]Cmd: MODE GRID=0
+[2021.12.09-08.10.33:642][541]Cmd: TRANSACTION UNDO
+[2021.12.09-08.10.33:642][541]LogEditorTransaction: Undo Modify Landscape Spline Control Point
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:679][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2021.12.09-08.10.33:680][541]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2021.12.09-08.10.35:074][609]Cmd: MODE ROTGRID=0
+[2021.12.09-08.11.20:909][835]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.12.09-08.11.20:933][835]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.09-08.11.20:938][835]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.12.09-08.11.21:055][835]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2021.12.09-08.11.21:057][835]LogTexture: Display: Building textures: Texture2D_22 (BGRA8, 512X512)
+[2021.12.09-08.11.21:061][835]LogTexture: Display: Building textures: Texture2D_78 (BGRA8, 128X128)
+[2021.12.09-08.11.21:062][835]LogTexture: Display: Building textures: Texture2D_79 (BGRA8, 128X128)
+[2021.12.09-08.11.21:063][835]LogTexture: Display: Building textures: Texture2D_84 (BGRA8, 128X128)
+[2021.12.09-08.11.21:064][835]LogTexture: Display: Building textures: Texture2D_85 (BGRA8, 128X128)
+[2021.12.09-08.11.21:064][835]LogTexture: Display: Building textures: Texture2D_86 (BGRA8, 128X128)
+[2021.12.09-08.11.21:065][835]LogTexture: Display: Building textures: Texture2D_87 (BGRA8, 128X128)
+[2021.12.09-08.11.21:066][835]LogTexture: Display: Building textures: Texture2D_92 (BGRA8, 128X128)
+[2021.12.09-08.11.21:067][835]LogTexture: Display: Building textures: Texture2D_93 (BGRA8, 128X128)
+[2021.12.09-08.11.21:067][835]LogTexture: Display: Building textures: Texture2D_94 (BGRA8, 128X128)
+[2021.12.09-08.11.21:069][835]LogTexture: Display: Building textures: Texture2D_95 (BGRA8, 128X128)
+[2021.12.09-08.11.21:069][835]LogTexture: Display: Building textures: Texture2D_101 (BGRA8, 128X128)
+[2021.12.09-08.11.21:070][835]LogTexture: Display: Building textures: Texture2D_102 (BGRA8, 128X128)
+[2021.12.09-08.11.21:071][835]LogTexture: Display: Building textures: Texture2D_103 (BGRA8, 128X128)
+[2021.12.09-08.11.21:072][835]LogTexture: Display: Building textures: Texture2D_105 (BGRA8, 128X128)
+[2021.12.09-08.11.21:073][835]LogTexture: Display: Building textures: Texture2D_106 (BGRA8, 128X128)
+[2021.12.09-08.11.21:073][835]LogTexture: Display: Building textures: Texture2D_108 (BGRA8, 128X128)
+[2021.12.09-08.11.21:074][835]LogTexture: Display: Building textures: Texture2D_109 (BGRA8, 128X128)
+[2021.12.09-08.11.21:075][835]LogTexture: Display: Building textures: Texture2D_110 (BGRA8, 512X512)
+[2021.12.09-08.11.21:078][835]LogTexture: Display: Building textures: Texture2D_111 (BGRA8, 512X512)
+[2021.12.09-08.11.21:082][835]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 512X512)
+[2021.12.09-08.11.21:086][835]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 512X512)
+[2021.12.09-08.11.21:090][835]LogTexture: Display: Building textures: Texture2D_118 (BGRA8, 128X128)
+[2021.12.09-08.11.21:091][835]LogTexture: Display: Building textures: Texture2D_119 (BGRA8, 128X128)
+[2021.12.09-08.11.21:092][835]LogTexture: Display: Building textures: Texture2D_124 (BGRA8, 128X128)
+[2021.12.09-08.11.21:093][835]LogTexture: Display: Building textures: Texture2D_125 (BGRA8, 128X128)
+[2021.12.09-08.11.21:094][835]LogTexture: Display: Building textures: Texture2D_133 (BGRA8, 128X128)
+[2021.12.09-08.11.21:094][835]LogTexture: Display: Building textures: Texture2D_134 (BGRA8, 128X128)
+[2021.12.09-08.11.21:095][835]LogTexture: Display: Building textures: Texture2D_137 (BGRA8, 128X128)
+[2021.12.09-08.11.21:096][835]LogTexture: Display: Building textures: Texture2D_138 (BGRA8, 128X128)
+[2021.12.09-08.11.21:097][835]LogTexture: Display: Building textures: Texture2D_169 (BGRA8, 128X128)
+[2021.12.09-08.11.21:097][835]LogTexture: Display: Building textures: Texture2D_170 (BGRA8, 128X128)
+[2021.12.09-08.11.21:098][835]LogTexture: Display: Building textures: Texture2D_197 (BGRA8, 128X128)
+[2021.12.09-08.11.21:099][835]LogTexture: Display: Building textures: Texture2D_207 (BGRA8, 128X128)
+[2021.12.09-08.11.21:100][835]LogTexture: Display: Building textures: Texture2D_215 (BGRA8, 128X128)
+[2021.12.09-08.11.21:100][835]LogTexture: Display: Building textures: Texture2D_216 (BGRA8, 128X128)
+[2021.12.09-08.11.21:101][835]LogTexture: Display: Building textures: Texture2D_224 (BGRA8, 128X128)
+[2021.12.09-08.11.21:102][835]LogTexture: Display: Building textures: Texture2D_229 (BGRA8, 128X128)
+[2021.12.09-08.11.21:103][835]LogTexture: Display: Building textures: Texture2D_285 (BGRA8, 128X128)
+[2021.12.09-08.11.21:104][835]LogTexture: Display: Building textures: Texture2D_294 (BGRA8, 128X128)
+[2021.12.09-08.11.21:104][835]LogTexture: Display: Building textures: Texture2D_308 (BGRA8, 128X128)
+[2021.12.09-08.11.21:105][835]LogTexture: Display: Building textures: Texture2D_316 (BGRA8, 128X128)
+[2021.12.09-08.11.21:106][835]LogTexture: Display: Building textures: Texture2D_680 (BGRA8, 128X128)
+[2021.12.09-08.11.21:107][835]LogTexture: Display: Building textures: Texture2D_681 (BGRA8, 128X128)
+[2021.12.09-08.11.21:108][835]LogTexture: Display: Building textures: Texture2D_682 (BGRA8, 128X128)
+[2021.12.09-08.11.21:109][835]LogTexture: Display: Building textures: Texture2D_720 (BGRA8, 128X128)
+[2021.12.09-08.11.21:109][835]LogTexture: Display: Building textures: Texture2D_727 (BGRA8, 128X128)
+[2021.12.09-08.11.21:110][835]LogTexture: Display: Building textures: Texture2D_728 (BGRA8, 128X128)
+[2021.12.09-08.11.21:111][835]LogTexture: Display: Building textures: Texture2D_736 (BGRA8, 128X128)
+[2021.12.09-08.11.21:111][835]LogTexture: Display: Building textures: Texture2D_738 (BGRA8, 128X128)
+[2021.12.09-08.11.21:112][835]LogTexture: Display: Building textures: Texture2D_741 (BGRA8, 128X128)
+[2021.12.09-08.11.21:113][835]LogTexture: Display: Building textures: Texture2D_780 (BGRA8, 128X128)
+[2021.12.09-08.11.21:114][835]LogTexture: Display: Building textures: Texture2D_789 (BGRA8, 128X128)
+[2021.12.09-08.11.21:114][835]LogTexture: Display: Building textures: Texture2D_797 (BGRA8, 128X128)
+[2021.12.09-08.11.21:116][835]LogTexture: Display: Building textures: Texture2D_806 (BGRA8, 128X128)
+[2021.12.09-08.11.21:116][835]LogTexture: Display: Building textures: Texture2D_816 (BGRA8, 128X128)
+[2021.12.09-08.11.21:117][835]LogTexture: Display: Building textures: Texture2D_819 (BGRA8, 128X128)
+[2021.12.09-08.11.21:118][835]LogTexture: Display: Building textures: Texture2D_820 (BGRA8, 128X128)
+[2021.12.09-08.11.21:119][835]LogTexture: Display: Building textures: Texture2D_828 (BGRA8, 128X128)
+[2021.12.09-08.11.21:121][835]LogTexture: Display: Building textures: Texture2D_860 (BGRA8, 128X128)
+[2021.12.09-08.11.21:121][835]LogTexture: Display: Building textures: Texture2D_861 (BGRA8, 128X128)
+[2021.12.09-08.11.21:122][835]LogTexture: Display: Building textures: Texture2D_868 (BGRA8, 128X128)
+[2021.12.09-08.11.21:123][835]LogTexture: Display: Building textures: Texture2D_869 (BGRA8, 128X128)
+[2021.12.09-08.11.21:125][835]LogTexture: Display: Building textures: Texture2D_1606 (BGRA8, 128X128)
+[2021.12.09-08.11.21:126][835]LogTexture: Display: Building textures: Texture2D_1632 (BGRA8, 128X128)
+[2021.12.09-08.11.21:129][835]LogTexture: Display: Building textures: Texture2D_1935 (BGRA8, 128X128)
+[2021.12.09-08.11.21:132][835]LogTexture: Display: Building textures: Texture2D_2032 (BGRA8, 128X128)
+[2021.12.09-08.11.21:134][835]LogTexture: Display: Building textures: Texture2D_2033 (BGRA8, 128X128)
+[2021.12.09-08.11.21:136][835]LogTexture: Display: Building textures: Texture2D_2041 (BGRA8, 128X128)
+[2021.12.09-08.11.21:136][835]LogTexture: Display: Building textures: Texture2D_2042 (BGRA8, 128X128)
+[2021.12.09-08.11.21:137][835]LogTexture: Display: Building textures: Texture2D_2053 (BGRA8, 128X128)
+[2021.12.09-08.11.21:138][835]LogTexture: Display: Building textures: Texture2D_2060 (BGRA8, 128X128)
+[2021.12.09-08.11.21:139][835]LogTexture: Display: Building textures: Texture2D_2067 (BGRA8, 128X128)
+[2021.12.09-08.11.21:140][835]LogTexture: Display: Building textures: Texture2D_2074 (BGRA8, 128X128)
+[2021.12.09-08.11.23:925][835]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P05404A684E5EA94392736085E3B5827A.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2021.12.09-08.11.23:938][835]LogFileHelpers: Saving map 'EXVR_P' took 3.007
+[2021.12.09-08.11.23:961][835]AssetCheck: New page: Asset Save: EXVR_P
+[2021.12.09-08.11.23:961][835]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
