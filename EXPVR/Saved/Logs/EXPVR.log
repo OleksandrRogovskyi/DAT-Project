@@ -5260,3 +5260,13 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.12.09-08.11.23:938][835]LogFileHelpers: Saving map 'EXVR_P' took 3.007
 [2021.12.09-08.11.23:961][835]AssetCheck: New page: Asset Save: EXVR_P
 [2021.12.09-08.11.23:961][835]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2021.12.09-08.12.14:621][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tunnel_entrance)
+[2021.12.09-08.12.21:965][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Massive_Nordic_Coastal_Cliff_LOD0_vdssailfa4)
+[2021.12.09-08.12.22:404][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2021.12.09-08.12.28:411][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2021.12.09-08.12.28:437][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.12.09-08.12.28:442][763]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.12.09-08.12.31:295][763]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P8A1808154015F0B3E5028389FDB0E4A4.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2021.12.09-08.12.31:308][763]LogFileHelpers: Saving map 'EXVR_P' took 2.872
+[2021.12.09-08.12.31:320][763]AssetCheck: New page: Asset Save: EXVR_P
+[2021.12.09-08.12.31:320][763]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
