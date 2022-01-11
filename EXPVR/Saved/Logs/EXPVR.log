@@ -4896,3 +4896,1283 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.11-14.48.16:131][ 46]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/Store/Store_2_lambert1_Emissive.Store_2_lambert1_Emissive
 [2022.01.11-14.48.16:131][ 46]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/Store/Store_2_lambert1_BaseColor.Store_2_lambert1_BaseColor
 [2022.01.11-14.48.16:131][ 46]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Alex_assets/Store/Store.Store
+[2022.01.11-14.48.58:882][274]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-14.48.58:882][274]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-14.49.54:995][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Spool_01a3)
+[2022.01.11-14.49.55:453][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_WaterTank_01a11)
+[2022.01.11-14.49.56:030][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_Barrel_3)
+[2022.01.11-14.50.13:064][287]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-14.50.13:451][313]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Stained_Concrete_Pillar_LOD4_ukigcctfa)
+[2022.01.11-14.50.14:273][385]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Concrete_Pillar_LOD4_ujkgddqva)
+[2022.01.11-14.50.59:205][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2022.01.11-14.51.26:488][953]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Road/Fine_Road_viciaalew/Road.Road
+[2022.01.11-14.51.27:569][953]LogSlate: Took 0.036745 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.11-14.51.29:672][ 79]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Fine_Road_viciaalew/Fine_Road_viciaalew_inst.Fine_Road_viciaalew_inst
+[2022.01.11-14.52.03:054][300]LogTexture: Display: Building textures: Displacement_4K_viciaalew (OODLE_BC4, 4096X4096)
+[2022.01.11-14.52.03:054][300]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.11-14.52.03:054][300]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.11-14.52.03:054][300]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.11-15.00.01:363][183]LogSlate: Window 'Fine_Road_viciaalew_inst' being destroyed
+[2022.01.11-15.00.01:370][183]LogSlate: Window 'Fine_Road_viciaalew_inst' being destroyed
+[2022.01.11-15.00.01:411][183]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-15.00.01:411][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-15.00.01:824][183]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-15.00.01:824][183]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-15.00.38:184][469]LogSlate: Window 'FBX Export Options' being destroyed
+[2022.01.11-15.00.38:214][469]LogFbx: Warning: FBX version number for this version of the FBX SDK is 7.7.0
+
+
+[2022.01.11-15.02.30:713][799]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-15.02.31:366][842]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-15.03.39:751][  3]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-15.03.42:716][213]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-15.03.45:309][410]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-15.03.51:456][879]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-15.07.22:970][704]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-15.57.56:562][311]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-15.57.56:563][311]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-15.58.07:216][ 86]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.01.11-15.58.07:233][ 86]LogContentBrowser: Creating deferred item: NewFolder
+[2022.01.11-15.58.09:291][258]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-15.58.09:291][258]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-15.58.10:429][355]LogContentBrowser: Attempting asset rename: NewFolder -> road
+[2022.01.11-15.58.10:429][355]LogContentBrowser: End creating deferred item NewFolder
+[2022.01.11-15.58.20:178][507]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\road mesh\road export.fbx)
+[2022.01.11-15.58.20:184][507]LogFbx: Loading FBX Scene from D:\uni\year 3\3D VR project\3D DAT VR\road mesh\road export.fbx
+[2022.01.11-15.58.20:189][507]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.11-15.58.21:720][507]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.01.11-15.58.21:755][507]LogMaterial: Display: Missing cached shadermap for alex_s_spin_off_on_the_road in PCD3D_SM5, Default, SM5 (DDC key hash: 7F3CFAFCEC1E6062C5CA9AA8913ABCA8B7A16858), compiling. 
+[2022.01.11-15.58.21:826][507]LogFbx: Display: Triangulating static mesh road_mine
+[2022.01.11-15.58.22:074][507]LogStaticMesh: Building static mesh road_export...
+[2022.01.11-15.58.22:076][507]LogStaticMesh: Built static mesh [0.00s] /Game/Assets/Alex_assets/road/road_export.road_export
+[2022.01.11-15.58.22:083][507]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.01.11-15.58.22:234][512]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.58.22:238][512]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.58.22:238][512]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.58.22:238][512]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.58.22:244][512]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.01.11-15.58.22:349][518]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.01.11-15.58.22:349][518]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.11-15.58.22:349][518]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.01.11-15.58.22:349][518]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.01.11-15.58.22:349][518]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.01.11-15.58.22:349][518]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.01.11-15.58.22:349][518]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.58.23:484][611]LogSlate: Window 'Message Log' being destroyed
+[2022.01.11-15.58.23:490][611]LogSlate: Window 'Message Log' being destroyed
+[2022.01.11-15.58.24:764][681]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.01.11-15.58.24:764][681]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.58.24:771][681]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.11-15.58.24:771][681]LogShaderCompilers: Display: Total job queries 16137, among them cache hits 12713 (78.78%)
+[2022.01.11-15.58.24:771][681]LogShaderCompilers: Display: Tracking 3377 distinct input hashes that result in 1229 distinct outputs (36.39%)
+[2022.01.11-15.58.24:771][681]LogShaderCompilers: Display: RAM used: 8.93 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.54%
+[2022.01.11-15.58.24:771][681]LogShaderCompilers: Display: ================================================
+[2022.01.11-15.58.24:801][683]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.01.11-15.58.24:801][683]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.58.25:445][699]LogUObjectHash: Compacting FUObjectHashTables data took   6.33ms
+[2022.01.11-15.58.26:374][699]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.11-15.58.26:386][699]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Alex_assets/road/alex_s_spin_off_on_the_road.alex_s_spin_off_on_the_road
+[2022.01.11-15.58.26:982][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2022.01.11-15.58.33:797][210]LogActorFactory: Actor Factory created road_export
+[2022.01.11-15.58.34:241][237]LogActorFactory: Actor Factory created road_export
+[2022.01.11-15.58.34:686][275]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-15.58.52:807][817]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.01.11-15.58.52:819][817]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.01.11-15.58.59:105][512]LogContentBrowser: Attempting asset rename: NewMaterial -> NewRoadMaterial
+[2022.01.11-15.58.59:105][512]LogContentBrowser: End creating deferred item NewMaterial
+[2022.01.11-15.59.11:472][775]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\road mesh\textures\road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-15.59.11:497][775]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-15.59.11:564][775]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-15.59.11:564][775]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\road mesh\textures\road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-15.59.11:595][775]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-15.59.11:620][775]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-15.59.11:620][775]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\road mesh\textures\road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-15.59.11:643][775]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-15.59.11:687][775]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-15.59.14:187][970]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Alex_assets/road/NewRoadMaterial.NewRoadMaterial
+[2022.01.11-15.59.14:189][970]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D435D32CAA9C5A3F7D06D4506842AFB7E2BEA6F5), compiling. 
+[2022.01.11-15.59.14:196][970]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.14:284][970]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8F07E8FB4CE12633C8AB5ECDE7D7A3C4EA41FFAD), compiling. 
+[2022.01.11-15.59.14:286][970]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: FBF1A07419CCCE8665ED4691EF6040995ABB0017), compiling. 
+[2022.01.11-15.59.14:302][970]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.14:419][971]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.14:896][992]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.11-15.59.15:318][ 14]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.01.11-15.59.15:318][ 14]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.01.11-15.59.15:318][ 14]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.01.11-15.59.15:318][ 14]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.11-15.59.16:188][ 80]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CC2A8FADCA4607968140F85DD43C9602154A7623), compiling. 
+[2022.01.11-15.59.16:191][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 67EEDD209016FA47F6B8F9AAEA4D3ECAAD736385), compiling. 
+[2022.01.11-15.59.16:192][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 55D4FECA4809FF11FE28E37DE7304E9D26D600E8), compiling. 
+[2022.01.11-15.59.16:199][ 80]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 110530CACEAED57EBC2AF6EA123C107E3A5557FB), compiling. 
+[2022.01.11-15.59.16:202][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E3D1E3873535DEB52A83288D1934847FBAD2B621), compiling. 
+[2022.01.11-15.59.16:203][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 48BE440000D010B9FE4A8AE97CAF94E337E136C5), compiling. 
+[2022.01.11-15.59.16:205][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 904A7E2E5BE11132BC3571F99162A9612E973C16), compiling. 
+[2022.01.11-15.59.16:212][ 80]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 7A5189B3509A0FF68127C063A1A3CAB39E5A5F77), compiling. 
+[2022.01.11-15.59.16:215][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: AE64BE207EAADA028E5E99FC758D8C13B609EA95), compiling. 
+[2022.01.11-15.59.16:216][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 878FCE3124232B34B1A4BF0B20927F2D0654E2A4), compiling. 
+[2022.01.11-15.59.16:217][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E47521121DEA7EE7E5774C8893FAE3D942DD2E85), compiling. 
+[2022.01.11-15.59.16:218][ 80]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 496E786F85313CFFE43886AC9D3D188282F5E9FD), compiling. 
+[2022.01.11-15.59.16:223][ 80]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-15.59.16:266][ 81]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.16:266][ 81]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.59.16:266][ 81]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.59.16:266][ 81]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.16:266][ 81]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.16:266][ 81]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.01.11-15.59.16:266][ 81]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.01.11-15.59.16:266][ 81]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.16:266][ 81]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.01.11-15.59.16:266][ 81]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.01.11-15.59.16:266][ 81]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.01.11-15.59.16:266][ 81]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.11-15.59.19:121][306]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: EE21999D7BE82F920C25E0B251EDFE0E4BD711E7), compiling. 
+[2022.01.11-15.59.19:125][306]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 573CADC2415289A257B5EEAB7266A4F927E86039), compiling. 
+[2022.01.11-15.59.19:128][306]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-15.59.19:128][306]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.11-15.59.19:128][306]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.19:138][307]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.19:148][308]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.59.19:148][308]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.59.19:148][308]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.19:148][308]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.19:165][309]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.11-15.59.19:165][309]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.11-15.59.19:165][309]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-15.59.19:165][309]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.11-15.59.19:165][309]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.19:614][331]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.11-15.59.19:614][331]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.11-15.59.19:614][331]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.20:637][422]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 4B329F559ACE16DBBD776A4FBAA77AE8E156BFA1), compiling. 
+[2022.01.11-15.59.20:641][422]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 184B74C94E283BAEA6370523BD3B4D7141141061), compiling. 
+[2022.01.11-15.59.20:644][422]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-15.59.20:644][422]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.01.11-15.59.20:644][422]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.20:654][423]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.20:664][424]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.21:128][447]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.11-15.59.21:128][447]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.01.11-15.59.21:128][447]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.21:554][476]MaterialEditorStats: Base pass shader: 126 instructions
+[2022.01.11-15.59.21:554][476]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.01.11-15.59.21:554][476]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.11-15.59.21:554][476]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.11-15.59.21:554][476]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.01.11-15.59.21:554][476]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.22:765][585]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A64ACBB97D61DDDFB5FC64AD39B94183BD58205A), compiling. 
+[2022.01.11-15.59.22:768][585]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 195D1EFAF94A3319D9C4E5F033BDD5E2F1123ADC), compiling. 
+[2022.01.11-15.59.22:772][585]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-15.59.22:772][585]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.22:772][585]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.22:782][586]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.11-15.59.22:793][587]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.23:256][606]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.11-15.59.23:256][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.23:256][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.23:483][620]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-15.59.23:483][620]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.23:483][620]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.23:658][632]MaterialEditorStats: Base pass shader: 126 instructions
+[2022.01.11-15.59.23:658][632]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 204 instructions
+[2022.01.11-15.59.23:658][632]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.11-15.59.23:658][632]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-15.59.23:658][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.23:658][632]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.28:676][179]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 8866F59F4B8FCF1F5CBD2BF80DDB1FCBA43912B0), compiling. 
+[2022.01.11-15.59.28:680][179]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F080DBF0136E2B4CB22F23B94AAB82C1CE0C0B71), compiling. 
+[2022.01.11-15.59.28:683][179]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-15.59.28:683][179]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.28:683][179]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.28:693][180]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.11-15.59.28:703][181]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.29:173][206]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-15.59.29:174][206]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.29:174][206]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.30:545][321]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A717876DD12A8BAE9FC706B3A0B5269C1166367D), compiling. 
+[2022.01.11-15.59.30:548][321]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E0160EF80206B825DEC90AC2E1D63296581E40B), compiling. 
+[2022.01.11-15.59.30:552][321]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-15.59.30:552][321]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.30:552][321]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.30:563][322]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.30:572][323]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.31:056][346]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-15.59.31:056][346]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.31:056][346]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.31:466][372]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.01.11-15.59.31:466][372]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2022.01.11-15.59.31:466][372]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.11-15.59.31:466][372]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-15.59.31:466][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.31:466][372]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.32:151][428]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic
+[2022.01.11-15.59.33:247][533]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-15.59.33:287][533]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-15.59.33:317][533]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 1A0D1B23DA1ACB58BC47FEC30742E6107669478B), compiling. 
+[2022.01.11-15.59.33:318][533]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewRoadMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.11-15.59.33:318][533]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic
+[2022.01.11-15.59.33:343][533]MaterialEditorStats: Error: [SM5] (Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic
+[2022.01.11-15.59.34:717][640]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 59D0C34F6F39E64A3FF52AB8AC7A6C40F4F0F317), compiling. 
+[2022.01.11-15.59.34:717][640]LogMaterial: Warning: [AssetLog] /Engine/Transient.NewRoadMaterial (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.11-15.59.34:717][640]LogMaterial: Display: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic
+[2022.01.11-15.59.36:064][794]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: C4F15D3AF8C3727AB68240A7462AA04907CEB424), compiling. 
+[2022.01.11-15.59.36:067][794]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: D185E7498840B3C2BF3ED90E745DB7854D0E04B0), compiling. 
+[2022.01.11-15.59.36:069][794]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 6DDED39301CBE93A279631E7F1F4169B57E022E5), compiling. 
+[2022.01.11-15.59.36:077][794]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-15.59.36:077][794]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.36:077][794]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.36:095][795]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.36:095][795]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-15.59.36:095][795]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-15.59.36:095][795]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.36:095][795]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2022.01.11-15.59.36:109][796]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-15.59.36:658][819]LogMaterialEditor: Applying material NewRoadMaterial
+[2022.01.11-15.59.38:070][819]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 5AF7F16B980BCA7854208B9E77B2A7E6EC0D7F5D), compiling. 
+[2022.01.11-15.59.38:120][819]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 06FC6B118E6BF21FC813C5B08FF23B5B6C0A8894), compiling. 
+[2022.01.11-15.59.38:215][819]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.38:217][819]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.01.11-15.59.38:217][819]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2022.01.11-15.59.38:217][819]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.01.11-15.59.38:217][819]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2022.01.11-15.59.38:217][819]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.01.11-15.59.38:217][819]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.11-15.59.38:217][819]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-15.59.38:258][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.01.11-15.59.38:512][819]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.01.11-15.59.38:525][819]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-15.59.38:525][819]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.38:525][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.38:620][826]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.11-15.59.38:620][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.38:620][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-15.59.38:635][827]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.01.11-15.59.38:635][827]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2022.01.11-15.59.38:635][827]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.11-15.59.38:635][827]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.11-15.59.38:635][827]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-15.59.38:635][827]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.00.13:009][863]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2022.01.11-16.00.16:581][863]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P_Auto2059B22354953E72A0316E69E81985E72.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/EXVR_P_Auto2.umap'
+[2022.01.11-16.00.16:637][863]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EXVR_P' took 3.634
+[2022.01.11-16.00.16:637][863]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 3.634
+[2022.01.11-16.00.16:637][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export] ([1] browsable assets)...
+[2022.01.11-16.00.16:646][863]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Assets/Alex_assets/road/road_export.road_export]
+[2022.01.11-16.00.16:646][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export]
+[2022.01.11-16.00.16:651][863]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_Auto2E3BA1B814040BD1C9F2D3DB4872F000C.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_Auto2.uasset'
+[2022.01.11-16.00.16:651][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor] ([1] browsable assets)...
+[2022.01.11-16.00.16:656][863]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.road_export_alex_s_spin_off_on_the_road_BaseColor]
+[2022.01.11-16.00.16:656][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor]
+[2022.01.11-16.00.16:681][863]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tD35941EF462345C7D1C76C97D24EAB70.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor_Auto2.uasset'
+[2022.01.11-16.00.16:682][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal] ([1] browsable assets)...
+[2022.01.11-16.00.16:686][863]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.road_export_alex_s_spin_off_on_the_road_Normal]
+[2022.01.11-16.00.16:686][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal]
+[2022.01.11-16.00.16:703][863]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_t3CE954F5488534AC95240EA845BAFC11.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal_Auto2.uasset'
+[2022.01.11-16.00.16:703][863]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.11-16.00.16:707][863]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic]
+[2022.01.11-16.00.16:707][863]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic]
+[2022.01.11-16.00.16:714][863]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_t1D757B514D85873B5309E293B203B5E5.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic_Auto2.uasset'
+[2022.01.11-16.00.16:715][863]LogFileHelpers: Auto-saving content packages took 0.078
+[2022.01.11-16.00.38:389][153]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.00.38:392][153]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.00.38:423][153]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.00.38:485][153]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.00.38:485][153]LogEditorFactories: -- imported successfully
+[2022.01.11-16.00.38:495][153]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.00.38:499][153]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.00.38:533][153]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.00.38:558][153]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.00.38:558][153]LogEditorFactories: -- imported successfully
+[2022.01.11-16.00.38:570][153]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.00.38:571][153]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.00.38:572][153]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.00.38:636][153]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.00.38:651][153]LogEditorFactories: -- imported successfully
+[2022.01.11-16.01.02:792][892]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_Material.Lake_Chapel_Material
+[2022.01.11-16.01.02:793][892]LogMaterial: Display: Missing cached shadermap for Lake_Chapel_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 56D6C0B78845A6D37D654FCDEFB9B82E8E373294), compiling. 
+[2022.01.11-16.01.02:806][892]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.01.11-16.01.02:880][892]LogMaterial: Display: Missing cached shadermap for Lake_Chapel_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 57279E65E4B38E53D781434F344BB8366E3AE744), compiling. 
+[2022.01.11-16.01.02:882][892]LogMaterial: Display: Missing cached shadermap for Lake_Chapel_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 106C1B1AE6F52CC07F4448ED62E87CD3817C3BBB), compiling. 
+[2022.01.11-16.01.02:885][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 91EF5583FA45891DABD3E6CBB99BE4D158C4EF78), compiling. 
+[2022.01.11-16.01.02:886][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: EE7ED26C5CBB4C2FDA79BD1DC3EAD635DCAD466D), compiling. 
+[2022.01.11-16.01.02:887][892]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 040F81BBCA3DBDA69FCA25A1C336C7EE1F9C04FD), compiling. 
+[2022.01.11-16.01.02:900][892]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-16.01.02:900][892]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-16.01.02:900][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.01.02:975][894]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.01.11-16.01.02:975][894]MaterialEditorStats: Base pass shader with Surface Lightmap: 159 instructions
+[2022.01.11-16.01.02:975][894]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2022.01.11-16.01.02:975][894]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.11-16.01.02:975][894]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-16.01.02:975][894]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-16.01.02:975][894]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.01.14:000][803]LogSlate: Window 'Message' being destroyed
+[2022.01.11-16.01.14:006][803]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Alex_assets/Lake_Chapel/Lake_Chapel_Material.Lake_Chapel_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2022.01.11-16.01.14:013][803]LogSlate: Window 'Lake_Chapel_Material' being destroyed
+[2022.01.11-16.01.14:015][803]LogSlate: Window 'Lake_Chapel_Material' being destroyed
+[2022.01.11-16.01.14:025][803]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-16.01.14:025][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-16.01.14:062][803]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-16.01.14:062][803]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-16.01.18:088][183]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Alex_assets/Gas_Station/Gas_Station_Material.Gas_Station_Material
+[2022.01.11-16.01.18:089][183]LogMaterial: Display: Missing cached shadermap for Gas_Station_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 8180690B912879599483C991C1C3404A127E7EF0), compiling. 
+[2022.01.11-16.01.18:098][183]LogShaderCompilers: Display: Submitted 12 shader compile jobs with 'Normal' priority
+[2022.01.11-16.01.18:193][183]LogMaterial: Display: Missing cached shadermap for Gas_Station_Material in PCD3D_SM5, Default, SM5 (DDC key hash: 0609946788600288BB5102ABE7C1A5DD21EAE7C5), compiling. 
+[2022.01.11-16.01.18:195][183]LogMaterial: Display: Missing cached shadermap for Gas_Station_Material in PCD3D_SM5, Default, SM5 (DDC key hash: F8EED679F0BBF083BFA77D2E285C6601D0F02532), compiling. 
+[2022.01.11-16.01.18:198][183]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 91240394B73596E4F9A0360326A70C72AC36C093), compiling. 
+[2022.01.11-16.01.18:199][183]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: 042815D1190315AC09DB0D8156EDDF0E96E06252), compiling. 
+[2022.01.11-16.01.18:200][183]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 7E838CF054207ECFD97F4FC54139AA4DC07ABECF), compiling. 
+[2022.01.11-16.01.18:201][183]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 20013D92859E88A6DA6D7D1172C549961EE8FF3D), compiling. 
+[2022.01.11-16.01.18:214][183]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-16.01.18:214][183]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.11-16.01.18:214][183]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.01.11-16.01.18:262][184]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-16.01.18:928][212]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.11-16.01.18:928][212]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.11-16.01.18:928][212]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.01.19:444][242]MaterialEditorStats: Base pass shader: 130 instructions
+[2022.01.11-16.01.19:444][242]MaterialEditorStats: Base pass shader with Surface Lightmap: 161 instructions
+[2022.01.11-16.01.19:444][242]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 208 instructions
+[2022.01.11-16.01.19:444][242]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.11-16.01.19:444][242]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.11-16.01.19:444][242]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2022.01.11-16.01.19:444][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.01.25:771][778]LogSlate: Window 'Message' being destroyed
+[2022.01.11-16.01.25:777][778]Message dialog closed, result: No, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Alex_assets/Gas_Station/Gas_Station_Material.Gas_Station_Material
+(Selecting 'No' will cause all changes to be lost!)
+[2022.01.11-16.01.25:777][778]LogSlate: Window 'Gas_Station_Material' being destroyed
+[2022.01.11-16.01.25:779][778]LogSlate: Window 'Gas_Station_Material' being destroyed
+[2022.01.11-16.01.25:789][778]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-16.01.25:789][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-16.01.30:181][196]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Alex_assets/road/NewRoadMaterial.NewRoadMaterial
+[2022.01.11-16.01.30:182][196]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3A02576FB520653E95FE912B93B4D520431A394B), compiling. 
+[2022.01.11-16.01.30:189][196]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.01.11-16.01.30:278][196]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9E9A824866D44B6B94FBC1AB86914202BD98D53B), compiling. 
+[2022.01.11-16.01.30:280][196]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 057A846463B8A6B28AB73679D1FD9A1353035AB8), compiling. 
+[2022.01.11-16.01.30:283][196]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 336C73DBD835C7C25420BD555625408B6C526353), compiling. 
+[2022.01.11-16.01.30:284][196]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 8252321C3B5ADA1DD3EE1080B72A94B1D943A996), compiling. 
+[2022.01.11-16.01.30:285][196]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 387FF393CB07092A7D5CC878BC3DBF1933D883A0), compiling. 
+[2022.01.11-16.01.30:299][196]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.11-16.01.30:299][196]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-16.01.30:299][196]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.11-16.01.30:352][197]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-16.01.30:522][205]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.11-16.01.30:522][205]LogShaderCompilers: Display: Total job queries 16418, among them cache hits 12846 (78.24%)
+[2022.01.11-16.01.30:522][205]LogShaderCompilers: Display: Tracking 3486 distinct input hashes that result in 1243 distinct outputs (35.66%)
+[2022.01.11-16.01.30:522][205]LogShaderCompilers: Display: RAM used: 9.02 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.55%
+[2022.01.11-16.01.30:522][205]LogShaderCompilers: Display: ================================================
+[2022.01.11-16.01.30:814][219]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-16.01.30:814][219]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-16.01.30:814][219]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.01.31:238][244]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.01.11-16.01.31:238][244]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2022.01.11-16.01.31:238][244]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.11-16.01.31:238][244]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.11-16.01.31:238][244]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.11-16.01.31:238][244]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.11-16.02.22:514][552]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.02.22:517][552]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.02.22:550][552]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.02.22:611][552]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.02.22:611][552]LogEditorFactories: -- imported successfully
+[2022.01.11-16.02.22:621][552]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.02.22:625][552]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.02.22:662][552]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.02.22:686][552]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.02.22:686][552]LogEditorFactories: -- imported successfully
+[2022.01.11-16.02.22:697][552]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.02.22:698][552]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.02.22:729][552]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.02.22:744][552]LogEditorFactories: -- imported successfully
+[2022.01.11-16.03.02:188][790]LogSlate: Window 'Message' being destroyed
+[2022.01.11-16.03.02:194][790]Message dialog closed, result: Yes, title: Message, text: Would you like to apply the changes of the modified material to the original material?
+/Game/Assets/Alex_assets/road/NewRoadMaterial.NewRoadMaterial
+(Selecting 'No' will cause all changes to be lost!)
+[2022.01.11-16.03.02:477][790]LogMaterial: Display: Missing cached shadermap for PreviewMaterial_1 in PCD3D_SM5, Default, SM5 (DDC key hash: A1177BE86C30310023E58CE6026BBB0656F28A5D), compiling. 
+[2022.01.11-16.03.02:534][790]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: E49E61B68C0AF3BAF290C277DBA352768BBFA533), compiling. 
+[2022.01.11-16.03.02:617][790]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.11-16.03.02:626][790]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.11-16.03.02:626][790]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-16.03.02:626][790]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-16.03.02:651][790]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.01.11-16.03.02:651][790]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.01.11-16.03.02:651][790]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.11-16.03.02:651][790]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.01.11-16.03.02:651][790]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.01.11-16.03.02:651][790]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.01.11-16.03.02:651][790]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.01.11-16.03.02:651][790]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-16.03.02:703][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.01.11-16.03.03:464][790]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.11-16.03.03:464][790]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.11-16.03.03:464][790]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.01.11-16.03.03:464][790]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-16.03.03:476][790]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2022.01.11-16.03.03:491][790]LogSlate: Window 'NewRoadMaterial' being destroyed
+[2022.01.11-16.03.03:495][790]LogSlate: Window 'NewRoadMaterial' being destroyed
+[2022.01.11-16.03.03:500][790]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-16.03.03:501][790]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-16.03.05:835][965]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.03.05:836][965]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.03.05:865][965]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.03.05:913][965]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.03.05:913][965]LogEditorFactories: -- imported successfully
+[2022.01.11-16.03.05:923][965]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.03.05:927][965]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.03.05:962][965]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.03.05:987][965]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.03.05:987][965]LogEditorFactories: -- imported successfully
+[2022.01.11-16.03.05:998][965]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.03.06:000][965]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.03.06:030][965]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.03.06:044][965]LogEditorFactories: -- imported successfully
+[2022.01.11-16.03.55:316][674]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.03.55:318][674]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.03.55:349][674]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.03.55:410][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.03.55:410][674]LogEditorFactories: -- imported successfully
+[2022.01.11-16.03.55:420][674]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.03.55:424][674]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.03.55:458][674]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.03.55:481][674]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.03.55:481][674]LogEditorFactories: -- imported successfully
+[2022.01.11-16.03.55:493][674]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.03.55:494][674]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.03.55:523][674]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.03.55:537][674]LogEditorFactories: -- imported successfully
+[2022.01.11-16.04.32:995][885]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.04.32:998][885]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.04.33:030][885]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.04.33:092][885]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.04.33:092][885]LogEditorFactories: -- imported successfully
+[2022.01.11-16.04.33:103][885]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.04.33:107][885]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.04.33:139][885]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.04.33:163][885]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.04.33:163][885]LogEditorFactories: -- imported successfully
+[2022.01.11-16.04.33:174][885]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.04.33:176][885]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.04.33:207][885]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.04.33:222][885]LogEditorFactories: -- imported successfully
+[2022.01.11-16.05.09:767][563]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.05.09:770][563]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.05.09:802][563]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.05.09:863][563]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.05.09:863][563]LogEditorFactories: -- imported successfully
+[2022.01.11-16.05.09:873][563]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.05.09:877][563]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.05.09:911][563]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.05.09:934][563]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.05.09:934][563]LogEditorFactories: -- imported successfully
+[2022.01.11-16.05.09:946][563]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.05.09:947][563]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.05.09:978][563]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.05.09:992][563]LogEditorFactories: -- imported successfully
+[2022.01.11-16.05.39:833][447]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.05.39:835][447]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.05.39:868][447]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.05.39:925][447]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.05.39:925][447]LogEditorFactories: -- imported successfully
+[2022.01.11-16.05.39:934][447]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.05.39:938][447]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.05.39:971][447]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.05.39:996][447]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.05.39:996][447]LogEditorFactories: -- imported successfully
+[2022.01.11-16.05.40:008][447]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.05.40:009][447]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.05.40:040][447]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.05.40:056][447]LogEditorFactories: -- imported successfully
+[2022.01.11-16.06.30:966][525]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.06.30:968][525]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.06.31:001][525]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.06.31:056][525]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.06.31:056][525]LogEditorFactories: -- imported successfully
+[2022.01.11-16.06.31:065][525]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.06.31:069][525]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.06.31:103][525]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.06.31:127][525]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.06.31:127][525]LogEditorFactories: -- imported successfully
+[2022.01.11-16.06.31:139][525]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.06.31:140][525]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.06.31:170][525]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.06.31:185][525]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.09:772][ 69]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.07.09:775][ 69]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.07.09:807][ 69]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.07.09:864][ 69]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.07.09:864][ 69]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.09:874][ 69]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.07.09:878][ 69]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.07.09:911][ 69]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.07.09:935][ 69]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.07.09:935][ 69]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.09:946][ 69]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.07.09:948][ 69]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.07.09:978][ 69]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.07.09:992][ 69]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.24:000][392]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.07.24:002][392]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.07.24:035][392]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.07.24:092][392]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.07.24:092][392]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.24:102][392]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.07.24:106][392]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.07.24:139][392]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.07.24:164][392]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.07.24:164][392]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.24:175][392]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.07.24:177][392]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.07.24:206][392]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.07.24:221][392]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.36:419][738]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.07.36:421][738]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.07.36:454][738]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.07.36:511][738]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.07.36:511][738]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.36:521][738]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.07.36:525][738]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.07.36:559][738]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.07.36:584][738]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.07.36:584][738]LogEditorFactories: -- imported successfully
+[2022.01.11-16.07.36:595][738]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.07.36:596][738]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.07.36:627][738]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.07.36:642][738]LogEditorFactories: -- imported successfully
+[2022.01.11-16.08.13:181][691]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.08.13:183][691]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.08.13:216][691]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.08.13:272][691]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.08.13:272][691]LogEditorFactories: -- imported successfully
+[2022.01.11-16.08.13:282][691]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.08.13:286][691]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.08.13:321][691]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.08.13:346][691]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.08.13:346][691]LogEditorFactories: -- imported successfully
+[2022.01.11-16.08.13:357][691]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.08.13:359][691]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.08.13:388][691]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.08.13:404][691]LogEditorFactories: -- imported successfully
+[2022.01.11-16.08.40:617][237]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.08.40:619][237]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.08.40:652][237]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.08.40:709][237]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.08.40:709][237]LogEditorFactories: -- imported successfully
+[2022.01.11-16.08.40:719][237]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.08.40:723][237]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.08.40:759][237]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.08.40:783][237]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.08.40:783][237]LogEditorFactories: -- imported successfully
+[2022.01.11-16.08.40:794][237]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.08.40:796][237]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.08.40:825][237]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.08.40:840][237]LogEditorFactories: -- imported successfully
+[2022.01.11-16.08.54:598][376]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-16.08.57:760][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.11-16.08.57:775][659]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.01.11-16.09.01:101][659]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_PE0A47A0D4F692BE1934773A95E631C30.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2022.01.11-16.09.01:175][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P_BuiltData" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset" SILENT=true
+[2022.01.11-16.09.01:392][659]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P_BuiltData784918E64372B4CF20A5A086F4D81927.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset'
+[2022.01.11-16.09.01:420][659]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-16.09.01:420][659]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EXVR_P_BuiltData.EXVR_P_BuiltData
+[2022.01.11-16.09.01:420][659]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2022.01.11-16.09.43:455][423]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.09.43:457][423]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.09.43:489][423]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.09.43:547][423]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.09.43:547][423]LogEditorFactories: -- imported successfully
+[2022.01.11-16.09.43:557][423]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.09.43:561][423]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.09.43:595][423]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.09.43:618][423]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.09.43:619][423]LogEditorFactories: -- imported successfully
+[2022.01.11-16.09.43:630][423]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.09.43:631][423]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.09.43:662][423]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.09.43:677][423]LogEditorFactories: -- imported successfully
+[2022.01.11-16.10.02:902][171]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (road_export)
+[2022.01.11-16.10.16:831][815]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-16.11.13:130][888]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.11.13:130][888]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.11.43:941][122]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.11.43:941][122]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.12.07:295][967]LogSlate: Window 'road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic' being destroyed
+[2022.01.11-16.12.07:300][967]LogSlate: Window 'road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic' being destroyed
+[2022.01.11-16.12.09:173][135]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.12.09:175][135]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.12.09:206][135]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.12.09:262][135]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.12.09:262][135]LogEditorFactories: -- imported successfully
+[2022.01.11-16.12.09:272][135]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.12.09:276][135]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.12.09:309][135]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.12.09:333][135]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.12.09:333][135]LogEditorFactories: -- imported successfully
+[2022.01.11-16.12.09:345][135]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.12.09:346][135]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.12.09:377][135]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (BGRA8, 1024X1024)
+[2022.01.11-16.12.09:392][135]LogEditorFactories: -- imported successfully
+[2022.01.11-16.12.34:201][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.11-16.12.34:210][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2022.01.11-16.12.37:510][248]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P9F911D4F4F4DE2BAC4E5BCAA5F60AE5B.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2022.01.11-16.12.37:524][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P_BuiltData" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset" SILENT=true
+[2022.01.11-16.12.37:710][248]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P_BuiltData2D68EEC245950E8CB07C2C8745CAC0C6.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset'
+[2022.01.11-16.12.37:727][248]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-16.12.37:727][248]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EXVR_P_BuiltData.EXVR_P_BuiltData
+[2022.01.11-16.12.37:727][248]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2022.01.11-16.12.40:302][508]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.01.11-16.12.40:324][508]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export12C085B14747CFF9C26BE0BE621B1A2C.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export.uasset'
+[2022.01.11-16.12.40:337][508]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/NewRoadMaterial55D3DF4648B35579BC62689803FBDD22.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/NewRoadMaterial.uasset'
+[2022.01.11-16.12.40:387][508]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tD6E6A0BC48A1FA4247008DA21A04EE06.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.uasset'
+[2022.01.11-16.12.40:520][508]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_t60D4C3D64A740275BDEC36A692F47856.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.uasset'
+[2022.01.11-16.12.40:528][508]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.12.40:615][508]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.12.40:615][508]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tC0637F3E4A7B9879BF3B028C2019081C.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.uasset'
+[2022.01.11-16.12.40:628][508]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-16.12.40:628][508]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Alex_assets/road/road_export.road_export
+[2022.01.11-16.12.40:628][508]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic
+[2022.01.11-16.12.40:628][508]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.road_export_alex_s_spin_off_on_the_road_Normal
+[2022.01.11-16.12.40:628][508]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.road_export_alex_s_spin_off_on_the_road_BaseColor
+[2022.01.11-16.12.40:628][508]LogContentValidation: Display: Validating Material /Game/Assets/Alex_assets/road/NewRoadMaterial.NewRoadMaterial
+[2022.01.11-16.14.24:673][848]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.14.24:675][848]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.14.24:708][848]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.14.24:764][848]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.14.24:764][848]LogEditorFactories: -- imported successfully
+[2022.01.11-16.14.24:774][848]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.14.24:778][848]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.14.24:812][848]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.14.24:836][848]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.14.24:836][848]LogEditorFactories: -- imported successfully
+[2022.01.11-16.14.24:848][848]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.14.24:849][848]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.14.24:878][848]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.14.24:922][848]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.14.24:922][848]LogEditorFactories: -- imported successfully
+[2022.01.11-16.15.38:057][790]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.15.38:059][790]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.15.38:093][790]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.15.38:149][790]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.15.38:149][790]LogEditorFactories: -- imported successfully
+[2022.01.11-16.15.38:159][790]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.15.38:163][790]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.15.38:197][790]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.15.38:221][790]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.15.38:221][790]LogEditorFactories: -- imported successfully
+[2022.01.11-16.15.38:233][790]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.15.38:234][790]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.15.38:263][790]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.15.38:307][790]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.15.38:307][790]LogEditorFactories: -- imported successfully
+[2022.01.11-16.15.43:655][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.11-16.15.43:662][162]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.01.11-16.15.46:958][162]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P1860E7144A7248A1BB2C4FBFA42D16BA.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2022.01.11-16.15.46:972][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P_BuiltData" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset" SILENT=true
+[2022.01.11-16.15.47:155][162]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P_BuiltData9E3A96A540AEBADCDD74B8A86B74851A.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset'
+[2022.01.11-16.15.47:179][162]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-16.15.47:179][162]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EXVR_P_BuiltData.EXVR_P_BuiltData
+[2022.01.11-16.15.47:179][162]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2022.01.11-16.15.52:582][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2022.01.11-16.15.52:658][724]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tB0B4622E457A4B236AB6B09F8894EEBF.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.uasset'
+[2022.01.11-16.15.52:768][724]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_t2B6B192D4209973C21A07EB4AE713B61.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.uasset'
+[2022.01.11-16.15.52:816][724]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_t1C6471E64E0F02528114B98197A91A31.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.uasset'
+[2022.01.11-16.15.52:826][724]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-16.15.52:827][724]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic
+[2022.01.11-16.15.52:827][724]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.road_export_alex_s_spin_off_on_the_road_Normal
+[2022.01.11-16.15.52:827][724]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.road_export_alex_s_spin_off_on_the_road_BaseColor
+[2022.01.11-16.15.56:765][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.11-16.15.56:772][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.01.11-16.16.00:062][ 80]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P6E3EF95D40C75F78ADE2F99CB988A373.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2022.01.11-16.16.00:075][ 80]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P_BuiltData" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset" SILENT=true
+[2022.01.11-16.16.00:260][ 80]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P_BuiltData25D1F17C40E0117221BC96990678D5A2.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset'
+[2022.01.11-16.16.00:286][ 80]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-16.16.00:286][ 80]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EXVR_P_BuiltData.EXVR_P_BuiltData
+[2022.01.11-16.16.00:287][ 80]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2022.01.11-16.16.05:203][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_15 in PCD3D_SM5, Default, SM5 (DDC key hash: 954C2E26F7A01FFFB234AEEE45781DF06FD14F69), compiling. 
+[2022.01.11-16.16.05:225][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_16 in PCD3D_SM5, Default, SM5 (DDC key hash: 0D0A2C3E11AE248343084D51770F5CE0005E9E82), compiling. 
+[2022.01.11-16.16.05:231][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_17 in PCD3D_SM5, Default, SM5 (DDC key hash: F563868951717736639AF713A3E392BFD6A106AD), compiling. 
+[2022.01.11-16.16.05:239][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_18 in PCD3D_SM5, Default, SM5 (DDC key hash: A5E7C3E2F968A02BAB14D145DF2F625B2F70CFBB), compiling. 
+[2022.01.11-16.16.05:245][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_19 in PCD3D_SM5, Default, SM5 (DDC key hash: 7C400E0F1AD605A585EEB5E7119AED237323F585), compiling. 
+[2022.01.11-16.16.05:251][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_20 in PCD3D_SM5, Default, SM5 (DDC key hash: 676C9F29D175A3A3FBB41B4735A8C0460A574F9F), compiling. 
+[2022.01.11-16.16.05:257][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_21 in PCD3D_SM5, Default, SM5 (DDC key hash: 6CEF36CDC267B09AA59D34CDB337376DF09877EA), compiling. 
+[2022.01.11-16.16.05:263][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_22 in PCD3D_SM5, Default, SM5 (DDC key hash: C18B5E2EB954E778950BE7884B115ACA6905324E), compiling. 
+[2022.01.11-16.16.05:274][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_23 in PCD3D_SM5, Default, SM5 (DDC key hash: 661A753054BB55D05AC80CABEEE12BB5E4599BE9), compiling. 
+[2022.01.11-16.16.05:280][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_24 in PCD3D_SM5, Default, SM5 (DDC key hash: CA7C2B92B99F0DAB343E1DE38A4B54E1A4B73E98), compiling. 
+[2022.01.11-16.16.05:288][499]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_25 in PCD3D_SM5, Default, SM5 (DDC key hash: 8A9CFC65306C5487EED67C2D2A02983CE610887D), compiling. 
+[2022.01.11-16.16.05:342][499]LogTexture: Display: Building textures: Texture2D_7 (G8, 128X128)
+[2022.01.11-16.16.42:849][369]Cmd: POLY SELECT ADJACENT WALLS
+[2022.01.11-16.18.00:717][575]LogContentBrowser: Attempting asset rename: Fine_Road_viciaalew_inst -> Fine_Road_viciaalew_inst
+[2022.01.11-16.18.36:762][613]LogContentBrowser: Attempting asset rename: Albedo_4K_viciaalew -> Albedo_4K_viciaalew
+[2022.01.11-16.18.44:778][912]LogContentBrowser: Attempting asset rename: Normal_4K_viciaalew -> Normal_4K_viciaalew
+[2022.01.11-16.18.51:808][560]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Megascans/Surfaces/Fine_Road_viciaalew/Roughness_4K_viciaalew.Roughness_4K_viciaalew
+[2022.01.11-16.18.54:032][774]LogSlate: Window 'Roughness_4K_viciaalew' being destroyed
+[2022.01.11-16.18.54:038][774]LogSlate: Window 'Roughness_4K_viciaalew' being destroyed
+[2022.01.11-16.19.33:573][482]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Road/Fine_Road_viciaalew/Road.Road
+[2022.01.11-16.19.37:157][728]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surfaces/Fine_Road_viciaalew/Fine_Road_viciaalew_inst.Fine_Road_viciaalew_inst
+[2022.01.11-16.19.54:594][974]LogMaterial: Display: Material /Game/Assets/Alex_assets/road/NewRoadMaterial.NewRoadMaterial needed to have new flag set bUsedWithSplineMeshes !
+[2022.01.11-16.19.54:603][974]LogMaterial: Display: Missing cached shadermap for NewRoadMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: CAE4A1F7E6E3773DB61D1F1DC66497B666CB520D), compiling. 
+[2022.01.11-16.19.54:624][974]LogShaderCompilers: Display: Submitted 16 shader compile jobs with 'Low' priority
+[2022.01.11-16.19.54:652][974]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 16
+[2022.01.11-16.19.54:652][974]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 13
+[2022.01.11-16.19.54:652][974]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.01.11-16.19.54:652][974]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2022.01.11-16.19.54:652][974]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.11-16.19.54:652][974]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.11-16.19.54:652][974]LogShaderCompilers: Display: Started 16 'Local' shader compile jobs with 'Normal' priority
+[2022.01.11-16.19.54:664][974]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.11-16.19.54:664][974]LogShaderCompilers: Display: Total job queries 16482, among them cache hits 12878 (78.13%)
+[2022.01.11-16.19.54:665][974]LogShaderCompilers: Display: Tracking 3512 distinct input hashes that result in 1243 distinct outputs (35.39%)
+[2022.01.11-16.19.54:665][974]LogShaderCompilers: Display: RAM used: 9.02 MB (0.01 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.55%
+[2022.01.11-16.19.54:665][974]LogShaderCompilers: Display: ================================================
+[2022.01.11-16.24.37:238][237]Cmd: ACTOR SELECT ALL
+[2022.01.11-16.24.43:875][615]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.24.43:877][615]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.24.43:913][615]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.24.43:971][615]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.24.43:971][615]LogEditorFactories: -- imported successfully
+[2022.01.11-16.24.44:011][615]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.24.44:015][615]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.24.44:050][615]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.24.44:074][615]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.24.44:074][615]LogEditorFactories: -- imported successfully
+[2022.01.11-16.24.44:086][615]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.24.44:087][615]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.24.44:118][615]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.24.44:162][615]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.24.44:162][615]LogEditorFactories: -- imported successfully
+[2022.01.11-16.24.58:235][435]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.11-16.24.58:240][435]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.11-16.24.58:240][435]PIE: New page: PIE session: EXVR_P (11 Jan 2022, 18:24:58)
+[2022.01.11-16.24.58:241][435]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EXVR_P
+[2022.01.11-16.24.59:960][435]LogPlayLevel: PIE: StaticDuplicateObject took: (1.719408s)
+[2022.01.11-16.24.59:961][435]LogAIModule: Creating AISystem for world EXVR_P
+[2022.01.11-16.24.59:962][435]LogPlayLevel: PIE: World Init took: (0.001386s)
+[2022.01.11-16.24.59:962][435]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EXVR_P.EXVR_P to /Game/UEDPIE_0_EXVR_P.EXVR_P (1.720991s)
+[2022.01.11-16.25.00:010][435]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2022.01.11-16.25.00:052][435]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.01.11-16.25.00:052][435]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.11-16.25.00:052][435]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.11-16.25.00:052][435]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.11-16.25.00:052][435]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.11-16.25.00:053][435]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.11-16.25.00:053][435]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.11-16.25.00:053][435]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.11-16.25.00:053][435]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.11-16.25.00:053][435]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.11-16.25.00:053][435]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.11-16.25.00:053][435]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.11-16.25.00:053][435]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.11-16.25.00:072][435]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.11-16.25.00:072][435]LogAudioMixer: Display: 1: FrontRight
+[2022.01.11-16.25.00:079][435]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.01.11-16.25.00:080][435]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.11-16.25.00:080][435]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.11-16.25.00:080][435]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.11-16.25.00:080][435]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.11-16.25.00:080][435]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.11-16.25.00:080][435]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.11-16.25.00:081][435]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.11-16.25.00:081][435]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.11-16.25.00:081][435]LogInit: FAudioDevice initialized.
+[2022.01.11-16.25.00:081][435]LogAudio: Display: Audio Device (ID: 4) registered with world 'EXVR_P'.
+[2022.01.11-16.25.00:094][435]LogLoad: Game class is 'GameModeBase'
+[2022.01.11-16.25.00:191][435]LogWorld: Bringing World /Game/UEDPIE_0_EXVR_P.EXVR_P up for play (max tick rate 0) at 2022.01.11-17.25.00
+[2022.01.11-16.25.00:191][435]LogWorld: Bringing up level for play took: 0.096657
+[2022.01.11-16.25.00:192][435]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.01.11-16.25.00:195][435]PIE: Server logged in
+[2022.01.11-16.25.00:196][435]PIE: Play in editor total start time 1.956 seconds.
+[2022.01.11-16.25.09:902][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-16.25.09:902][265]LogWorld: BeginTearingDown for /Game/UEDPIE_0_EXVR_P
+[2022.01.11-16.25.09:903][265]LogWorld: UWorld::CleanupWorld for EXVR_P, bSessionEnded=true, bCleanupResources=true
+[2022.01.11-16.25.09:907][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-16.25.09:916][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.11-16.25.09:935][265]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.11-16.25.09:940][265]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.11-16.25.09:946][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-16.25.09:947][265]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.11-16.25.09:949][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.11-16.25.09:957][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.01.11-16.25.10:026][266]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.01.11-16.25.12:294][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh2)
+[2022.01.11-16.25.34:511][226]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.25.34:511][226]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.25.36:921][414]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-16.25.41:944][863]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-16.25.43:699][998]Cmd: TRANSACTION UNDO
+[2022.01.11-16.25.43:699][998]LogEditorTransaction: Undo Move Actors
+[2022.01.11-16.25.46:144][173]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-16.26.38:983][530]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.01.11-16.26.39:142][530]LogTexture: Display: Building textures: Texture2D_96 (BGRA8, 512X512)
+[2022.01.11-16.26.39:145][530]LogTexture: Display: Building textures: Texture2D_1386 (BGRA8, 128X128)
+[2022.01.11-16.26.39:145][530]LogTexture: Display: Building textures: Texture2D_1347 (BGRA8, 128X128)
+[2022.01.11-16.26.39:146][530]LogTexture: Display: Building textures: Texture2D_1308 (BGRA8, 128X128)
+[2022.01.11-16.26.39:147][530]LogTexture: Display: Building textures: Texture2D_3864 (BGRA8, 128X128)
+[2022.01.11-16.26.39:148][530]LogTexture: Display: Building textures: Texture2D_3857 (BGRA8, 128X128)
+[2022.01.11-16.26.39:148][530]LogTexture: Display: Building textures: Texture2D_3850 (BGRA8, 128X128)
+[2022.01.11-16.26.39:150][530]LogTexture: Display: Building textures: Texture2D_3843 (BGRA8, 128X128)
+[2022.01.11-16.26.39:150][530]LogTexture: Display: Building textures: Texture2D_3185 (BGRA8, 128X128)
+[2022.01.11-16.26.39:151][530]LogTexture: Display: Building textures: Texture2D_3178 (BGRA8, 128X128)
+[2022.01.11-16.26.39:152][530]LogTexture: Display: Building textures: Texture2D_3171 (BGRA8, 128X128)
+[2022.01.11-16.26.39:153][530]LogTexture: Display: Building textures: Texture2D_3066 (BGRA8, 128X128)
+[2022.01.11-16.26.39:153][530]LogTexture: Display: Building textures: Texture2D_3073 (BGRA8, 128X128)
+[2022.01.11-16.26.39:154][530]LogTexture: Display: Building textures: Texture2D_1542 (BGRA8, 128X128)
+[2022.01.11-16.26.39:155][530]LogTexture: Display: Building textures: Texture2D_1503 (BGRA8, 128X128)
+[2022.01.11-16.26.39:156][530]LogTexture: Display: Building textures: Texture2D_1464 (BGRA8, 128X128)
+[2022.01.11-16.26.39:157][530]LogTexture: Display: Building textures: Texture2D_3836 (BGRA8, 128X128)
+[2022.01.11-16.26.39:158][530]LogTexture: Display: Building textures: Texture2D_3829 (BGRA8, 128X128)
+[2022.01.11-16.26.39:159][530]LogTexture: Display: Building textures: Texture2D_3822 (BGRA8, 128X128)
+[2022.01.11-16.26.39:160][530]LogTexture: Display: Building textures: Texture2D_3815 (BGRA8, 128X128)
+[2022.01.11-16.26.39:161][530]LogTexture: Display: Building textures: Texture2D_3157 (BGRA8, 128X128)
+[2022.01.11-16.26.39:162][530]LogTexture: Display: Building textures: Texture2D_3150 (BGRA8, 128X128)
+[2022.01.11-16.26.39:163][530]LogTexture: Display: Building textures: Texture2D_3143 (BGRA8, 128X128)
+[2022.01.11-16.26.39:164][530]LogTexture: Display: Building textures: Texture2D_3038 (BGRA8, 128X128)
+[2022.01.11-16.26.39:167][530]LogTexture: Display: Building textures: Texture2D_3045 (BGRA8, 128X128)
+[2022.01.11-16.26.39:176][530]LogTexture: Display: Building textures: Texture2D_1631 (BGRA8, 128X128)
+[2022.01.11-16.26.39:178][530]LogTexture: Display: Building textures: Texture2D_1625 (BGRA8, 128X128)
+[2022.01.11-16.26.39:179][530]LogTexture: Display: Building textures: Texture2D_3010 (BGRA8, 128X128)
+[2022.01.11-16.26.39:181][530]LogTexture: Display: Building textures: Texture2D_3017 (BGRA8, 128X128)
+[2022.01.11-16.26.39:183][530]LogTexture: Display: Building textures: Texture2D_2982 (BGRA8, 128X128)
+[2022.01.11-16.26.39:184][530]LogTexture: Display: Building textures: Texture2D_2989 (BGRA8, 128X128)
+[2022.01.11-16.26.39:185][530]LogTexture: Display: Building textures: Texture2D_1996 (BGRA8, 128X128)
+[2022.01.11-16.26.39:186][530]LogTexture: Display: Building textures: Texture2D_1986 (BGRA8, 128X128)
+[2022.01.11-16.26.39:187][530]LogTexture: Display: Building textures: Texture2D_1980 (BGRA8, 128X128)
+[2022.01.11-16.26.39:187][530]LogTexture: Display: Building textures: Texture2D_1171 (BGRA8, 128X128)
+[2022.01.11-16.26.39:189][530]LogTexture: Display: Building textures: Texture2D_1159 (BGRA8, 128X128)
+[2022.01.11-16.26.39:190][530]LogTexture: Display: Building textures: Texture2D_1141 (BGRA8, 128X128)
+[2022.01.11-16.26.39:191][530]LogTexture: Display: Building textures: Texture2D_1694 (BGRA8, 128X128)
+[2022.01.11-16.26.39:192][530]LogTexture: Display: Building textures: Texture2D_1700 (BGRA8, 128X128)
+[2022.01.11-16.26.39:195][530]LogTexture: Display: Building textures: Texture2D_2035 (BGRA8, 128X128)
+[2022.01.11-16.26.39:199][530]LogTexture: Display: Building textures: Texture2D_2024 (BGRA8, 128X128)
+[2022.01.11-16.26.39:201][530]LogTexture: Display: Building textures: Texture2D_2009 (BGRA8, 128X128)
+[2022.01.11-16.26.39:202][530]LogTexture: Display: Building textures: Texture2D_1117 (BGRA8, 128X128)
+[2022.01.11-16.26.39:203][530]LogTexture: Display: Building textures: Texture2D_1111 (BGRA8, 128X128)
+[2022.01.11-16.26.39:205][530]LogTexture: Display: Building textures: Texture2D_990 (BGRA8, 128X128)
+[2022.01.11-16.26.39:206][530]LogTexture: Display: Building textures: Texture2D_1658 (BGRA8, 128X128)
+[2022.01.11-16.26.39:209][530]LogTexture: Display: Building textures: Texture2D_1670 (BGRA8, 128X128)
+[2022.01.11-16.26.39:211][530]LogTexture: Display: Building textures: Texture2D_2088 (BGRA8, 128X128)
+[2022.01.11-16.26.39:213][530]LogTexture: Display: Building textures: Texture2D_2082 (BGRA8, 128X128)
+[2022.01.11-16.26.39:215][530]LogTexture: Display: Building textures: Texture2D_2076 (BGRA8, 128X128)
+[2022.01.11-16.26.39:218][530]LogTexture: Display: Building textures: Texture2D_1183 (BGRA8, 128X128)
+[2022.01.11-16.26.39:219][530]LogTexture: Display: Building textures: Texture2D_1165 (BGRA8, 128X128)
+[2022.01.11-16.26.39:221][530]LogTexture: Display: Building textures: Texture2D_1147 (BGRA8, 128X128)
+[2022.01.11-16.26.39:222][530]LogTexture: Display: Building textures: Texture2D_1616 (BGRA8, 128X128)
+[2022.01.11-16.26.39:223][530]LogTexture: Display: Building textures: Texture2D_1622 (BGRA8, 128X128)
+[2022.01.11-16.26.39:225][530]LogTexture: Display: Building textures: Texture2D_2517 (BGRA8, 128X128)
+[2022.01.11-16.26.39:225][530]LogTexture: Display: Building textures: Texture2D_1808 (BGRA8, 128X128)
+[2022.01.11-16.26.39:227][530]LogTexture: Display: Building textures: Texture2D_1802 (BGRA8, 128X128)
+[2022.01.11-16.26.39:229][530]LogTexture: Display: Building textures: Texture2D_1790 (BGRA8, 128X128)
+[2022.01.11-16.26.39:231][530]LogTexture: Display: Building textures: Texture2D_2112 (BGRA8, 128X128)
+[2022.01.11-16.26.39:234][530]LogTexture: Display: Building textures: Texture2D_2106 (BGRA8, 128X128)
+[2022.01.11-16.26.39:235][530]LogTexture: Display: Building textures: Texture2D_2100 (BGRA8, 128X128)
+[2022.01.11-16.26.39:237][530]LogTexture: Display: Building textures: Texture2D_2094 (BGRA8, 128X128)
+[2022.01.11-16.26.39:239][530]LogTexture: Display: Building textures: Texture2D_1590 (BGRA8, 128X128)
+[2022.01.11-16.26.39:240][530]LogTexture: Display: Building textures: Texture2D_1561 (BGRA8, 128X128)
+[2022.01.11-16.26.39:243][530]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 128X128)
+[2022.01.11-16.26.39:244][530]LogTexture: Display: Building textures: Texture2D_3304 (BGRA8, 128X128)
+[2022.01.11-16.26.39:246][530]LogTexture: Display: Building textures: Texture2D_1664 (BGRA8, 128X128)
+[2022.01.11-16.26.39:247][530]LogTexture: Display: Building textures: Texture2D_1676 (BGRA8, 128X128)
+[2022.01.11-16.26.39:249][530]LogTexture: Display: Building textures: Texture2D_2541 (BGRA8, 128X128)
+[2022.01.11-16.26.39:250][530]LogTexture: Display: Building textures: Texture2D_2535 (BGRA8, 128X128)
+[2022.01.11-16.26.39:251][530]LogTexture: Display: Building textures: Texture2D_2529 (BGRA8, 128X128)
+[2022.01.11-16.26.39:253][530]LogTexture: Display: Building textures: Texture2D_2523 (BGRA8, 128X128)
+[2022.01.11-16.26.39:254][530]LogTexture: Display: Building textures: Texture2D_1838 (BGRA8, 128X128)
+[2022.01.11-16.26.39:256][530]LogTexture: Display: Building textures: Texture2D_1832 (BGRA8, 128X128)
+[2022.01.11-16.26.39:257][530]LogTexture: Display: Building textures: Texture2D_1826 (BGRA8, 128X128)
+[2022.01.11-16.26.39:260][530]LogTexture: Display: Building textures: Texture2D_1820 (BGRA8, 128X128)
+[2022.01.11-16.26.39:265][530]LogTexture: Display: Building textures: Texture2D_1599 (BGRA8, 128X128)
+[2022.01.11-16.26.39:268][530]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 128X128)
+[2022.01.11-16.26.39:269][530]LogTexture: Display: Building textures: Texture2D_510 (BGRA8, 128X128)
+[2022.01.11-16.26.39:271][530]LogTexture: Display: Building textures: Texture2D_473 (BGRA8, 128X128)
+[2022.01.11-16.26.39:273][530]LogTexture: Display: Building textures: Texture2D_545 (BGRA8, 128X128)
+[2022.01.11-16.26.39:274][530]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 512X512)
+[2022.01.11-16.26.39:280][530]LogTexture: Display: Building textures: Texture2D_2766 (BGRA8, 128X128)
+[2022.01.11-16.26.39:281][530]LogTexture: Display: Building textures: Texture2D_2759 (BGRA8, 128X128)
+[2022.01.11-16.26.39:284][530]LogTexture: Display: Building textures: Texture2D_2779 (BGRA8, 128X128)
+[2022.01.11-16.26.39:285][530]LogTexture: Display: Building textures: Texture2D_2786 (BGRA8, 128X128)
+[2022.01.11-16.26.39:286][530]LogTexture: Display: Building textures: Texture2D_3591 (BGRA8, 128X128)
+[2022.01.11-16.26.39:289][530]LogTexture: Display: Building textures: Texture2D_3598 (BGRA8, 128X128)
+[2022.01.11-16.26.39:291][530]LogTexture: Display: Building textures: Texture2D_3605 (BGRA8, 128X128)
+[2022.01.11-16.26.39:293][530]LogTexture: Display: Building textures: Texture2D_1929 (BGRA8, 128X128)
+[2022.01.11-16.26.39:295][530]LogTexture: Display: Building textures: Texture2D_1923 (BGRA8, 128X128)
+[2022.01.11-16.26.39:296][530]LogTexture: Display: Building textures: Texture2D_1917 (BGRA8, 128X128)
+[2022.01.11-16.26.39:297][530]LogTexture: Display: Building textures: Texture2D_1911 (BGRA8, 128X128)
+[2022.01.11-16.26.39:298][530]LogTexture: Display: Building textures: Texture2D_895 (BGRA8, 128X128)
+[2022.01.11-16.26.39:299][530]LogTexture: Display: Building textures: Texture2D_889 (BGRA8, 128X128)
+[2022.01.11-16.26.39:300][530]LogTexture: Display: Building textures: Texture2D_883 (BGRA8, 128X128)
+[2022.01.11-16.26.39:302][530]LogTexture: Display: Building textures: Texture2D_877 (BGRA8, 128X128)
+[2022.01.11-16.26.39:303][530]LogTexture: Display: Building textures: Texture2D_647 (BGRA8, 128X128)
+[2022.01.11-16.26.39:305][530]LogTexture: Display: Building textures: Texture2D_641 (BGRA8, 128X128)
+[2022.01.11-16.26.39:306][530]LogTexture: Display: Building textures: Texture2D_635 (BGRA8, 128X128)
+[2022.01.11-16.26.39:310][530]LogTexture: Display: Building textures: Texture2D_629 (BGRA8, 128X128)
+[2022.01.11-16.26.39:312][530]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 128X128)
+[2022.01.11-16.26.39:313][530]LogTexture: Display: Building textures: Texture2D_527 (BGRA8, 128X128)
+[2022.01.11-16.26.39:317][530]LogTexture: Display: Building textures: Texture2D_521 (BGRA8, 128X128)
+[2022.01.11-16.26.39:319][530]LogTexture: Display: Building textures: Texture2D_515 (BGRA8, 128X128)
+[2022.01.11-16.26.39:320][530]LogTexture: Display: Building textures: Texture2D_401 (BGRA8, 128X128)
+[2022.01.11-16.26.39:323][530]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 128X128)
+[2022.01.11-16.26.39:325][530]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 128X128)
+[2022.01.11-16.26.39:326][530]LogTexture: Display: Building textures: Texture2D_329 (BGRA8, 128X128)
+[2022.01.11-16.26.39:329][530]LogTexture: Display: Building textures: Texture2D_2738 (BGRA8, 128X128)
+[2022.01.11-16.26.39:330][530]LogTexture: Display: Building textures: Texture2D_2731 (BGRA8, 128X128)
+[2022.01.11-16.26.39:332][530]LogTexture: Display: Building textures: Texture2D_2745 (BGRA8, 128X128)
+[2022.01.11-16.26.39:333][530]LogTexture: Display: Building textures: Texture2D_2752 (BGRA8, 128X128)
+[2022.01.11-16.26.39:336][530]LogTexture: Display: Building textures: Texture2D_3619 (BGRA8, 128X128)
+[2022.01.11-16.26.39:338][530]LogTexture: Display: Building textures: Texture2D_3612 (BGRA8, 128X128)
+[2022.01.11-16.26.39:340][530]LogTexture: Display: Building textures: Texture2D_3626 (BGRA8, 128X128)
+[2022.01.11-16.26.39:342][530]LogTexture: Display: Building textures: Texture2D_3633 (BGRA8, 128X128)
+[2022.01.11-16.26.39:344][530]LogTexture: Display: Building textures: Texture2D_1905 (BGRA8, 128X128)
+[2022.01.11-16.26.39:345][530]LogTexture: Display: Building textures: Texture2D_1899 (BGRA8, 128X128)
+[2022.01.11-16.26.39:347][530]LogTexture: Display: Building textures: Texture2D_1893 (BGRA8, 128X128)
+[2022.01.11-16.26.39:348][530]LogTexture: Display: Building textures: Texture2D_1887 (BGRA8, 128X128)
+[2022.01.11-16.26.39:350][530]LogTexture: Display: Building textures: Texture2D_865 (BGRA8, 128X128)
+[2022.01.11-16.26.39:352][530]LogTexture: Display: Building textures: Texture2D_853 (BGRA8, 128X128)
+[2022.01.11-16.26.39:353][530]LogTexture: Display: Building textures: Texture2D_841 (BGRA8, 128X128)
+[2022.01.11-16.26.39:355][530]LogTexture: Display: Building textures: Texture2D_701 (BGRA8, 128X128)
+[2022.01.11-16.26.39:357][530]LogTexture: Display: Building textures: Texture2D_623 (BGRA8, 128X128)
+[2022.01.11-16.26.39:358][530]LogTexture: Display: Building textures: Texture2D_617 (BGRA8, 128X128)
+[2022.01.11-16.26.39:359][530]LogTexture: Display: Building textures: Texture2D_611 (BGRA8, 128X128)
+[2022.01.11-16.26.39:360][530]LogTexture: Display: Building textures: Texture2D_605 (BGRA8, 128X128)
+[2022.01.11-16.26.39:365][530]LogTexture: Display: Building textures: Texture2D_509 (BGRA8, 128X128)
+[2022.01.11-16.26.39:366][530]LogTexture: Display: Building textures: Texture2D_503 (BGRA8, 128X128)
+[2022.01.11-16.26.39:367][530]LogTexture: Display: Building textures: Texture2D_497 (BGRA8, 128X128)
+[2022.01.11-16.26.39:372][530]LogTexture: Display: Building textures: Texture2D_491 (BGRA8, 128X128)
+[2022.01.11-16.26.39:373][530]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 128X128)
+[2022.01.11-16.26.39:374][530]LogTexture: Display: Building textures: Texture2D_40 (BGRA8, 128X128)
+[2022.01.11-16.26.39:376][530]LogTexture: Display: Building textures: Texture2D_2710 (BGRA8, 128X128)
+[2022.01.11-16.26.39:378][530]LogTexture: Display: Building textures: Texture2D_2703 (BGRA8, 128X128)
+[2022.01.11-16.26.39:380][530]LogTexture: Display: Building textures: Texture2D_2717 (BGRA8, 128X128)
+[2022.01.11-16.26.39:383][530]LogTexture: Display: Building textures: Texture2D_2724 (BGRA8, 128X128)
+[2022.01.11-16.26.39:385][530]LogTexture: Display: Building textures: Texture2D_3647 (BGRA8, 128X128)
+[2022.01.11-16.26.39:388][530]LogTexture: Display: Building textures: Texture2D_3640 (BGRA8, 128X128)
+[2022.01.11-16.26.39:391][530]LogTexture: Display: Building textures: Texture2D_3654 (BGRA8, 128X128)
+[2022.01.11-16.26.39:394][530]LogTexture: Display: Building textures: Texture2D_3661 (BGRA8, 128X128)
+[2022.01.11-16.26.39:398][530]LogTexture: Display: Building textures: Texture2D_1881 (BGRA8, 128X128)
+[2022.01.11-16.26.39:402][530]LogTexture: Display: Building textures: Texture2D_1875 (BGRA8, 128X128)
+[2022.01.11-16.26.39:404][530]LogTexture: Display: Building textures: Texture2D_1869 (BGRA8, 128X128)
+[2022.01.11-16.26.39:405][530]LogTexture: Display: Building textures: Texture2D_1863 (BGRA8, 128X128)
+[2022.01.11-16.26.39:408][530]LogTexture: Display: Building textures: Texture2D_695 (BGRA8, 128X128)
+[2022.01.11-16.26.39:409][530]LogTexture: Display: Building textures: Texture2D_437 (BGRA8, 128X128)
+[2022.01.11-16.26.39:411][530]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 128X128)
+[2022.01.11-16.26.39:413][530]LogTexture: Display: Building textures: Texture2D_2682 (BGRA8, 128X128)
+[2022.01.11-16.26.39:414][530]LogTexture: Display: Building textures: Texture2D_3675 (BGRA8, 128X128)
+[2022.01.11-16.26.39:417][530]LogTexture: Display: Building textures: Texture2D_3668 (BGRA8, 128X128)
+[2022.01.11-16.26.39:418][530]LogTexture: Display: Building textures: Texture2D_3682 (BGRA8, 128X128)
+[2022.01.11-16.26.39:420][530]LogTexture: Display: Building textures: Texture2D_3689 (BGRA8, 128X128)
+[2022.01.11-16.26.39:422][530]LogTexture: Display: Building textures: Texture2D_1857 (BGRA8, 128X128)
+[2022.01.11-16.26.39:423][530]LogTexture: Display: Building textures: Texture2D_2297 (BGRA8, 128X128)
+[2022.01.11-16.26.39:425][530]LogTexture: Display: Building textures: Texture2D_2285 (BGRA8, 128X128)
+[2022.01.11-16.26.39:428][530]LogTexture: Display: Building textures: Texture2D_2563 (BGRA8, 128X128)
+[2022.01.11-16.26.39:429][530]LogTexture: Display: Building textures: Texture2D_2549 (BGRA8, 128X128)
+[2022.01.11-16.26.39:431][530]LogTexture: Display: Building textures: Texture2D_2505 (BGRA8, 128X128)
+[2022.01.11-16.26.39:432][530]LogTexture: Display: Building textures: Texture2D_2169 (BGRA8, 128X128)
+[2022.01.11-16.26.39:434][530]LogTexture: Display: Building textures: Texture2D_1995 (BGRA8, 128X128)
+[2022.01.11-16.26.39:436][530]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 128X128)
+[2022.01.11-16.26.39:438][530]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 128X128)
+[2022.01.11-16.26.39:440][530]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 128X128)
+[2022.01.11-16.26.39:441][530]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 128X128)
+[2022.01.11-16.26.39:442][530]LogTexture: Display: Building textures: Texture2D_322 (BGRA8, 128X128)
+[2022.01.11-16.26.39:445][530]LogTexture: Display: Building textures: Texture2D_328 (BGRA8, 128X128)
+[2022.01.11-16.26.39:446][530]LogTexture: Display: Building textures: Texture2D_334 (BGRA8, 128X128)
+[2022.01.11-16.26.39:450][530]LogTexture: Display: Building textures: Texture2D_340 (BGRA8, 128X128)
+[2022.01.11-16.26.39:451][530]LogTexture: Display: Building textures: Texture2D_346 (BGRA8, 128X128)
+[2022.01.11-16.26.39:454][530]LogTexture: Display: Building textures: Texture2D_352 (BGRA8, 128X128)
+[2022.01.11-16.26.39:455][530]LogTexture: Display: Building textures: Texture2D_358 (BGRA8, 128X128)
+[2022.01.11-16.26.39:457][530]LogTexture: Display: Building textures: Texture2D_364 (BGRA8, 128X128)
+[2022.01.11-16.26.39:458][530]LogTexture: Display: Building textures: Texture2D_370 (BGRA8, 128X128)
+[2022.01.11-16.26.39:460][530]LogTexture: Display: Building textures: Texture2D_376 (BGRA8, 128X128)
+[2022.01.11-16.26.39:462][530]LogTexture: Display: Building textures: Texture2D_382 (BGRA8, 128X128)
+[2022.01.11-16.26.39:463][530]LogTexture: Display: Building textures: Texture2D_388 (BGRA8, 128X128)
+[2022.01.11-16.26.39:465][530]LogTexture: Display: Building textures: Texture2D_394 (BGRA8, 128X128)
+[2022.01.11-16.26.39:467][530]LogTexture: Display: Building textures: Texture2D_400 (BGRA8, 128X128)
+[2022.01.11-16.26.39:469][530]LogTexture: Display: Building textures: Texture2D_406 (BGRA8, 128X128)
+[2022.01.11-16.26.39:470][530]LogTexture: Display: Building textures: Texture2D_412 (BGRA8, 128X128)
+[2022.01.11-16.26.39:471][530]LogTexture: Display: Building textures: Texture2D_418 (BGRA8, 128X128)
+[2022.01.11-16.26.39:473][530]LogTexture: Display: Building textures: Texture2D_424 (BGRA8, 128X128)
+[2022.01.11-16.26.39:474][530]LogTexture: Display: Building textures: Texture2D_430 (BGRA8, 128X128)
+[2022.01.11-16.26.39:477][530]LogTexture: Display: Building textures: Texture2D_436 (BGRA8, 128X128)
+[2022.01.11-16.26.39:480][530]LogTexture: Display: Building textures: Texture2D_442 (BGRA8, 128X128)
+[2022.01.11-16.26.39:482][530]LogTexture: Display: Building textures: Texture2D_448 (BGRA8, 128X128)
+[2022.01.11-16.26.39:483][530]LogTexture: Display: Building textures: Texture2D_454 (BGRA8, 128X128)
+[2022.01.11-16.26.39:485][530]LogTexture: Display: Building textures: Texture2D_460 (BGRA8, 128X128)
+[2022.01.11-16.26.39:486][530]LogTexture: Display: Building textures: Texture2D_466 (BGRA8, 128X128)
+[2022.01.11-16.26.39:487][530]LogTexture: Display: Building textures: Texture2D_472 (BGRA8, 128X128)
+[2022.01.11-16.26.39:488][530]LogTexture: Display: Building textures: Texture2D_478 (BGRA8, 128X128)
+[2022.01.11-16.26.39:489][530]LogTexture: Display: Building textures: Texture2D_484 (BGRA8, 128X128)
+[2022.01.11-16.26.39:490][530]LogTexture: Display: Building textures: Texture2D_538 (BGRA8, 128X128)
+[2022.01.11-16.26.39:492][530]LogTexture: Display: Building textures: Texture2D_544 (BGRA8, 128X128)
+[2022.01.11-16.26.39:493][530]LogTexture: Display: Building textures: Texture2D_550 (BGRA8, 128X128)
+[2022.01.11-16.26.39:495][530]LogTexture: Display: Building textures: Texture2D_556 (BGRA8, 128X128)
+[2022.01.11-16.26.39:496][530]LogTexture: Display: Building textures: Texture2D_562 (BGRA8, 128X128)
+[2022.01.11-16.26.39:498][530]LogTexture: Display: Building textures: Texture2D_568 (BGRA8, 128X128)
+[2022.01.11-16.26.39:499][530]LogTexture: Display: Building textures: Texture2D_574 (BGRA8, 128X128)
+[2022.01.11-16.26.39:500][530]LogTexture: Display: Building textures: Texture2D_580 (BGRA8, 128X128)
+[2022.01.11-16.26.39:501][530]LogTexture: Display: Building textures: Texture2D_586 (BGRA8, 128X128)
+[2022.01.11-16.26.39:503][530]LogTexture: Display: Building textures: Texture2D_592 (BGRA8, 128X128)
+[2022.01.11-16.26.39:505][530]LogTexture: Display: Building textures: Texture2D_598 (BGRA8, 128X128)
+[2022.01.11-16.26.39:506][530]LogTexture: Display: Building textures: Texture2D_656 (BGRA8, 128X128)
+[2022.01.11-16.26.39:507][530]LogTexture: Display: Building textures: Texture2D_662 (BGRA8, 128X128)
+[2022.01.11-16.26.39:509][530]LogTexture: Display: Building textures: Texture2D_668 (BGRA8, 128X128)
+[2022.01.11-16.26.39:510][530]LogTexture: Display: Building textures: Texture2D_674 (BGRA8, 128X128)
+[2022.01.11-16.26.39:512][530]LogTexture: Display: Building textures: Texture2D_781 (BGRA8, 128X128)
+[2022.01.11-16.26.39:513][530]LogTexture: Display: Building textures: Texture2D_832 (BGRA8, 128X128)
+[2022.01.11-16.26.39:515][530]LogTexture: Display: Building textures: Texture2D_898 (BGRA8, 128X128)
+[2022.01.11-16.26.39:517][530]LogTexture: Display: Building textures: Texture2D_904 (BGRA8, 128X128)
+[2022.01.11-16.26.39:519][530]LogTexture: Display: Building textures: Texture2D_911 (BGRA8, 128X128)
+[2022.01.11-16.26.39:520][530]LogTexture: Display: Building textures: Texture2D_918 (BGRA8, 128X128)
+[2022.01.11-16.26.39:521][530]LogTexture: Display: Building textures: Texture2D_924 (BGRA8, 128X128)
+[2022.01.11-16.26.39:523][530]LogTexture: Display: Building textures: Texture2D_930 (BGRA8, 128X128)
+[2022.01.11-16.26.39:524][530]LogTexture: Display: Building textures: Texture2D_938 (BGRA8, 128X128)
+[2022.01.11-16.26.39:527][530]LogTexture: Display: Building textures: Texture2D_944 (BGRA8, 128X128)
+[2022.01.11-16.26.39:529][530]LogTexture: Display: Building textures: Texture2D_950 (BGRA8, 128X128)
+[2022.01.11-16.26.39:530][530]LogTexture: Display: Building textures: Texture2D_956 (BGRA8, 128X128)
+[2022.01.11-16.26.39:532][530]LogTexture: Display: Building textures: Texture2D_1055 (BGRA8, 128X128)
+[2022.01.11-16.26.39:533][530]LogTexture: Display: Building textures: Texture2D_1086 (BGRA8, 128X128)
+[2022.01.11-16.26.39:535][530]LogTexture: Display: Building textures: Texture2D_1092 (BGRA8, 128X128)
+[2022.01.11-16.26.39:536][530]LogTexture: Display: Building textures: Texture2D_1098 (BGRA8, 128X128)
+[2022.01.11-16.26.39:537][530]LogTexture: Display: Building textures: Texture2D_1106 (BGRA8, 128X128)
+[2022.01.11-16.26.39:539][530]LogTexture: Display: Building textures: Texture2D_1130 (BGRA8, 128X128)
+[2022.01.11-16.26.39:546][530]LogTexture: Display: Building textures: Texture2D_1154 (BGRA8, 128X128)
+[2022.01.11-16.26.39:548][530]LogTexture: Display: Building textures: Texture2D_1178 (BGRA8, 128X128)
+[2022.01.11-16.26.39:550][530]LogTexture: Display: Building textures: Texture2D_1204 (BGRA8, 128X128)
+[2022.01.11-16.26.39:551][530]LogTexture: Display: Building textures: Texture2D_1210 (BGRA8, 128X128)
+[2022.01.11-16.26.39:555][530]LogTexture: Display: Building textures: Texture2D_1216 (BGRA8, 128X128)
+[2022.01.11-16.26.39:556][530]LogTexture: Display: Building textures: Texture2D_1222 (BGRA8, 128X128)
+[2022.01.11-16.26.39:557][530]LogTexture: Display: Building textures: Texture2D_1230 (BGRA8, 128X128)
+[2022.01.11-16.26.39:558][530]LogTexture: Display: Building textures: Texture2D_1236 (BGRA8, 128X128)
+[2022.01.11-16.26.39:559][530]LogTexture: Display: Building textures: Texture2D_1242 (BGRA8, 128X128)
+[2022.01.11-16.26.39:561][530]LogTexture: Display: Building textures: Texture2D_1248 (BGRA8, 128X128)
+[2022.01.11-16.26.39:562][530]LogTexture: Display: Building textures: Texture2D_1256 (BGRA8, 128X128)
+[2022.01.11-16.26.39:564][530]LogTexture: Display: Building textures: Texture2D_1262 (BGRA8, 128X128)
+[2022.01.11-16.26.39:565][530]LogTexture: Display: Building textures: Texture2D_1268 (BGRA8, 128X128)
+[2022.01.11-16.26.39:567][530]LogTexture: Display: Building textures: Texture2D_1274 (BGRA8, 128X128)
+[2022.01.11-16.26.39:569][530]LogTexture: Display: Building textures: Texture2D_1282 (BGRA8, 128X128)
+[2022.01.11-16.26.39:573][530]LogTexture: Display: Building textures: Texture2D_1288 (BGRA8, 128X128)
+[2022.01.11-16.26.39:576][530]LogTexture: Display: Building textures: Texture2D_1294 (BGRA8, 128X128)
+[2022.01.11-16.26.39:577][530]LogTexture: Display: Building textures: Texture2D_1300 (BGRA8, 128X128)
+[2022.01.11-16.26.39:579][530]LogTexture: Display: Building textures: Texture2D_1307 (BGRA8, 128X128)
+[2022.01.11-16.26.39:580][530]LogTexture: Display: Building textures: Texture2D_1313 (BGRA8, 128X128)
+[2022.01.11-16.26.39:582][530]LogTexture: Display: Building textures: Texture2D_1320 (BGRA8, 128X128)
+[2022.01.11-16.26.39:583][530]LogTexture: Display: Building textures: Texture2D_1326 (BGRA8, 128X128)
+[2022.01.11-16.26.39:586][530]LogTexture: Display: Building textures: Texture2D_1333 (BGRA8, 128X128)
+[2022.01.11-16.26.39:589][530]LogTexture: Display: Building textures: Texture2D_1346 (BGRA8, 128X128)
+[2022.01.11-16.26.39:591][530]LogTexture: Display: Building textures: Texture2D_1352 (BGRA8, 128X128)
+[2022.01.11-16.26.39:594][530]LogTexture: Display: Building textures: Texture2D_1360 (BGRA8, 128X128)
+[2022.01.11-16.26.39:597][530]LogTexture: Display: Building textures: Texture2D_1372 (BGRA8, 128X128)
+[2022.01.11-16.26.39:601][530]LogTexture: Display: Building textures: Texture2D_1378 (BGRA8, 128X128)
+[2022.01.11-16.26.39:602][530]LogTexture: Display: Building textures: Texture2D_1392 (BGRA8, 128X128)
+[2022.01.11-16.26.39:604][530]LogTexture: Display: Building textures: Texture2D_1398 (BGRA8, 128X128)
+[2022.01.11-16.26.39:606][530]LogTexture: Display: Building textures: Texture2D_1404 (BGRA8, 128X128)
+[2022.01.11-16.26.39:607][530]LogTexture: Display: Building textures: Texture2D_1424 (BGRA8, 128X128)
+[2022.01.11-16.26.39:609][530]LogTexture: Display: Building textures: Texture2D_1430 (BGRA8, 128X128)
+[2022.01.11-16.26.39:610][530]LogTexture: Display: Building textures: Texture2D_1437 (BGRA8, 128X128)
+[2022.01.11-16.26.39:612][530]LogTexture: Display: Building textures: Texture2D_1450 (BGRA8, 128X128)
+[2022.01.11-16.26.39:614][530]LogTexture: Display: Building textures: Texture2D_1463 (BGRA8, 128X128)
+[2022.01.11-16.26.39:616][530]LogTexture: Display: Building textures: Texture2D_1469 (BGRA8, 128X128)
+[2022.01.11-16.26.39:618][530]LogTexture: Display: Building textures: Texture2D_1475 (BGRA8, 128X128)
+[2022.01.11-16.26.39:620][530]LogTexture: Display: Building textures: Texture2D_1489 (BGRA8, 128X128)
+[2022.01.11-16.26.39:622][530]LogTexture: Display: Building textures: Texture2D_1495 (BGRA8, 128X128)
+[2022.01.11-16.26.39:623][530]LogTexture: Display: Building textures: Texture2D_1502 (BGRA8, 128X128)
+[2022.01.11-16.26.39:625][530]LogTexture: Display: Building textures: Texture2D_1516 (BGRA8, 128X128)
+[2022.01.11-16.26.39:627][530]LogTexture: Display: Building textures: Texture2D_1522 (BGRA8, 128X128)
+[2022.01.11-16.26.39:629][530]LogTexture: Display: Building textures: Texture2D_1541 (BGRA8, 128X128)
+[2022.01.11-16.26.39:631][530]LogTexture: Display: Building textures: Texture2D_1548 (BGRA8, 128X128)
+[2022.01.11-16.26.39:632][530]LogTexture: Display: Building textures: Texture2D_1554 (BGRA8, 128X128)
+[2022.01.11-16.26.39:636][530]LogTexture: Display: Building textures: Texture2D_1566 (BGRA8, 128X128)
+[2022.01.11-16.26.39:637][530]LogTexture: Display: Building textures: Texture2D_1573 (BGRA8, 128X128)
+[2022.01.11-16.26.39:640][530]LogTexture: Display: Building textures: Texture2D_1579 (BGRA8, 128X128)
+[2022.01.11-16.26.39:641][530]LogTexture: Display: Building textures: Texture2D_1585 (BGRA8, 128X128)
+[2022.01.11-16.26.39:642][530]LogTexture: Display: Building textures: Texture2D_1728 (BGRA8, 128X128)
+[2022.01.11-16.26.39:643][530]LogTexture: Display: Building textures: Texture2D_1968 (BGRA8, 128X128)
+[2022.01.11-16.26.39:645][530]LogTexture: Display: Building textures: Texture2D_1974 (BGRA8, 128X128)
+[2022.01.11-16.26.39:646][530]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2022.01.11-16.26.39:647][530]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 128X128)
+[2022.01.11-16.26.39:648][530]LogTexture: Display: Building textures: Texture2D_36 (BGRA8, 128X128)
+[2022.01.11-16.26.39:649][530]LogTexture: Display: Building textures: Texture2D_46 (BGRA8, 128X128)
+[2022.01.11-16.26.39:650][530]LogTexture: Display: Building textures: Texture2D_58 (BGRA8, 128X128)
+[2022.01.11-16.26.39:652][530]LogTexture: Display: Building textures: Texture2D_75 (BGRA8, 128X128)
+[2022.01.11-16.26.39:656][530]LogTexture: Display: Building textures: Texture2D_91 (BGRA8, 128X128)
+[2022.01.11-16.26.39:657][530]LogTexture: Display: Building textures: Texture2D_116 (BGRA8, 128X128)
+[2022.01.11-16.26.39:667][530]LogTexture: Display: Building textures: Texture2D_132 (BGRA8, 128X128)
+[2022.01.11-16.26.39:671][530]LogTexture: Display: Building textures: Texture2D_148 (BGRA8, 128X128)
+[2022.01.11-16.26.39:673][530]LogTexture: Display: Building textures: Texture2D_164 (BGRA8, 128X128)
+[2022.01.11-16.26.39:675][530]LogTexture: Display: Building textures: Texture2D_187 (BGRA8, 128X128)
+[2022.01.11-16.26.39:677][530]LogTexture: Display: Building textures: Texture2D_274 (BGRA8, 128X128)
+[2022.01.11-16.26.43:141][530]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P_Auto38CB218E44FDC83F328758CA067736241.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/EXVR_P_Auto3.umap'
+[2022.01.11-16.26.43:166][530]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EXVR_P' took 4.197
+[2022.01.11-16.26.43:166][530]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 4.197
+[2022.01.11-16.26.43:166][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Road/Fine_Road_viciaalew/Road] ([1] browsable assets)...
+[2022.01.11-16.26.43:177][530]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Road/Fine_Road_viciaalew/Road.Road]
+[2022.01.11-16.26.43:177][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Road/Fine_Road_viciaalew/Road]
+[2022.01.11-16.26.43:183][530]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Road_Auto3A0A9B5CE4B5207A794D0C8AA3841E5E7.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Road/Fine_Road_viciaalew/Road_Auto3.uasset'
+[2022.01.11-16.26.43:203][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surfaces/Fine_Road_viciaalew/Fine_Road_viciaalew_inst] ([1] browsable assets)...
+[2022.01.11-16.26.43:212][530]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/Surfaces/Fine_Road_viciaalew/Fine_Road_viciaalew_inst.Fine_Road_viciaalew_inst]
+[2022.01.11-16.26.43:212][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surfaces/Fine_Road_viciaalew/Fine_Road_viciaalew_inst]
+[2022.01.11-16.26.43:217][530]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Fine_Road_viciaalew_inst_Auto3A6713A4947AEF843BB4E1DADE4FCFD7B.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Megascans/Surfaces/Fine_Road_viciaalew/Fine_Road_viciaalew_inst_Auto3.uasset'
+[2022.01.11-16.26.43:217][530]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Assets/Alex_assets/road/NewRoadMaterial] ([1] browsable assets)...
+[2022.01.11-16.26.43:217][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/NewRoadMaterial]
+[2022.01.11-16.26.43:219][530]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/NewRoadMaterial_Auto38BE846BC4F12795E0602ABB0D575E583.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/NewRoadMaterial_Auto3.uasset'
+[2022.01.11-16.26.43:219][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor] ([1] browsable assets)...
+[2022.01.11-16.26.43:224][530]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.road_export_alex_s_spin_off_on_the_road_BaseColor]
+[2022.01.11-16.26.43:224][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor]
+[2022.01.11-16.26.43:258][530]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tA2B60AE9447EF757D2CFB497A567D0DF.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor_Auto3.uasset'
+[2022.01.11-16.26.43:259][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal] ([1] browsable assets)...
+[2022.01.11-16.26.43:264][530]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.road_export_alex_s_spin_off_on_the_road_Normal]
+[2022.01.11-16.26.43:264][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal]
+[2022.01.11-16.26.43:307][530]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tC8FD9AC34498781F84510C9CF62C8B23.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal_Auto3.uasset'
+[2022.01.11-16.26.43:308][530]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.11-16.26.43:312][530]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic]
+[2022.01.11-16.26.43:312][530]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic]
+[2022.01.11-16.26.43:352][530]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tDF0D46E44A60DD17A6716F8AB8AA8621.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic_Auto3.uasset'
+[2022.01.11-16.26.43:352][530]LogFileHelpers: Auto-saving content packages took 0.187
+[2022.01.11-16.33.06:949][673]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.33.06:949][673]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.33.10:385][965]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.33.10:387][965]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.33.10:420][965]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.33.10:479][965]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.33.10:479][965]LogEditorFactories: -- imported successfully
+[2022.01.11-16.33.10:489][965]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.33.10:493][965]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.33.10:527][965]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 1024X1024)
+[2022.01.11-16.33.10:552][965]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.33.10:552][965]LogEditorFactories: -- imported successfully
+[2022.01.11-16.33.10:565][965]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.33.10:567][965]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.33.10:597][965]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (OODLE_AutoDXT, 1024X1024)
+[2022.01.11-16.33.10:642][965]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.33.10:642][965]LogEditorFactories: -- imported successfully
+[2022.01.11-16.33.40:792][  2]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-16.35.30:983][578]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png]
+[2022.01.11-16.35.30:991][578]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_BaseColor.png)
+[2022.01.11-16.35.31:070][578]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_BaseColor (OODLE_AutoDXT, 2048X2048)
+[2022.01.11-16.35.31:302][578]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.35.31:302][578]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.35.31:302][578]LogEditorFactories: -- imported successfully
+[2022.01.11-16.35.31:318][578]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png]
+[2022.01.11-16.35.31:335][578]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_Normal.png)
+[2022.01.11-16.35.31:466][578]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_Normal (OODLE_BC5, 2048X2048)
+[2022.01.11-16.35.31:571][578]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.35.31:571][578]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.11-16.35.31:571][578]LogEditorFactories: -- imported successfully
+[2022.01.11-16.35.31:595][578]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png]
+[2022.01.11-16.35.31:600][578]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 D:/uni/year 3/3D VR project/3D DAT VR/road mesh/textures/road export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.png)
+[2022.01.11-16.35.31:670][578]LogTexture: Display: Building textures: road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic (OODLE_AutoDXT, 2048X2048)
+[2022.01.11-16.35.31:841][578]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.35.31:841][578]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.11-16.35.31:841][578]LogEditorFactories: -- imported successfully
+[2022.01.11-16.37.11:787][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2022.01.11-16.37.11:807][ 42]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EXVR_P' took 0.029
+[2022.01.11-16.37.11:807][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor] ([1] browsable assets)...
+[2022.01.11-16.37.11:814][ 42]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.road_export_alex_s_spin_off_on_the_road_BaseColor]
+[2022.01.11-16.37.11:814][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor]
+[2022.01.11-16.37.11:924][ 42]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_t7769130A4256735CDA93748D0A1C3323.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor_Auto4.uasset'
+[2022.01.11-16.37.11:925][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal] ([1] browsable assets)...
+[2022.01.11-16.37.11:931][ 42]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.road_export_alex_s_spin_off_on_the_road_Normal]
+[2022.01.11-16.37.11:931][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal]
+[2022.01.11-16.37.12:087][ 42]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tE3F46D09469CFCBDEE99C4843984BF5E.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal_Auto4.uasset'
+[2022.01.11-16.37.12:088][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.11-16.37.12:094][ 42]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic]
+[2022.01.11-16.37.12:095][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic]
+[2022.01.11-16.37.12:496][ 42]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tC7B74989464D844560026AB7A96232A9.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic_Auto4.uasset'
+[2022.01.11-16.37.12:496][ 42]LogFileHelpers: Auto-saving content packages took 0.689
+[2022.01.11-16.38.01:394][146]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape1)
+[2022.01.11-16.38.01:590][158]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-16.38.11:530][771]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-16.38.11:531][771]Can't find target actor or component.
+[2022.01.11-16.38.13:299][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.11-16.39.42:051][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.11-16.39.42:062][702]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.01.11-16.39.45:383][702]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P43269B3649B4BDA89D3E1BB98F8504C8.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2022.01.11-16.39.45:398][702]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P_BuiltData" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset" SILENT=true
+[2022.01.11-16.39.45:585][702]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P_BuiltData67E5126849C6A17E6BC5ACA58CF6A444.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P_BuiltData.uasset'
+[2022.01.11-16.39.45:605][702]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-16.39.45:606][702]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/EXVR_P_BuiltData.EXVR_P_BuiltData
+[2022.01.11-16.39.45:606][702]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2022.01.11-16.39.50:111][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.01.11-16.39.50:142][ 49]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Road9E5EE99048015664650D55A45DB626C8.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Road/Fine_Road_viciaalew/Road.uasset'
+[2022.01.11-16.39.50:156][ 49]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Fine_Road_viciaalew_instDA77972A4854332375B586B6CF04CC89.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Megascans/Surfaces/Fine_Road_viciaalew/Fine_Road_viciaalew_inst.uasset'
+[2022.01.11-16.39.50:162][ 49]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/NewRoadMaterial1DB3AC3842BBDBB3B05911941EBCCEF9.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/NewRoadMaterial.uasset'
+[2022.01.11-16.39.50:326][ 49]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_t9ABAACFC496A2DDCCEC18E84D8196CB8.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.uasset'
+[2022.01.11-16.39.50:737][ 49]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_tF51EBA534D0A78CECF14BABC9F691950.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.uasset'
+[2022.01.11-16.39.50:886][ 49]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/road_export_alex_s_spin_off_on_t0E6A6ACE4763DB3CDC481DAF5332FBAB.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.uasset'
+[2022.01.11-16.39.50:897][ 49]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.11-16.39.50:897][ 49]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/Megascans/Surfaces/Fine_Road_viciaalew/Fine_Road_viciaalew_inst.Fine_Road_viciaalew_inst
+[2022.01.11-16.39.50:897][ 49]LogContentValidation: Display: Validating StaticMesh /Game/Road/Fine_Road_viciaalew/Road.Road
+[2022.01.11-16.39.50:897][ 49]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic.road_export_alex_s_spin_off_on_the_road_OcclusionRoughnessMetallic
+[2022.01.11-16.39.50:897][ 49]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_Normal.road_export_alex_s_spin_off_on_the_road_Normal
+[2022.01.11-16.39.50:897][ 49]LogContentValidation: Display: Validating Texture2D /Game/Assets/Alex_assets/road/road_export_alex_s_spin_off_on_the_road_BaseColor.road_export_alex_s_spin_off_on_the_road_BaseColor
+[2022.01.11-16.39.50:897][ 49]LogContentValidation: Display: Validating Material /Game/Assets/Alex_assets/road/NewRoadMaterial.NewRoadMaterial
+[2022.01.11-16.40.55:334][265]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.40.55:334][265]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.11-16.40.58:468][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
