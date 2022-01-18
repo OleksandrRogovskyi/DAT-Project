@@ -72,3 +72,7 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+EXPVR/Content/EXVR_P.umap
+EXPVR/Intermediate/CachedAssetRegistry.bin
+EXPVR/Content/EXVR_P.umap
+*.umap
