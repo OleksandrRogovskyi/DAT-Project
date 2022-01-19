@@ -1,0 +1,1412 @@
+﻿Log file open, 01/18/22 22:41:53
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EXPVR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.933660
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CameraCalibrationCore
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin ShallowWater
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.01.18-21.41.55:528][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.18-21.41.55:528][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.18-21.41.55:528][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.18-21.41.55:528][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.18-21.41.55:528][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.18-21.41.55:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.18-21.41.55:529][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.18-21.41.55:529][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.18-21.41.55:555][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.18-21.41.55:555][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.18-21.41.55:556][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.01.18-21.41.55:557][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:557][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.18-21.41.55:557][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.18-21.41.55:557][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.18-21.41.55:557][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.18-21.41.55:557][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.18-21.41.55:557][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.01.18-21.41.55:558][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.18-21.41.55:558][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.18-21.41.55:559][  0]LogHAL: Display: Platform has ~ 16 GB [17022173184 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.18-21.41.55:559][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.18-21.41.55:560][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.18-21.41.55:560][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.01.18-21.41.55:561][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.18-21.41.55:566][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.18-21.41.55:566][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.18-21.41.55:566][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.18-21.41.55:566][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.18-21.41.55:566][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Config/Windows/Editor.ini]
+[2022.01.18-21.41.55:567][  0]LogInit: Computer: LAPTOP-E1PITH8A
+[2022.01.18-21.41.55:567][  0]LogInit: User: melvi
+[2022.01.18-21.41.55:567][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.01.18-21.41.55:567][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.18-21.41.55:568][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.01.18-21.41.55:568][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.18-21.41.55:568][  0]LogMemory: Process Physical Memory: 147.15 MB used, 147.16 MB peak
+[2022.01.18-21.41.55:568][  0]LogMemory: Process Virtual Memory: 130.59 MB used, 130.59 MB peak
+[2022.01.18-21.41.55:568][  0]LogMemory: Physical Memory: 9407.17 MB used,  6826.44 MB free, 16233.61 MB total
+[2022.01.18-21.41.55:568][  0]LogMemory: Virtual Memory: 134204040.00 MB used,  13690.16 MB free, 134217728.00 MB total
+[2022.01.18-21.41.55:631][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.18-21.41.55:895][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.18-21.41.55:898][  0]LogInit: Using OS detected language (en-GB).
+[2022.01.18-21.41.55:898][  0]LogInit: Using OS detected locale (en-GB).
+[2022.01.18-21.41.55:919][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2022.01.18-21.41.56:295][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.18-21.41.56:329][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.18-21.41.56:385][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.18-21.41.56:385][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.18-21.41.59:063][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.18-21.41.59:317][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2022.01.18-21.41.59:317][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.18-21.41.59:317][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.18-21.41.59:317][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.18-21.41.59:446][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (Feature Level 11_0)
+[2022.01.18-21.41.59:446][  0]LogD3D11RHI:       8031/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.01.18-21.41.59:501][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.01.18-21.41.59:501][  0]LogD3D11RHI:       128/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:       0/0/8116 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070 with Max-Q Design
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     DeviceId    : 1f10
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     SubSysId    : 1e6e1043
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     SharedSystemMemory : 8511086592 bytes
+[2022.01.18-21.41.59:504][  0]LogD3D11RHI:     AdapterLuid : 0 81578
+[2022.01.18-21.41.59:515][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.18-21.41.59:515][  0]LogD3D11RHI:     GPU DeviceId: 0x1f10 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.18-21.41.59:515][  0]LogWindows: EnumDisplayDevices:
+[2022.01.18-21.41.59:515][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2022.01.18-21.41.59:516][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.01.18-21.41.59:516][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.01.18-21.41.59:516][  0]LogWindows:    3. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:1 D:1)
+[2022.01.18-21.41.59:517][  0]LogWindows:    4. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2022.01.18-21.41.59:517][  0]LogWindows:    5. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2022.01.18-21.41.59:517][  0]LogWindows:    6. 'NVIDIA GeForce RTX 2070 with Max-Q Design' (P:0 D:0)
+[2022.01.18-21.41.59:517][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.01.18-21.41.59:517][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 2070 with Max-Q Design
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:   Driver Version: 497.09 (internal:30.0.14.9709, unified:497.09)
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:      Driver Date: 11-26-2021
+[2022.01.18-21.41.59:518][  0]LogRHI: Texture pool is 5621 MB (70% of 8031 MB)
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 2070 with Max-Q Design
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     DeviceId    : 1f10
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     SubSysId    : 1e6e1043
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     DedicatedVideoMemory : 8421113856 bytes
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     SharedSystemMemory : 8511086592 bytes
+[2022.01.18-21.41.59:518][  0]LogD3D11RHI:     AdapterLuid : 0 81578
+[2022.01.18-21.41.59:598][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.18-21.41.59:599][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.18-21.41.59:599][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.18-21.41.59:676][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.18-21.41.59:735][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.18-21.42.00:135][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.18-21.42.00:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.18-21.42.00:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.18-21.42.00:159][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.18-21.42.00:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.18-21.42.00:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.18-21.42.00:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.18-21.42.00:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.18-21.42.00:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.18-21.42.00:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.18-21.42.00:160][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.18-21.42.00:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.18-21.42.00:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.18-21.42.00:202][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.18-21.42.00:208][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.18-21.42.00:212][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.18-21.42.00:218][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.18-21.42.00:235][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.18-21.42.00:240][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.18-21.42.00:246][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.18-21.42.00:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.18-21.42.00:277][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.18-21.42.00:298][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.18-21.42.00:305][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.18-21.42.00:309][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.18-21.42.00:314][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.18-21.42.00:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.18-21.42.00:324][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.18-21.42.00:336][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.18-21.42.00:342][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.18-21.42.00:347][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.18-21.42.00:353][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.18-21.42.00:353][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.18-21.42.00:401][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.18-21.42.00:485][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.18-21.42.00:626][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.18-21.42.00:629][  0]LogShaderCompilers: Guid format shader working directory is -10 characters bigger than the processId version (../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Intermediate/Shaders/WorkingDirectory/23384/).
+[2022.01.18-21.42.00:629][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/melvi/AppData/Local/Temp/UnrealShaderWorkingDir/ED2BCD3E4461C984EAD97BB4F00CC2AB/'.
+[2022.01.18-21.42.00:631][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.18-21.42.00:632][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.18-21.42.00:632][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.18-21.42.04:177][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.18-21.42.04:339][  0]LogDerivedDataCache: Loaded boot cache 0.16s 98MB C:/Users/melvi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.18-21.42.04:339][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/melvi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.18-21.42.04:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.18-21.42.04:339][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.18-21.42.04:339][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.18-21.42.04:339][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.18-21.42.04:370][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.18-21.42.04:370][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.18-21.42.04:370][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.18-21.42.04:430][  0]LogDerivedDataCache: Speed tests for C:/Users/melvi/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.06 seconds
+[2022.01.18-21.42.04:430][  0]LogDerivedDataCache: Display: Performance to C:/Users/melvi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.33ms. RandomReadSpeed=19.29MBs, RandomWriteSpeed=111.80MBs. Assigned SpeedClass 'Local'
+[2022.01.18-21.42.04:435][  0]LogDerivedDataCache: Using Local data cache path C:/Users/melvi/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.18-21.42.04:435][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.18-21.42.04:435][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.18-21.42.04:514][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.18-21.42.04:530][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.18-21.42.04:586][  0]LogAssetRegistry: FAssetRegistry took 0.0086 seconds to start up
+[2022.01.18-21.42.05:230][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.18-21.42.05:230][  0]LogInit: Active device profile: [0000029C5CE18900][0000029C58E4D140 49] Windows
+[2022.01.18-21.42.05:230][  0]LogInit: Profiles: [0000029C5CE18900][0000029C58E4D140 49] Windows, [0000029C5CDE3800][0000029C58E552C0 49] WindowsNoEditor, [0000029C5CE1B500][0000029C58E59440 49] WindowsServer, [0000029C5CDE0E00][0000029C58E5D5C0 49] WindowsClient, [0000029C5CE1B800][0000029C58E61740 49] IOS, [0000029C5CDE2800][0000029C5AD018C0 49] iPadAir, [0000029C5CE1A000][0000029C5AD05A40 49] iPadAir2, [0000029C5CD88A00][0000029C5AD0C180 49] IPadPro, [0000029C5CD88B00][0000029C5AD081C0 49] iPadAir3, [0000029C5CDE1900][0000029C5AD10340 49] iPadAir4, [0000029C5CD8B400][0000029C58E50480 49] iPadMini2, [0000029C5CDE2A00][0000029C5AD145C0 49] iPadMini3, [0000029C5CD89700][0000029C5AD18700 49] iPadMini4, [0000029C5CE19100][0000029C5AD1C840 49] iPadMini5, [0000029C5CDC4300][0000029C5AD28B00 49] iPhone6, [0000029C5CDC4400][0000029C5AD24B40 49] iPodTouch6, [0000029C5CD7BF00][0000029C5AD30E00 49] iPhone7, [0000029C5CD7BE00][0000029C5AD2CE40 49] iPodTouch7, [0000029C5CDE2000][0000029C5AD34FC0 49] iPhone5S, [0000029C5CD79A00][0000029C5AD39140 49] iPhone6Plus, [0000029C5CDC4200][0000029C5AD3D2C0 49] iPhone6S, [0000029C5CD78600][0000029C5AD41440 49] iPhone6SPlus, [0000029C5CDC6900][0000029C5AD455C0 49] iPhone7Plus, [0000029C5CD7B100][0000029C5AD49740 49] iPhoneSE, [0000029C5CDC6200][0000029C5B0A98C0 49] iPhone8, [0000029C5CD7BB00][0000029C5B0ADA40 49] iPhone8Plus, [0000029C5CDC4A00][0000029C5B0B1BC0 49] iPhoneX, [0000029C5CD79400][0000029C5B0B41C0 49] iPhoneXS, [0000029C5CDC7900][0000029C5B0B8340 49] iPhoneXSMax, [0000029C5CD78900][0000029C5B0BC4C0 49] iPhoneXR, [0000029C5CDC6F00][0000029C5AD20600 49] iPhone11, [0000029C5CD79300][0000029C5B0C0740 49] iPhone11Pro, [0000029C5CDC5000][0000029C5B0C4880 49] iPhone11ProMax, [0000029C5CD7AA00][0000029C5B0C89C0 49] iPhoneSE2, [0000029C5CDC5400][0000029C5B0D0B40 49] iPhone12Mini, [0000029C5CD7A400][0000029C5B0D4CC0 49] iPhone12, [0000029C5CDC4D00][0000029C5B0D8E40 49] iPhone12Pro, [0000029C5CD7AB00][0000029C5B0DCFC0 49] iPhone12ProMax, [0000029C5CDC7000][0000029C5B0E1140 49] iPadPro105, [0000029C5CD78700][0000029C5B0E52C0 49] iPadPro129, [0000029C5CDC6800][0000029C5B0E9440 49] iPadPro97, [0000029C5CD7A600][0000029C5B0ED5C0 49] iPadPro2_129, [0000029C5CDC7C00][0000029C5B0F1740 49] iPad5, [0000029C5CD7A200][0000029C5B0F58C0 49] iPad6, [0000029C5CDC4F00][0000029C5B0F9A40 49] iPad7, [0000029C5CD7AD00][0000029C5B0FDBC0 49] iPad8, [0000029C5CDC5100][0000029C5D1101C0 49] iPadPro11, [0000029C5CD79600][0000029C5D114340 49] iPadPro2_11, [0000029C5CDC7400][0000029C5D1184C0 49] iPadPro3_129, [0000029C5CD7A800][0000029C5D11C640 49] iPadPro4_129, [0000029C5CDC7A00][0000029C5D1207C0 49] AppleTV, [0000029C5CD7A100][0000029C5B0CC900 49] AppleTV4K, [0000029C5CDC5F00][0000029C5D124A40 49] TVOS, [0000029C5CD7B400][0000029C5D128B80 49] Mac, [0000029C5CDC7800][0000029C5D130D00 49] MacClient, [0000029C5CD79E00][0000029C5D134E80 49] MacNoEditor, [0000029C5CDC7F00][0000029C5D139000 49] MacServer, [0000029C5CD7B500][0000029C5D13D180 49] Linux, [0000029C5CDC4C00][0000029C5D141300 49] LinuxAArch64, [0000029C5CD7AF00][0000029C5D145480 49] LinuxNoEditor, [0000029C5CDC4B00][0000029C5D149600 49] LinuxAArch64NoEditor, [0000029C5CD7B700][0000029C5D14D780 49] LinuxClient, [0000029C5CDC5A00][0000029C5D151900 49] LinuxAArch64Client, [0000029C5CD79000][0000029C5D155A80 49] LinuxServer, [0000029C5CDC6500][0000029C5D159C00 49] LinuxAArch64Server, [0000029C5CD79900][0000029C5D15C200 49] Android, [0000029C5CDC5300][0000029C5D160380 49] Android_Low, [0000029C5CD7A700][0000029C5D164500 49] Android_Mid, [0000029C5CDC6B00][0000029C5D168680 49] Android_High, [0000029C5CD7B800][0000029C5D16C800 49] Android_Default, [0000029C5CDC5600][0000029C5D170980 49] Android_Adreno4xx, [0000029C5CD79500][0000029C5D12CAC0 49] Android_Adreno5xx_Low, [0000029C5CD8B600][0000029C5D174C00 49] Android_Adreno5xx, [0000029C5CDE1800][0000029C5D17CD40 49] Android_Adreno6xx, [0000029C5CD89200][0000029C5D1F0EC0 49] Android_Adreno6xx_Vulkan, [0000029C5CDE3C00][0000029C5D1F5040 49] Android_Mali_T6xx, [0000029C5CD89100][0000029C5D1F91C0 49] Android_Mali_T7xx, [0000029C5CDE1600][0000029C5D1FD340 49] Android_Mali_T8xx, [0000029C5CD89E00][0000029C5D2014C0 49] Android_Mali_G71, [0000029C5CDE0500][0000029C5D205640 49] Android_Mali_G72, [0000029C5CD88800][0000029C5D2097C0 49] Android_Mali_G72_Vulkan, [0000029C5CDE1300][0000029C5D20D940 49] Android_Mali_G76, [0000029C5CD88100][0000029C5D211AC0 49] Android_Mali_G76_Vulkan, [0000029C5CDE1F00][0000029C5D2140C0 49] Android_Mali_G77, [0000029C5CD89000][0000029C5D220240 49] Android_Mali_G77_Vulkan, [0000029C5CDE0A00][0000029C5D2243C0 49] Android_Mali_G78, [0000029C5CD8AC00][0000029C5D2A6540 49] Android_Mali_G78_Vulkan, [0000029C5CDE3600][0000029C5D2AA6C0 49] Android_Mali_G710, [0000029C5CD8AA00][0000029C5D2AE840 49] Android_Mali_G710_Vulkan, [0000029C5CDE3F00][0000029C5D2B29C0 49] Android_Vulkan_SM5, [0000029C5CD8BB00][0000029C5D2B6B40 49] Android_PowerVR_G6xxx, [0000029C5CDE3B00][0000029C5D1ECC80 49] Android_PowerVR_GT7xxx, [0000029C5CD8B900][0000029C5D2BADC0 49] Android_PowerVR_GE8xxx, [0000029C5CDE0C00][0000029C5D2C8F00 49] Android_PowerVR_GM9xxx, [0000029C5CD8A700][0000029C5D3DF040 49] Android_PowerVR_GM9xxx_Vulkan, [0000029C5CDE2700][0000029C5D3E71C0 49] Android_TegraK1, [0000029C5CD88900][0000029C5D3EB340 49] Android_Unknown_Vulkan, [0000029C5CDE1D00][0000029C5D3EF4C0 49] Lumin, [0000029C5CD88500][0000029C5D3F3640 49] Lumin_Desktop, [0000029C5CDE3300][0000029C5D3F77C0 49] HoloLens, 
+[2022.01.18-21.42.05:575][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.18-21.42.05:575][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.18-21.42.05:575][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.18-21.42.05:575][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.18-21.42.05:575][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.18-21.42.05:662][  0]LogNetVersion: EXPVR 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3398417609)
+[2022.01.18-21.42.07:127][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.18-21.42.07:493][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.18-21.42.07:503][  0]LogUObjectArray: 18445 objects as part of root set at end of initial load.
+[2022.01.18-21.42.07:503][  0]LogUObjectAllocator: 4789536 out of 0 bytes used by permanent object pool.
+[2022.01.18-21.42.07:503][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.18-21.42.07:911][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: A71FB99D4A542AB6E72F7091D50EAA9D | Instance: C65EF0B3408FDEDC5E9D89A948C4AB4A (LAPTOP-E1PITH8A-23384).
+[2022.01.18-21.42.08:302][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.18-21.42.08:312][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.18-21.42.08:764][  0]LogPython: Using Python 3.7.7
+[2022.01.18-21.42.09:988][  0]SourceControl: Source control is disabled
+[2022.01.18-21.42.09:988][  0]SourceControl: Source control is disabled
+[2022.01.18-21.42.10:002][  0]SourceControl: Source control is disabled
+[2022.01.18-21.42.10:016][  0]SourceControl: Source control is disabled
+[2022.01.18-21.42.10:025][  0]LogUProjectInfo: Found projects:
+[2022.01.18-21.42.10:032][  0]SourceControl: Source control is disabled
+[2022.01.18-21.42.10:869][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.18-21.42.11:025][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.18-21.42.11:049][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.18-21.42.11:049][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.18-21.42.11:496][  0]LogCollectionManager: Loaded 0 collections in 0.002172 seconds
+[2022.01.18-21.42.11:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Collections/' took 0.00s
+[2022.01.18-21.42.11:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/melvi/Desktop/DAT-Project/EXPVR/Content/Developers/melvi/Collections/' took 0.00s
+[2022.01.18-21.42.11:569][  0]LogFileCache: Scanning file cache for directory 'C:/Users/melvi/Desktop/DAT-Project/EXPVR/Content/Collections/' took 0.00s
+[2022.01.18-21.42.11:569][  0]LogOcInput: OculusInput pre-init called
+[2022.01.18-21.42.12:075][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumVertices is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.18-21.42.12:075][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumFaces is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.18-21.42.12:076][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.18-21.42.12:076][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Length is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.18-21.42.12:076][  0]LogClass: Display: StructProperty FPhysicsBoxData::Dimensions is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.18-21.42.12:076][  0]LogClass: Display: FloatProperty FPhysicsSphereData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.18-21.42.12:076][  0]LogClass: Display: EnumProperty FLODLevelGenerateSettings::TargetMode is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.18-21.42.12:076][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetPercentage is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.18-21.42.12:076][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetCount is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.18-21.42.12:078][  0]LogClass: Display: 9 Uninitialized script struct members found including 0 object properties
+[2022.01.18-21.42.12:090][  0]LogEngine: Initializing Engine...
+[2022.01.18-21.42.12:175][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.01.18-21.42.12:238][  0]LogHMD: Optional extension XR_VARJO_quad_views is not available
+[2022.01.18-21.42.12:238][  0]LogHMD: Warning: Required extension XR_EXT_eye_gaze_interaction is not available
+[2022.01.18-21.42.12:238][  0]LogHMD: Could not enable all required OpenXR extensions for OpenXREyeTracker on current system. This plugin will be loaded but ignored, but will be enabled on a target platform that supports the required extension.
+[2022.01.18-21.42.12:283][  0]LogHMD: Failed to create an OpenXR instance, result is XR_ERROR_RUNTIME_FAILURE. Please check if you have an OpenXR runtime installed. The following extensions were enabled:
+[2022.01.18-21.42.12:283][  0]LogHMD: - XR_KHR_D3D11_enable
+[2022.01.18-21.42.12:283][  0]LogHMD: - XR_KHR_D3D12_enable
+[2022.01.18-21.42.12:283][  0]LogHMD: - XR_KHR_opengl_enable
+[2022.01.18-21.42.12:283][  0]LogHMD: - XR_KHR_vulkan_enable
+[2022.01.18-21.42.12:283][  0]LogHMD: - XR_KHR_composition_layer_depth
+[2022.01.18-21.42.12:283][  0]LogHMD: - XR_KHR_visibility_mask
+[2022.01.18-21.42.12:283][  0]LogHMD: - XR_EXT_hand_tracking
+[2022.01.18-21.42.12:284][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.18-21.42.12:290][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.01.18-21.42.12:295][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.001 s
+[2022.01.18-21.42.12:661][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.18-21.42.12:719][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.18-21.42.12:727][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.18-21.42.12:732][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.18-21.42.12:738][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.18-21.42.12:741][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.18-21.42.12:741][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.18-21.42.12:742][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.18-21.42.12:742][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.18-21.42.12:742][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.18-21.42.12:742][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.18-21.42.12:742][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.18-21.42.12:742][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.18-21.42.12:742][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.18-21.42.12:742][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.18-21.42.12:744][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.18-21.42.12:744][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.18-21.42.12:744][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.18-21.42.12:744][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.18-21.42.14:448][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.18-21.42.14:448][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.18-21.42.14:650][  0]LogAudioMixer: Display: Using Audio Device OUT 1-2 (2- BEHRINGER UMC 404HD 192k)
+[2022.01.18-21.42.14:656][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.18-21.42.14:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.18-21.42.14:699][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.18-21.42.14:702][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.18-21.42.14:703][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.18-21.42.14:703][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.18-21.42.14:711][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.18-21.42.14:711][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.18-21.42.14:711][  0]LogInit: FAudioDevice initialized.
+[2022.01.18-21.42.14:712][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.18-21.42.14:713][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.18-21.42.14:791][  0]LogDerivedDataCache: Saved boot cache 0.08s 98MB C:/Users/melvi/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.18-21.42.14:795][  0]LogInit: Texture streaming: Enabled
+[2022.01.18-21.42.14:830][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.01.18-21.42.14:839][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.18-21.42.14:839][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.18-21.42.14:847][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.18-21.42.14:922][  0]LogInit: Transaction tracking system initialized
+[2022.01.18-21.42.14:990][  0]BlueprintLog: New page: Editor Load
+[2022.01.18-21.42.15:180][  0]LocalizationService: Localization service is disabled
+[2022.01.18-21.42.15:249][  0]TimingProfiler: Initialize
+[2022.01.18-21.42.15:249][  0]TimingProfiler: OnSessionChanged
+[2022.01.18-21.42.15:249][  0]LoadingProfiler: Initialize
+[2022.01.18-21.42.15:249][  0]LoadingProfiler: OnSessionChanged
+[2022.01.18-21.42.15:249][  0]NetworkingProfiler: Initialize
+[2022.01.18-21.42.15:249][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.18-21.42.15:249][  0]MemoryProfiler: Initialize
+[2022.01.18-21.42.15:249][  0]MemoryProfiler: OnSessionChanged
+[2022.01.18-21.42.15:981][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.18-21.42.15:981][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.18-21.42.16:546][  0]LogFileCache: Scanning file cache for directory 'C:/Users/melvi/Desktop/DAT-Project/EXPVR/Content/' took 0.03s
+[2022.01.18-21.42.16:785][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.18-21.42.16:794][  0]SourceControl: Source control is disabled
+[2022.01.18-21.42.16:795][  0]LogUnrealEdMisc: Loading editor; pre map load, took 25.823
+[2022.01.18-21.42.16:796][  0]Cmd: MAP LOAD FILE="../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.18-21.42.16:804][  0]LightingResults: New page: Lighting Build
+[2022.01.18-21.42.16:810][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-21.42.16:812][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-21.42.16:816][  0]MapCheck: New page: Map Check
+[2022.01.18-21.42.16:816][  0]LightingResults: New page: Lighting Build
+[2022.01.18-21.42.16:831][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.18-21.42.16:843][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2022.01.18-21.42.16:974][  0]LogLinker: Warning: [AssetLog] C:\Users\melvi\Desktop\DAT-Project\EXPVR\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.01.18-21.42.16:974][  0]LogLinker: Warning: [AssetLog] C:\Users\melvi\Desktop\DAT-Project\EXPVR\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.01.18-21.42.17:163][  0]LogLinker: Warning: [AssetLog] C:\Users\melvi\Desktop\DAT-Project\EXPVR\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.01.18-21.42.17:265][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.01.18-21.42.17:265][  0]LogLinker: Warning: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.01.18-21.42.17:280][  0]LogLinker: Warning: [AssetLog] C:\Users\melvi\Desktop\DAT-Project\EXPVR\Content\StarterContent\Maps\Minimal_Default.umap: Failed to load '/Game/StarterContent/Maps/Minimal_Default_BuiltData': Can't find file.
+[2022.01.18-21.42.17:280][  0]LoadErrors: Failed to load /Game/StarterContent/Maps/Minimal_Default_BuiltData.Minimal_Default_BuiltData Referenced by PersistentLevel
+[2022.01.18-21.42.17:492][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2022.01.18-21.42.17:495][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2022.01.18-21.42.17:566][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.18-21.42.17:588][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2022.01.18-21.42.17:591][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.18-21.42.17:592][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1.168ms to complete.
+[2022.01.18-21.42.17:593][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.797
+[2022.01.18-21.42.17:650][  0]LogUnrealEdMisc: Total Editor Startup Time, took 26.679
+[2022.01.18-21.42.17:875][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.18-21.42.17:884][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.18-21.42.17:891][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.18-21.42.17:901][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.18-21.42.17:955][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0111 seconds. Added 4336 classes and 1002 folders.
+[2022.01.18-21.42.17:969][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.18-21.42.17:983][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.18-21.42.17:983][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.17:983][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.18-21.42.17:985][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.17:985][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.18-21.42.17:985][  0]LogPakFile: OnPakFileMounted2Time == 0.002070
+[2022.01.18-21.42.17:996][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.18-21.42.17:996][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.17:996][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.18-21.42.17:996][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.17:996][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.18-21.42.17:996][  0]LogPakFile: OnPakFileMounted2Time == 0.000388
+[2022.01.18-21.42.18:003][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.18-21.42.18:003][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:003][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.18-21.42.18:003][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:003][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.18-21.42.18:003][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.18-21.42.18:008][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.18-21.42.18:008][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:008][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.18-21.42.18:008][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:008][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.18-21.42.18:009][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.18-21.42.18:015][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.18-21.42.18:015][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:015][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.18-21.42.18:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:015][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.18-21.42.18:015][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.01.18-21.42.18:021][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.18-21.42.18:021][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:021][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.18-21.42.18:021][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:021][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.18-21.42.18:021][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.18-21.42.18:026][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.18-21.42.18:026][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:026][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.18-21.42.18:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:026][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.18-21.42.18:026][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.18-21.42.18:033][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.18-21.42.18:033][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:033][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.18-21.42.18:033][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:033][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.18-21.42.18:033][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.01.18-21.42.18:039][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.18-21.42.18:039][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:039][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.18-21.42.18:039][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:039][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.18-21.42.18:039][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.01.18-21.42.18:050][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.18-21.42.18:050][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:050][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.18-21.42.18:050][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:050][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.18-21.42.18:050][  0]LogPakFile: OnPakFileMounted2Time == 0.000051
+[2022.01.18-21.42.18:055][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.18-21.42.18:055][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:055][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.18-21.42.18:055][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:055][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.18-21.42.18:055][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.01.18-21.42.18:062][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.18-21.42.18:062][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:062][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.18-21.42.18:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:062][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.18-21.42.18:062][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.01.18-21.42.18:068][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.18-21.42.18:068][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:068][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.18-21.42.18:068][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:068][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.18-21.42.18:068][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.01.18-21.42.18:074][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.18-21.42.18:074][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:074][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.18-21.42.18:074][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:074][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.18-21.42.18:074][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.18-21.42.18:080][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.18-21.42.18:081][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:081][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.18-21.42.18:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:081][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.18-21.42.18:081][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.18-21.42.18:088][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.18-21.42.18:088][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:088][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.18-21.42.18:088][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:088][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.18-21.42.18:088][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.01.18-21.42.18:093][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.18-21.42.18:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.18-21.42.18:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:094][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.18-21.42.18:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.18-21.42.18:100][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.18-21.42.18:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.18-21.42.18:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:101][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.18-21.42.18:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.01.18-21.42.18:106][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.18-21.42.18:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.18-21.42.18:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:106][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.18-21.42.18:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.18-21.42.18:115][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.18-21.42.18:115][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:115][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.18-21.42.18:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:115][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.18-21.42.18:115][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.01.18-21.42.18:120][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.18-21.42.18:120][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:121][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.18-21.42.18:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:121][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.18-21.42.18:121][  0]LogPakFile: OnPakFileMounted2Time == 0.000113
+[2022.01.18-21.42.18:127][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.18-21.42.18:127][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:127][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.18-21.42.18:127][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:127][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.18-21.42.18:127][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.01.18-21.42.18:134][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.18-21.42.18:134][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:134][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.18-21.42.18:134][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:134][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.18-21.42.18:134][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.01.18-21.42.18:141][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.18-21.42.18:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.18-21.42.18:141][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:141][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.18-21.42.18:141][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.18-21.42.18:147][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.18-21.42.18:147][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:147][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.18-21.42.18:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:147][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.18-21.42.18:147][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.01.18-21.42.18:153][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.18-21.42.18:153][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.18-21.42.18:153][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.18-21.42.18:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.18-21.42.18:153][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.18-21.42.18:153][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.18-21.42.18:451][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.01.18-21.42.18:457][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.01.18-21.42.18:570][  0]LogSlate: Took 0.006454 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.18-21.42.18:579][  0]LogSlate: Took 0.007292 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.18-21.42.18:586][  0]LogSlate: Took 0.006751 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.18-21.42.18:863][  0]LogRenderer: Reallocating scene render targets to support 1228x580 Format 10 NumSamples 1 (Frame:1).
+[2022.01.18-21.42.19:140][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.18-21.42.19:140][  0]LogLoad: (Engine Initialization) Total time: 28.17 seconds
+[2022.01.18-21.42.19:140][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.18-21.42.19:338][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.18-21.42.19:437][  0]LogSlate: Took 0.007355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.18-21.42.19:462][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/melvi/Desktop/DAT-Project/EXPVR/Content/' took 0.19s
+[2022.01.18-21.42.19:488][  1]LogAssetRegistry: Asset discovery search completed in 14.9029 seconds
+[2022.01.18-21.42.19:530][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2022.01.18-21.42.19:826][  2]LogSlate: Took 0.006516 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.18-21.42.20:795][  5]LogSlate: Took 0.000151 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.18-21.43.24:552][277]LogSlate: Window 'Message Log' being destroyed
+[2022.01.18-21.43.24:559][277]LogSlate: Window 'Message Log' being destroyed
+[2022.01.18-21.44.20:505][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_01_texture\Set_2/cottage_roof_01_Material_BaseColor.png)
+[2022.01.18-21.44.20:939][ 15]LogTexture: Display: Building textures: cottage_roof_01_Material_BaseColor (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.44.21:903][ 15]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.21:903][ 15]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.21:903][ 15]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.22:007][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_01_texture\Set_2/cottage_roof_01_Material_Normal.png)
+[2022.01.18-21.44.22:657][ 15]LogTexture: Display: Building textures: cottage_roof_01_Material_Normal (OODLE_BC5, 4096X4096)
+[2022.01.18-21.44.23:223][ 15]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.23:223][ 15]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.23:223][ 15]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.23:317][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_01_texture\Set_2/cottage_roof_01_Material_OcclusionRoughnessMetallic.png)
+[2022.01.18-21.44.23:746][ 15]LogTexture: Display: Building textures: cottage_roof_01_Material_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.44.24:922][ 15]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.24:922][ 15]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.24:922][ 15]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.24:986][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_01_texture\Set_3/cottage_roof_01_Material_BaseColor.png)
+[2022.01.18-21.44.25:461][ 15]LogTexture: Display: Building textures: cottage_roof_01_Material_BaseColor (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.44.26:637][ 15]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.26:637][ 15]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.26:638][ 15]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.26:753][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_01_texture\Set_3/cottage_roof_01_Material_Normal.png)
+[2022.01.18-21.44.27:438][ 15]LogTexture: Display: Building textures: cottage_roof_01_Material_Normal (OODLE_BC5, 4096X4096)
+[2022.01.18-21.44.28:066][ 15]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.28:066][ 15]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.28:066][ 15]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.28:158][ 15]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_01_texture\Set_3/cottage_roof_01_Material_OcclusionRoughnessMetallic.png)
+[2022.01.18-21.44.28:599][ 15]LogTexture: Display: Building textures: cottage_roof_01_Material_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.44.29:886][ 15]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.29:886][ 15]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.29:886][ 15]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.41:981][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_02_texture\Set_02/cottage_roof_02_Material_BaseColor.png)
+[2022.01.18-21.44.42:416][220]LogTexture: Display: Building textures: cottage_roof_02_Material_BaseColor (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.44.43:426][220]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.43:426][220]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.43:426][220]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.43:507][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_02_texture\Set_02/cottage_roof_02_Material_Normal.png)
+[2022.01.18-21.44.44:169][220]LogTexture: Display: Building textures: cottage_roof_02_Material_Normal (OODLE_BC5, 4096X4096)
+[2022.01.18-21.44.44:712][220]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.44:712][220]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.44:712][220]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.44:794][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_02_texture\Set_02/cottage_roof_02_Material_OcclusionRoughnessMetallic.png)
+[2022.01.18-21.44.45:249][220]LogTexture: Display: Building textures: cottage_roof_02_Material_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.44.46:398][220]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.46:398][220]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.46:398][220]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.46:452][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_02_texture\Set_03/cottage_roof_02_Material_BaseColor.png)
+[2022.01.18-21.44.46:917][220]LogTexture: Display: Building textures: cottage_roof_02_Material_BaseColor (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.44.47:925][220]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.47:925][220]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.47:925][220]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.48:003][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_02_texture\Set_03/cottage_roof_02_Material_Normal.png)
+[2022.01.18-21.44.48:649][220]LogTexture: Display: Building textures: cottage_roof_02_Material_Normal (OODLE_BC5, 4096X4096)
+[2022.01.18-21.44.49:197][220]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.49:197][220]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.49:197][220]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.44.49:293][220]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_roof_02_texture\Set_03/cottage_roof_02_Material_OcclusionRoughnessMetallic.png)
+[2022.01.18-21.44.49:729][220]LogTexture: Display: Building textures: cottage_roof_02_Material_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.44.50:870][220]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.50:870][220]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.44.50:870][220]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.01:600][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/cottage_Shed_01_Material_BaseColor.png)
+[2022.01.18-21.45.02:037][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_BaseColor (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.45.03:079][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.03:079][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.03:079][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.03:157][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/cottage_Shed_01_Material_Normal.png)
+[2022.01.18-21.45.03:848][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_Normal (OODLE_BC5, 4096X4096)
+[2022.01.18-21.45.04:421][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.04:421][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.04:421][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.04:496][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/cottage_Shed_01_Material_OcclusionRoughnessMetallic.png)
+[2022.01.18-21.45.04:906][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.45.05:932][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.05:932][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.05:932][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.05:987][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/Set 2/cottage_Shed_01_Material_BaseColor.png)
+[2022.01.18-21.45.06:409][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_BaseColor (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.45.07:418][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.07:418][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.07:419][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.07:502][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/Set 2/cottage_Shed_01_Material_Normal.png)
+[2022.01.18-21.45.08:178][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_Normal (OODLE_BC5, 4096X4096)
+[2022.01.18-21.45.08:789][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.08:789][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.08:789][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.08:862][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/Set 2/cottage_Shed_01_Material_OcclusionRoughnessMetallic.png)
+[2022.01.18-21.45.09:265][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.45.10:304][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.10:304][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.10:304][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.10:361][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_BaseColor.png)
+[2022.01.18-21.45.10:784][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_BaseColor (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.45.11:758][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.11:758][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.11:758][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.11:844][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_Normal.png)
+[2022.01.18-21.45.12:483][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_Normal (OODLE_BC5, 4096X4096)
+[2022.01.18-21.45.13:057][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.13:058][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.13:058][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.18-21.45.13:129][428]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage_texture\Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_OcclusionRoughnessMetallic.png)
+[2022.01.18-21.45.13:519][428]LogTexture: Display: Building textures: cottage_Shed_01_Material_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.45.14:589][428]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.14:589][428]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.14:589][428]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.45.21:008][661]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage\cottage_Shed_01.fbx)
+[2022.01.18-21.45.21:023][661]LogFbx: Loading FBX Scene from C:\Users\melvi\Desktop\My DAT files\EXPORTS FOR SUBSTANCE\Cottage\cottage_Shed_01.fbx
+[2022.01.18-21.45.21:032][661]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.18-21.45.23:789][661]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.01.18-21.45.23:875][661]LogMaterial: Display: Missing cached shadermap for Material in PCD3D_SM5, Default, SM5 (DDC key hash: CB7D312C2EF7D8D9D4AA480F89DC71EBDE5ECCF5), compiling. 
+[2022.01.18-21.45.23:890][661]LogFbx: Display: Triangulating static mesh cottage_Shed_01
+[2022.01.18-21.45.23:965][661]LogStaticMesh: Building static mesh cottage_Shed_01...
+[2022.01.18-21.45.24:053][661]LogStaticMesh: Built static mesh [0.09s] /Game/Assets/Melvin_assets/Cottage/cottage_Shed_01.cottage_Shed_01
+[2022.01.18-21.45.24:078][661]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.01.18-21.45.24:253][665]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.45.24:260][665]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.18-21.45.24:260][665]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.18-21.45.24:260][665]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.45.24:305][665]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.01.18-21.45.24:305][665]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.01.18-21.45.24:305][665]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.18-21.45.24:305][665]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.01.18-21.45.24:305][665]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.01.18-21.45.24:305][665]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.01.18-21.45.24:305][665]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.01.18-21.45.24:305][665]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.45.26:117][758]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.01.18-21.45.26:117][758]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.45.26:117][758]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.18-21.45.26:117][758]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2022.01.18-21.45.26:117][758]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.01.18-21.45.26:118][758]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.18-21.45.26:118][758]LogShaderCompilers: Display: ================================================
+[2022.01.18-21.45.26:395][774]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.18-21.45.26:395][774]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.45.26:413][775]LogSlate: Window 'Message Log' being destroyed
+[2022.01.18-21.45.26:428][775]LogSlate: Window 'Message Log' being destroyed
+[2022.01.18-21.45.28:463][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.01.18-21.45.29:775][873]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.18-21.45.29:796][873]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Melvin_assets/Cottage/Material.Material
+[2022.01.18-21.45.30:579][873]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2022.01.18-21.47.32:643][456]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Melvin_assets/Cottage/cottage_Shed_01.cottage_Shed_01
+[2022.01.18-21.47.32:738][456]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.18-21.47.32:854][456]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.18-21.47.33:392][456]LogSlate: Took 0.005357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.18-21.47.54:172][640]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.18-21.47.54:172][640]LogEditorClassViewer: Warning: Class /Composure/Blueprints/CompositingElements/BP_MediaPlateCompElement.BP_MediaPlateCompElement_C has parent /Script/Composure.ComposureCompShotElement, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.18-21.47.54:172][640]LogEditorClassViewer: Warning: Class /Composure/Blueprints/CompositingElements/BP_RadialCompElement.BP_RadialCompElement_C has parent /Script/Composure.ComposureCompShotElement, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.18-21.47.54:172][640]LogEditorClassViewer: Warning: Class /Composure/Blueprints/CompositingElements/BP_RampCompElement.BP_RampCompElement_C has parent /Script/Composure.ComposureCompShotElement, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.18-21.47.54:172][640]LogEditorClassViewer: Warning: Class /Composure/Blueprints/CompositingElements/BP_RotoPaintCompElement.BP_RotoPaintCompElement_C has parent /Script/Composure.ComposureCompShotElement, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.18-21.47.54:172][640]LogEditorClassViewer: Warning: Class /Composure/Blueprints/CompositingElements/BP_TextureCompElement.BP_TextureCompElement_C has parent /Script/Composure.ComposureCompShotElement, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.01.18-21.47.56:302][640]LogSlate: Window 'Pick Parent Class' being destroyed
+[2022.01.18-21.47.56:311][640]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2022.01.18-21.47.56:325][640]LogContentBrowser: Creating deferred item: NewBlueprint
+[2022.01.18-21.48.06:386][242]LogContentBrowser: Attempting asset rename: NewBlueprint -> Cottage_shed_01
+[2022.01.18-21.48.06:392][242]LogContentBrowser: End creating deferred item NewBlueprint
+[2022.01.18-21.48.07:989][334]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Melvin_assets/Cottage/Cottage_Materials/Cottage_shed_01.Cottage_shed_01
+[2022.01.18-21.48.09:834][334]LogBlueprintEditor: Perf: 1.8 total seconds to load all 8 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.01.18-21.48.09:834][334]LogBlueprintEditor: Perf: 1.6 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.01.18-21.48.10:498][334]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.01.18-21.48.39:952][882]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.01.18-21.48.40:898][882]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.18-21.48.40:986][882]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.18-21.48.40:986][882]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.18-21.48.41:042][882]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Melvin_assets/Cottage/Cottage_Materials/Cottage_shed_01.Cottage_shed_01
+[2022.01.18-21.48.41:810][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.01.18-21.48.44:458][ 15]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2022.01.18-21.48.44:496][ 15]LogContentBrowser: Creating deferred item: NewMaterial
+[2022.01.18-21.48.50:407][369]LogContentBrowser: Attempting asset rename: NewMaterial -> Cottage_shed_01
+[2022.01.18-21.48.50:408][369]LogContentBrowser: End creating deferred item NewMaterial
+[2022.01.18-21.48.52:242][473]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Melvin_assets/Cottage/Cottage_Materials/Cottage_shed_01.Cottage_shed_01
+[2022.01.18-21.48.52:247][473]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 1FCFC368BE0A194F17EF12E048681076B9E4AECD), compiling. 
+[2022.01.18-21.48.52:257][473]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2022.01.18-21.48.52:329][473]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 89852576E52BC26FB99EB3E8B3205BF7BB660B5C), compiling. 
+[2022.01.18-21.48.52:334][473]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: C332FA4992B638E7CB38FD7A3EC53B6039EBA992), compiling. 
+[2022.01.18-21.48.52:374][473]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.18-21.48.52:388][473]LogSlate: Took 0.009505 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.18-21.48.52:490][474]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.48.52:490][474]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.18-21.48.52:490][474]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.18-21.48.52:490][474]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.48.52:490][474]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.18-21.48.52:490][474]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.18-21.48.52:491][474]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.18-21.48.52:491][474]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.18-21.48.52:491][474]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.18-21.48.52:491][474]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.48.53:653][516]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.18-21.48.53:653][516]LogShaderCompilers: Display: Total job queries 43, among them cache hits 7 (16.28%)
+[2022.01.18-21.48.53:653][516]LogShaderCompilers: Display: Tracking 17 distinct input hashes that result in 13 distinct outputs (76.47%)
+[2022.01.18-21.48.53:653][516]LogShaderCompilers: Display: RAM used: 0.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.01%
+[2022.01.18-21.48.53:653][516]LogShaderCompilers: Display: ================================================
+[2022.01.18-21.48.53:952][524]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.18-21.48.54:790][562]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.01.18-21.48.54:790][562]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.01.18-21.48.54:790][562]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.01.18-21.48.54:790][562]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.18-21.49.01:097][896]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: AA030686F259ACB35DA5DD08E3A6BD2B2D8A7E3C), compiling. 
+[2022.01.18-21.49.01:099][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7DB007E80E35631DB8CEB9634A0AB50C50343A06), compiling. 
+[2022.01.18-21.49.01:102][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 70455848D7B59BA34FDAD1D19E2CFBF0337210A7), compiling. 
+[2022.01.18-21.49.01:110][896]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 8119672B8785FB80B70E314E96B49D8CD91E55ED), compiling. 
+[2022.01.18-21.49.01:112][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 9CC9341502775FFFACFC46F8557078BE4F07A92C), compiling. 
+[2022.01.18-21.49.01:113][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A8A293DCF5F442EF4805955533200FDB802ED77), compiling. 
+[2022.01.18-21.49.01:115][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 3DAB789F4AAF49E1F3C61B978946CB159CCD5940), compiling. 
+[2022.01.18-21.49.01:123][896]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 3B2ED20E79562D41AA01F733326639BC4469AFC7), compiling. 
+[2022.01.18-21.49.01:125][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 227BB0DD832C63697E1E961DFE25457414B1C5B5), compiling. 
+[2022.01.18-21.49.01:126][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 7BD5949B3774249B7E95013CD1DECABC0425C019), compiling. 
+[2022.01.18-21.49.01:128][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: E4FFDC9CFDD28E46094C9E2D3466E03640736932), compiling. 
+[2022.01.18-21.49.01:130][896]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: F71DAAF3A6464E4E237B92BEC0381CC8F95DB6D1), compiling. 
+[2022.01.18-21.49.01:136][896]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.18-21.49.01:175][897]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.01:175][897]MaterialEditorStats: Base pass shader: 117 instructions
+[2022.01.18-21.49.01:175][897]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2022.01.18-21.49.01:175][897]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2022.01.18-21.49.01:175][897]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.18-21.49.01:206][898]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.18-21.49.01:207][898]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.13:815][532]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 63D00D833573DB418A52AED5148387D615AB5B94), compiling. 
+[2022.01.18-21.49.13:819][532]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 949B1901A691911D6933B9B910EBCE12D9368A68), compiling. 
+[2022.01.18-21.49.13:823][532]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.18-21.49.13:823][532]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.18-21.49.13:823][532]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.13:844][534]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.13:844][534]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.18-21.49.13:844][534]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.18-21.49.13:844][534]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.13:844][534]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.13:846][534]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.18-21.49.13:846][534]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.18-21.49.13:846][534]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.18-21.49.13:846][534]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.18-21.49.13:846][534]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.15:009][574]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.18-21.49.15:009][574]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.18-21.49.15:009][574]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.15:937][606]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.01.18-21.49.15:937][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.01.18-21.49.15:937][606]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.18-21.49.15:937][606]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.18-21.49.15:937][606]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.18-21.49.15:937][606]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.20:752][858]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_OcclusionRoughnessMetallic.cottage_Shed_01_Material_OcclusionRoughnessMetallic
+[2022.01.18-21.49.20:762][858]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'TextureEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2022.01.18-21.49.23:186][968]LogTexture: Display: Building textures: cottage_Shed_01_Material_OcclusionRoughnessMetallic (OODLE_AutoDXT, 4096X4096)
+[2022.01.18-21.49.24:167][968]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.49.24:167][968]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.49.24:167][968]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.18-21.49.25:654][997]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_Occlusi13C838454635923BE935869B8A6C1B61.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_OcclusionRoughnessMetallic.uasset'
+[2022.01.18-21.49.25:701][997]AssetCheck: New page: Asset Save: cottage_Shed_01_Material_OcclusionRoughnessMetallic
+[2022.01.18-21.49.25:702][997]LogContentValidation: Display: Validating Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_OcclusionRoughnessMetallic.cottage_Shed_01_Material_OcclusionRoughnessMetallic
+[2022.01.18-21.49.29:992][236]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: AE06FC9522917FF546681AFC7B8AF9A92A9BBC4D), compiling. 
+[2022.01.18-21.49.32:303][371]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 04EA5815D91F0B855F0AA6B0941236CA29DD6484), compiling. 
+[2022.01.18-21.49.32:305][371]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: AF9D60432D30432876719080DEE933393B348D6F), compiling. 
+[2022.01.18-21.49.32:314][371]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 98EF82E1FBD502F356D36D904D79E3089D384E63), compiling. 
+[2022.01.18-21.49.32:322][371]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.18-21.49.32:322][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.18-21.49.32:322][371]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.32:350][373]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.32:357][373]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.18-21.49.32:357][373]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.18-21.49.32:357][373]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.32:357][373]MaterialEditorStats: Base pass shader: 120 instructions
+[2022.01.18-21.49.32:357][373]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2022.01.18-21.49.32:357][373]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.18-21.49.32:357][373]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.18-21.49.32:357][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2022.01.18-21.49.32:357][373]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.37:349][595]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 94924E20DC2608399B8E732AE4650EA1BFCFD9ED), compiling. 
+[2022.01.18-21.49.37:353][595]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C8F1822FE22AA5A17308B8B7606E319D7452AB08), compiling. 
+[2022.01.18-21.49.37:357][595]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.18-21.49.37:357][595]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.01.18-21.49.37:357][595]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.37:380][597]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.37:380][597]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.18-21.49.37:380][597]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.18-21.49.37:380][597]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.37:380][597]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.37:381][597]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.18-21.49.37:381][597]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.18-21.49.37:381][597]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.18-21.49.37:381][597]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.18-21.49.37:381][597]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.39:749][701]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: ABE9B06AE5AD27D51C9F24B4C08C460DF6060FEA), compiling. 
+[2022.01.18-21.49.39:752][701]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F19FD7557D90B00065A64A9A5C5A2CBFAD15225), compiling. 
+[2022.01.18-21.49.39:765][702]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.18-21.49.39:809][702]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.40:829][737]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.18-21.49.40:829][737]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.01.18-21.49.40:829][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.42:153][793]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 5CB0A0EA372ECE6FBD61E97762021B824E04E874), compiling. 
+[2022.01.18-21.49.42:155][793]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3CFF717445EC5CA3DF7BA4B36FD863F703AB25D1), compiling. 
+[2022.01.18-21.49.42:158][793]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.18-21.49.42:158][793]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.01.18-21.49.42:158][793]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.42:171][794]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.42:171][794]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.18-21.49.42:171][794]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.18-21.49.42:171][794]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.42:186][795]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.42:187][795]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.18-21.49.42:187][795]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.18-21.49.42:187][795]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.18-21.49.42:187][795]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.18-21.49.42:187][795]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.43:236][828]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.18-21.49.43:236][828]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.01.18-21.49.43:236][828]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.44:143][863]MaterialEditorStats: Base pass shader: 122 instructions
+[2022.01.18-21.49.44:143][863]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 200 instructions
+[2022.01.18-21.49.44:143][863]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.18-21.49.44:143][863]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.18-21.49.44:143][863]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(2)
+[2022.01.18-21.49.44:143][863]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.45:352][913]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: EC0BAF82DEACE58F515B5407535572023CB22AE1), compiling. 
+[2022.01.18-21.49.45:354][913]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 1473F1847A2AD86262937E78F19C9334395F2180), compiling. 
+[2022.01.18-21.49.45:359][913]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.18-21.49.45:359][913]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.18-21.49.45:359][913]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.01.18-21.49.45:387][915]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.46:618][955]LogMaterialEditor: Saving and Compiling material Cottage_shed_01
+[2022.01.18-21.49.47:110][955]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: CACA49641A61D97EC7AD90E60460E5689CB36F07), compiling. 
+[2022.01.18-21.49.47:150][955]LogMaterial: Display: Missing cached shadermap for Cottage_shed_01 in PCD3D_SM5, Default, SM5 (DDC key hash: 4F46A1A945983C5AB1B753CC9DF3EC24073EA572), compiling. 
+[2022.01.18-21.49.47:238][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2022.01.18-21.49.47:246][955]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.47:557][955]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.01.18-21.49.47:557][955]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.18-21.49.47:606][955]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.01.18-21.49.47:663][955]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.47:667][955]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.01.18-21.49.47:667][955]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.01.18-21.49.47:667][955]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.01.18-21.49.47:667][955]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 2
+[2022.01.18-21.49.47:667][955]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.01.18-21.49.47:667][955]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.18-21.49.47:691][955]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Cottage_shed_01393CB97F47AD594851C971B6D7F5CC28.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/Assets/Melvin_assets/Cottage/Cottage_Materials/Cottage_shed_01.uasset'
+[2022.01.18-21.49.47:716][955]AssetCheck: New page: Asset Save: Cottage_shed_01
+[2022.01.18-21.49.47:716][955]LogContentValidation: Display: Validating Material /Game/Assets/Melvin_assets/Cottage/Cottage_Materials/Cottage_shed_01.Cottage_shed_01
+[2022.01.18-21.49.47:726][955]MaterialEditorStats: Texture samplers: 3/16
+[2022.01.18-21.49.47:726][955]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.18-21.49.47:727][955]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.47:750][956]MaterialEditorStats: Texture samplers: 5/16
+[2022.01.18-21.49.47:750][956]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.18-21.49.47:750][956]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.48:687][995]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.18-21.49.48:687][995]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.18-21.49.48:687][995]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.49.48:724][997]MaterialEditorStats: Base pass shader: 128 instructions
+[2022.01.18-21.49.48:724][997]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 206 instructions
+[2022.01.18-21.49.48:724][997]MaterialEditorStats: Base pass vertex shader: 46 instructions
+[2022.01.18-21.49.48:724][997]MaterialEditorStats: Texture samplers: 6/16
+[2022.01.18-21.49.48:724][997]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.18-21.49.48:724][997]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.18-21.50.09:432][124]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_012E71701E45AB82B0E41B03A68E069B2E.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/Assets/Melvin_assets/Cottage/cottage_Shed_01.uasset'
+[2022.01.18-21.50.09:491][124]AssetCheck: New page: Asset Save: cottage_Shed_01
+[2022.01.18-21.50.09:491][124]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Melvin_assets/Cottage/cottage_Shed_01.cottage_Shed_01
+[2022.01.18-21.52.33:267][661]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.01.18-21.52.33:273][661]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/StarterContent/Maps/Minimal_Default' took 0.029
+[2022.01.18-21.52.33:276][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_BaseColor] ([1] browsable assets)...
+[2022.01.18-21.52.33:282][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_BaseColor.cottage_roof_01_Material_BaseColor]
+[2022.01.18-21.52.33:282][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_BaseColor]
+[2022.01.18-21.52.33:359][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_01_Material_BaseCol53C142DE4F55F02DA8DF1A8042B0FAD7.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_BaseColor_Auto1.uasset'
+[2022.01.18-21.52.33:361][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_Normal] ([1] browsable assets)...
+[2022.01.18-21.52.33:368][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_Normal.cottage_roof_01_Material_Normal]
+[2022.01.18-21.52.33:368][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_Normal]
+[2022.01.18-21.52.33:444][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_01_Material_Normal_EBA260074982BAE9E8D7BEBBB511E0CB.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_Normal_Auto1.uasset'
+[2022.01.18-21.52.33:446][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.18-21.52.33:453][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_OcclusionRoughnessMetallic.cottage_roof_01_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.33:454][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.33:538][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_01_Material_OcclusiA851D9D641A3759EBF6DA0AEC8FCC9E2.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_2/cottage_roof_01_Material_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.01.18-21.52.33:539][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_BaseColor] ([1] browsable assets)...
+[2022.01.18-21.52.33:545][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_BaseColor.cottage_roof_01_Material_BaseColor]
+[2022.01.18-21.52.33:545][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_BaseColor]
+[2022.01.18-21.52.33:612][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_01_Material_BaseCol387131E044ADAD7F037B339ABE22F5A0.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_BaseColor_Auto1.uasset'
+[2022.01.18-21.52.33:613][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_Normal] ([1] browsable assets)...
+[2022.01.18-21.52.33:621][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_Normal.cottage_roof_01_Material_Normal]
+[2022.01.18-21.52.33:621][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_Normal]
+[2022.01.18-21.52.33:706][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_01_Material_Normal_512206CB4D7EB0287A4119A8F478D774.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_Normal_Auto1.uasset'
+[2022.01.18-21.52.33:707][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.18-21.52.33:712][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_OcclusionRoughnessMetallic.cottage_roof_01_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.33:712][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.33:778][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_01_Material_Occlusi44A3FF93496CFB9CB070789DE647EC74.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_01_texture/Set_3/cottage_roof_01_Material_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.01.18-21.52.33:781][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_BaseColor] ([1] browsable assets)...
+[2022.01.18-21.52.33:786][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_BaseColor.cottage_roof_02_Material_BaseColor]
+[2022.01.18-21.52.33:786][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_BaseColor]
+[2022.01.18-21.52.33:855][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_02_Material_BaseCol0529885D432FB15C3B6AA8825216EA78.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_BaseColor_Auto1.uasset'
+[2022.01.18-21.52.33:856][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_Normal] ([1] browsable assets)...
+[2022.01.18-21.52.33:862][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_Normal.cottage_roof_02_Material_Normal]
+[2022.01.18-21.52.33:862][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_Normal]
+[2022.01.18-21.52.33:933][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_02_Material_Normal_04BFF6B54D6DF6F557C01288312035E8.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_Normal_Auto1.uasset'
+[2022.01.18-21.52.33:935][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.18-21.52.33:940][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_OcclusionRoughnessMetallic.cottage_roof_02_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.33:940][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.34:011][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_02_Material_OcclusiA858EAF34CDBF689AC0CD89C964BD752.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_02/cottage_roof_02_Material_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.01.18-21.52.34:012][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_BaseColor] ([1] browsable assets)...
+[2022.01.18-21.52.34:019][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_BaseColor.cottage_roof_02_Material_BaseColor]
+[2022.01.18-21.52.34:019][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_BaseColor]
+[2022.01.18-21.52.34:088][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_02_Material_BaseColF7FEE66D4A0D37BD2A69498FAD17410B.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_BaseColor_Auto1.uasset'
+[2022.01.18-21.52.34:090][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_Normal] ([1] browsable assets)...
+[2022.01.18-21.52.34:099][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_Normal.cottage_roof_02_Material_Normal]
+[2022.01.18-21.52.34:099][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_Normal]
+[2022.01.18-21.52.34:199][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_02_Material_Normal_AC2652EB47609920C3B8C3897A6D561E.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_Normal_Auto1.uasset'
+[2022.01.18-21.52.34:202][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.18-21.52.34:208][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_OcclusionRoughnessMetallic.cottage_roof_02_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.34:208][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.34:277][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_roof_02_Material_OcclusiA4A79F394FCC5BB9DDE55EBD6A099E65.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_roof_02_texture/Set_03/cottage_roof_02_Material_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.01.18-21.52.34:279][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_BaseColor] ([1] browsable assets)...
+[2022.01.18-21.52.34:287][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_BaseColor.cottage_Shed_01_Material_BaseColor]
+[2022.01.18-21.52.34:287][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_BaseColor]
+[2022.01.18-21.52.34:369][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_BaseCol9B854E18490CED9FA7AF91B7AC67BB8B.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_BaseColor_Auto1.uasset'
+[2022.01.18-21.52.34:370][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_Normal] ([1] browsable assets)...
+[2022.01.18-21.52.34:378][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_Normal.cottage_Shed_01_Material_Normal]
+[2022.01.18-21.52.34:378][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_Normal]
+[2022.01.18-21.52.34:456][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_Normal_E76DD95D416EA8B3CB3270BEE7164417.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/cottage_Shed_01_Material_Normal_Auto1.uasset'
+[2022.01.18-21.52.34:458][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_BaseColor] ([1] browsable assets)...
+[2022.01.18-21.52.34:464][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_BaseColor.cottage_Shed_01_Material_BaseColor]
+[2022.01.18-21.52.34:464][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_BaseColor]
+[2022.01.18-21.52.34:536][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_BaseCol4CEB044B430F4EBE69713783AAD63FF8.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_BaseColor_Auto1.uasset'
+[2022.01.18-21.52.34:538][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_Normal] ([1] browsable assets)...
+[2022.01.18-21.52.34:545][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_Normal.cottage_Shed_01_Material_Normal]
+[2022.01.18-21.52.34:545][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_Normal]
+[2022.01.18-21.52.34:622][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_Normal_C7F4794A4690182DE9F727911F5F7648.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_Normal_Auto1.uasset'
+[2022.01.18-21.52.34:624][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.18-21.52.34:631][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_OcclusionRoughnessMetallic.cottage_Shed_01_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.34:631][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.34:708][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_OcclusiDDB75EEF4712D330334F1D818FD07269.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set_2/cottage_Shed_01_Material_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.01.18-21.52.34:710][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_BaseColor] ([1] browsable assets)...
+[2022.01.18-21.52.34:716][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_BaseColor.cottage_Shed_01_Material_BaseColor]
+[2022.01.18-21.52.34:716][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_BaseColor]
+[2022.01.18-21.52.34:787][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_BaseColC7B538AF414B6E4885A7ABBF23DDA30A.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_BaseColor_Auto1.uasset'
+[2022.01.18-21.52.34:788][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_Normal] ([1] browsable assets)...
+[2022.01.18-21.52.34:794][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_Normal.cottage_Shed_01_Material_Normal]
+[2022.01.18-21.52.34:794][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_Normal]
+[2022.01.18-21.52.34:871][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_Normal_1F3E5B624BEF146002D0CDA455BBE0B0.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_Normal_Auto1.uasset'
+[2022.01.18-21.52.34:873][661]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2022.01.18-21.52.34:879][661]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_OcclusionRoughnessMetallic.cottage_Shed_01_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.34:879][661]OBJ SavePackage: Finished generating thumbnails for package [/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_OcclusionRoughnessMetallic]
+[2022.01.18-21.52.34:955][661]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_01_Material_OcclusiC5520F2145363E7EF8ECB982AA50C013.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/Assets/Melvin_assets/Cottage/Cottage_Textures/Cottage_Shed_01_Texture/Set3/cottage_Shed_01_Material_OcclusionRoughnessMetallic_Auto1.uasset'
+[2022.01.18-21.52.34:957][661]LogFileHelpers: Auto-saving content packages took 1.684
+[2022.01.18-21.54.04:289][ 59]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/cottage_Shed_012ECDF0354559C0946AFA95B0BD92F511.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/Assets/Melvin_assets/Cottage/cottage_Shed_01.uasset'
+[2022.01.18-21.54.04:348][ 59]AssetCheck: New page: Asset Save: cottage_Shed_01
+[2022.01.18-21.54.04:348][ 59]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Melvin_assets/Cottage/cottage_Shed_01.cottage_Shed_01
