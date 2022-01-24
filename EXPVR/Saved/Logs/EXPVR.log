@@ -1541,3 +1541,206 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2022.01.24-12.58.23:320][376]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/EXVR_P752994824E448B5B318198A1301663DD.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/EXVR_P.umap'
 [2022.01.24-12.58.23:438][376]AssetCheck: New page: Asset Save: EXVR_P
 [2022.01.24-12.58.23:438][376]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
+[2022.01.24-13.27.33:082][ 11]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.24-13.27.33:088][ 11]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.24-13.27.33:088][ 11]PIE: New page: PIE session: EXVR_P (24 Jan 2022, 15:27:33)
+[2022.01.24-13.27.33:088][ 11]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EXVR_P
+[2022.01.24-13.27.34:531][ 11]LogPlayLevel: PIE: StaticDuplicateObject took: (1.442823s)
+[2022.01.24-13.27.34:532][ 11]LogAIModule: Creating AISystem for world EXVR_P
+[2022.01.24-13.27.34:533][ 11]LogPlayLevel: PIE: World Init took: (0.001400s)
+[2022.01.24-13.27.34:533][ 11]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EXVR_P.EXVR_P to /Game/UEDPIE_0_EXVR_P.EXVR_P (1.444494s)
+[2022.01.24-13.27.34:544][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.01.24-13.27.34:550][ 11]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2022.01.24-13.27.34:550][ 11]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.24-13.27.34:550][ 11]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.24-13.27.34:550][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.24-13.27.34:550][ 11]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.24-13.27.34:550][ 11]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.24-13.27.34:550][ 11]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.24-13.27.34:550][ 11]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.24-13.27.34:550][ 11]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.24-13.27.34:551][ 11]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.24-13.27.34:551][ 11]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.24-13.27.34:551][ 11]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.24-13.27.34:551][ 11]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.24-13.27.34:562][ 11]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.24-13.27.34:562][ 11]LogAudioMixer: Display: 1: FrontRight
+[2022.01.24-13.27.34:574][ 11]LogAudioMixer: Display: Using Audio Device OUT 1-2 (2- BEHRINGER UMC 404HD 192k)
+[2022.01.24-13.27.34:575][ 11]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.24-13.27.34:575][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.24-13.27.34:575][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.24-13.27.34:575][ 11]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.24-13.27.34:575][ 11]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.24-13.27.34:575][ 11]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.24-13.27.34:577][ 11]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.24-13.27.34:577][ 11]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.24-13.27.34:577][ 11]LogInit: FAudioDevice initialized.
+[2022.01.24-13.27.34:577][ 11]LogAudio: Display: Audio Device (ID: 7) registered with world 'EXVR_P'.
+[2022.01.24-13.27.34:591][ 11]LogLoad: Game class is 'GameModeBase'
+[2022.01.24-13.27.34:626][ 11]LogWorld: Bringing World /Game/UEDPIE_0_EXVR_P.EXVR_P up for play (max tick rate 60) at 2022.01.24-14.27.34
+[2022.01.24-13.27.34:627][ 11]LogWorld: Bringing up level for play took: 0.034658
+[2022.01.24-13.27.34:627][ 11]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2022.01.24-13.27.34:630][ 11]PIE: Server logged in
+[2022.01.24-13.27.34:631][ 11]PIE: Play in editor total start time 1.544 seconds.
+[2022.01.24-13.27.37:137][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.24-13.27.37:137][154]LogWorld: BeginTearingDown for /Game/UEDPIE_0_EXVR_P
+[2022.01.24-13.27.37:138][154]LogWorld: UWorld::CleanupWorld for EXVR_P, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-13.27.37:143][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-13.27.37:150][154]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.24-13.27.37:159][154]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-13.27.37:171][154]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.24-13.27.37:171][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.24-13.27.37:173][154]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.24-13.27.37:175][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.24-13.27.37:187][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2022.01.24-13.27.37:226][155]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2022.01.24-13.28.47:919][210]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Assets/Melvin_assets/Car_Window_Matt.Car_Window_Matt
+[2022.01.24-13.28.47:925][210]LogMaterial: Display: Missing cached shadermap for Car_Window_Matt in PCD3D_SM5, Default, SM5 (DDC key hash: 9D22BE0F55B65AE946199815848C4D6CDBA7206D), compiling. 
+[2022.01.24-13.28.47:989][210]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.01.24-13.28.48:018][210]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.01.24-13.28.48:116][210]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.24-13.28.48:355][210]LogMaterial: Display: Missing cached shadermap for Car_Window_Matt in PCD3D_SM5, Default, SM5 (DDC key hash: 96F8E5EFBAAC7A5BD6ADE46500A6E51607CC336C), compiling. 
+[2022.01.24-13.28.48:360][210]LogMaterial: Display: Missing cached shadermap for Car_Window_Matt in PCD3D_SM5, Default, SM5 (DDC key hash: 7775337EDEFB10728D19CC31F17E996780D1AA67), compiling. 
+[2022.01.24-13.28.48:364][210]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_1 in PCD3D_SM5, Default, SM5 (DDC key hash: 2F4FBF20EA6B5708757E57168362DCABF8100B91), compiling. 
+[2022.01.24-13.28.48:365][210]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_0 in PCD3D_SM5, Default, SM5 (DDC key hash: C5A48822B4936C13FF0A42D4997FD067F41C2D94), compiling. 
+[2022.01.24-13.28.48:366][210]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_2 in PCD3D_SM5, Default, SM5 (DDC key hash: 5579CC66D92BC4F6E86B361437F939509839F90C), compiling. 
+[2022.01.24-13.28.48:368][210]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionTextureSample_3 in PCD3D_SM5, Default, SM5 (DDC key hash: C014CCEE7C154A4639043BF3159B7E3882A40098), compiling. 
+[2022.01.24-13.28.48:389][210]MaterialEditorStats: Texture samplers: 0/16
+[2022.01.24-13.28.48:389][210]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.24-13.28.48:389][210]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.24-13.28.48:403][210]LogSlate: Took 0.006052 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Submitted 23 shader compile jobs with 'Normal' priority
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 18
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Started 18 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-13.28.48:601][211]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.48:647][212]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.48:731][215]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.48:779][217]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.48:835][219]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.50:998][289]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2022.01.24-13.28.50:998][289]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.51:025][289]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.24-13.28.51:025][289]LogShaderCompilers: Display: Total job queries 54, among them cache hits 0 (0.00%)
+[2022.01.24-13.28.51:025][289]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2022.01.24-13.28.51:025][289]LogShaderCompilers: Display: RAM used: 0.01 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.01.24-13.28.51:025][289]LogShaderCompilers: Display: ================================================
+[2022.01.24-13.28.51:050][290]MaterialEditorStats: Texture samplers: 2/16
+[2022.01.24-13.28.51:050][290]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.24-13.28.51:050][290]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.24-13.28.51:079][291]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 6
+[2022.01.24-13.28.51:079][291]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.51:165][292]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.24-13.28.51:165][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.24-13.28.51:165][292]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.24-13.28.51:939][311]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2022.01.24-13.28.51:939][311]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.52:509][323]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.01.24-13.28.52:509][323]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.52:674][326]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.01.24-13.28.52:674][326]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.52:736][328]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.01.24-13.28.52:736][328]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.52:917][332]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2022.01.24-13.28.52:917][332]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-13.28.53:265][338]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 3
+[2022.01.24-13.28.53:265][338]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-13.28.53:355][340]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.01.24-13.28.53:355][340]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-13.28.53:534][343]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.01.24-13.28.53:534][343]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-13.28.53:692][345]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Assets/Melvin_assets/Car_windows_Cube_001.Car_windows_Cube_001
+[2022.01.24-13.28.54:236][345]LogSlate: Took 0.005909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.01.24-13.28.54:292][347]MaterialEditorStats: Base pass shader: 81 instructions
+[2022.01.24-13.28.54:292][347]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 112 instructions
+[2022.01.24-13.28.54:292][347]MaterialEditorStats: Base pass vertex shader: 197 instructions
+[2022.01.24-13.28.54:292][347]MaterialEditorStats: Texture samplers: 4/16
+[2022.01.24-13.28.54:292][347]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2022.01.24-13.28.54:292][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2022.01.24-13.28.59:814][613]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Assets/Melvin_assets/Car.Car
+[2022.01.24-13.29.01:467][613]LogBlueprintEditor: Perf: 1.6 total seconds to load all 8 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.01.24-13.29.01:467][613]LogBlueprintEditor: Perf: 1.4 seconds loading: /Water/FluidSimulation/Blueprints/Libraries/PhysicsMacros
+[2022.01.24-13.29.02:129][613]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0016 seconds. Added 126 classes and 0 folders.
+[2022.01.24-13.29.34:391][924]BlueprintLog: New page: Compile Car
+[2022.01.24-13.29.34:492][924]LogUObjectHash: Compacting FUObjectHashTables data took   5.54ms
+[2022.01.24-13.29.35:315][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Melvin_assets/Car" FILE="../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/Assets/Melvin_assets/Car.uasset" SILENT=true
+[2022.01.24-13.29.35:339][951]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/CarC3E6CF5F42D8AD63A9D482B3854782ED.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/Assets/Melvin_assets/Car.uasset'
+[2022.01.24-13.29.35:358][951]AssetCheck: New page: Asset Save: Car
+[2022.01.24-13.29.35:358][951]LogContentValidation: Display: Validating Blueprint /Game/Assets/Melvin_assets/Car.Car
+[2022.01.24-13.29.36:429][997]LogSlate: Window 'Car' being destroyed
+[2022.01.24-13.29.36:435][997]LogSlate: Window 'Car' being destroyed
+[2022.01.24-13.29.36:448][997]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-13.29.36:448][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-13.29.36:473][997]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-13.29.36:474][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-13.29.36:533][997]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-13.29.36:533][997]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-13.29.37:393][ 41]LogTemp: Repeating last play command: Selected Viewport
+[2022.01.24-13.29.37:403][ 41]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.01.24-13.29.37:403][ 41]PIE: New page: PIE session: EXVR_P (24 Jan 2022, 15:29:37)
+[2022.01.24-13.29.37:403][ 41]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_EXVR_P
+[2022.01.24-13.29.38:377][ 41]LogPlayLevel: PIE: StaticDuplicateObject took: (0.974191s)
+[2022.01.24-13.29.38:378][ 41]LogAIModule: Creating AISystem for world EXVR_P
+[2022.01.24-13.29.38:379][ 41]LogPlayLevel: PIE: World Init took: (0.001239s)
+[2022.01.24-13.29.38:379][ 41]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/EXVR_P.EXVR_P to /Game/UEDPIE_0_EXVR_P.EXVR_P (0.975650s)
+[2022.01.24-13.29.38:442][ 41]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2022.01.24-13.29.38:445][ 41]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2022.01.24-13.29.38:445][ 41]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.24-13.29.38:445][ 41]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.24-13.29.38:445][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.24-13.29.38:445][ 41]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.24-13.29.38:445][ 41]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.24-13.29.38:445][ 41]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.24-13.29.38:445][ 41]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.24-13.29.38:445][ 41]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.24-13.29.38:446][ 41]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.24-13.29.38:446][ 41]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.24-13.29.38:446][ 41]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.24-13.29.38:446][ 41]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.24-13.29.38:458][ 41]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.24-13.29.38:458][ 41]LogAudioMixer: Display: 1: FrontRight
+[2022.01.24-13.29.38:471][ 41]LogAudioMixer: Display: Using Audio Device OUT 1-2 (2- BEHRINGER UMC 404HD 192k)
+[2022.01.24-13.29.38:471][ 41]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.24-13.29.38:471][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.24-13.29.38:471][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.24-13.29.38:471][ 41]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.24-13.29.38:471][ 41]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.24-13.29.38:471][ 41]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.24-13.29.38:472][ 41]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.24-13.29.38:472][ 41]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.24-13.29.38:472][ 41]LogInit: FAudioDevice initialized.
+[2022.01.24-13.29.38:472][ 41]LogAudio: Display: Audio Device (ID: 8) registered with world 'EXVR_P'.
+[2022.01.24-13.29.38:482][ 41]LogLoad: Game class is 'GameModeBase'
+[2022.01.24-13.29.38:516][ 41]LogWorld: Bringing World /Game/UEDPIE_0_EXVR_P.EXVR_P up for play (max tick rate 60) at 2022.01.24-14.29.38
+[2022.01.24-13.29.38:517][ 41]LogWorld: Bringing up level for play took: 0.033903
+[2022.01.24-13.29.38:517][ 41]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2022.01.24-13.29.38:521][ 41]PIE: Server logged in
+[2022.01.24-13.29.38:521][ 41]PIE: Play in editor total start time 1.119 seconds.
+[2022.01.24-13.30.01:241][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.24-13.30.01:241][385]LogWorld: BeginTearingDown for /Game/UEDPIE_0_EXVR_P
+[2022.01.24-13.30.01:242][385]LogWorld: UWorld::CleanupWorld for EXVR_P, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-13.30.01:247][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-13.30.01:259][385]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.01.24-13.30.01:269][385]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-13.30.01:299][385]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.24-13.30.01:300][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.24-13.30.01:301][385]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.01.24-13.30.01:303][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.24-13.30.01:314][385]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.01.24-13.30.01:351][386]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2022.01.24-13.30.33:590][187]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2022.01.24-13.30.33:604][187]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/EXVR_P_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.01.24-13.30.38:506][187]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/EXVR_P_Auto1D698F2A54056FFF0F1C266AE447BAC56.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/Autosaves/Game/EXVR_P_Auto1.umap'
+[2022.01.24-13.30.38:512][187]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/EXVR_P' took 4.946
+[2022.01.24-13.30.38:512][187]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 4.946
+[2022.01.24-13.31.04:750][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.24-13.31.04:773][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.01.24-13.31.09:562][715]LogSavePackage: Moving '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Saved/EXVR_P359C82624A0E5636701C098DD1603D27.tmp' to '../../../../../../Users/melvi/Desktop/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2022.01.24-13.31.09:604][715]AssetCheck: New page: Asset Save: EXVR_P
+[2022.01.24-13.31.09:604][715]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
