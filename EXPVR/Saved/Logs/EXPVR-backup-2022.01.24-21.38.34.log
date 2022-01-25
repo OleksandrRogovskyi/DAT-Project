@@ -1,0 +1,1698 @@
+﻿Log file open, 01/24/22 21:22:52
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EXPVR
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.206575
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin Composure
+LogPluginManager: Mounting plugin LensDistortion
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin OpenColorIO
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin BlueprintMaterialTextureNodes
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin StylusInput
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MediaIOFramework
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshModelingToolset
+LogPluginManager: Mounting plugin Landmass
+LogPluginManager: Mounting plugin ModelingToolsEditorMode
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ShallowWater
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Water
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin HairStrands
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin CameraCalibrationCore
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-17735300
+LogInit: Engine Version: 4.27.1-17735300+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Ryzen 5 3600 6-Core Processor              , GPU: NVIDIA GeForce GTX 1070
+LogInit: Compiled (64-bit): Oct  6 2021 14:42:51
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername=justsupermen123 -epicuserid=4933047f1fa245618c30523ab84776df -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: D:/programs/unreal engine/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:64]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.24-20.22.53:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.01.24-20.22.53:629][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.24-20.22.53:629][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.24-20.22.53:642][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.24-20.22.53:642][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.01.24-20.22.53:643][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.24-20.22.53:643][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.01.24-20.22.53:643][  0]LogHAL: Display: Platform has ~ 32 GB [34301628416 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.01.24-20.22.53:643][  0]LogInit: Going up to parent DeviceProfile []
+[2022.01.24-20.22.53:643][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.01.24-20.22.53:643][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:643][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[fx.Niagara.QualityLevel:3]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Scalability.ini]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.01.24-20.22.53:644][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Engine.ini]
+[2022.01.24-20.22.53:644][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Config/Windows/Editor.ini]
+[2022.01.24-20.22.53:645][  0]LogInit: Computer: DESKTOP-UCBGAU3
+[2022.01.24-20.22.53:645][  0]LogInit: User: fukin
+[2022.01.24-20.22.53:645][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.01.24-20.22.53:645][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.01.24-20.22.53:645][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2022.01.24-20.22.53:645][  0]LogMemory: Platform Memory Stats for Windows
+[2022.01.24-20.22.53:645][  0]LogMemory: Process Physical Memory: 155.23 MB used, 155.23 MB peak
+[2022.01.24-20.22.53:645][  0]LogMemory: Process Virtual Memory: 124.85 MB used, 124.85 MB peak
+[2022.01.24-20.22.53:645][  0]LogMemory: Physical Memory: 11082.51 MB used,  21630.07 MB free, 32712.58 MB total
+[2022.01.24-20.22.53:645][  0]LogMemory: Virtual Memory: 134197720.00 MB used,  20011.14 MB free, 134217728.00 MB total
+[2022.01.24-20.22.53:649][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.01.24-20.22.53:679][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.01.24-20.22.53:680][  0]LogInit: Using OS detected language (en-US).
+[2022.01.24-20.22.53:680][  0]LogInit: Using OS detected locale (en-150).
+[2022.01.24-20.22.53:682][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.01.24-20.22.53:828][  0]LogInit: Setting process to per monitor DPI aware
+[2022.01.24-20.22.53:835][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.24-20.22.53:847][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.01.24-20.22.53:847][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.01.24-20.22.53:943][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.01.24-20.22.53:946][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.24-20.22.53:946][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.01.24-20.22.53:946][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.01.24-20.22.53:946][  0]LogD3D11RHI: D3D11 adapters:
+[2022.01.24-20.22.54:035][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1070' (Feature Level 11_0)
+[2022.01.24-20.22.54:035][  0]LogD3D11RHI:       8088/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:       0/0/16356 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     SubSysId    : 37491458
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     SharedSystemMemory : 17150814208 bytes
+[2022.01.24-20.22.54:038][  0]LogD3D11RHI:     AdapterLuid : 0 48430
+[2022.01.24-20.22.54:044][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.01.24-20.22.54:044][  0]LogD3D11RHI:     GPU DeviceId: 0x1b81 (for the marketing name, search the web for "GPU Device Id")
+[2022.01.24-20.22.54:044][  0]LogWindows: EnumDisplayDevices:
+[2022.01.24-20.22.54:044][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1070' (P:1 D:1)
+[2022.01.24-20.22.54:044][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1070' (P:0 D:1)
+[2022.01.24-20.22.54:044][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.01.24-20.22.54:044][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1070' (P:0 D:0)
+[2022.01.24-20.22.54:045][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1070
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:   Driver Version: 496.49 (internal:30.0.14.9649, unified:496.49)
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:      Driver Date: 10-20-2021
+[2022.01.24-20.22.54:045][  0]LogRHI: Texture pool is 5661 MB (70% of 8088 MB)
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1070
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     DeviceId    : 1b81
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     SubSysId    : 37491458
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     DedicatedVideoMemory : 8480882688 bytes
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     SharedSystemMemory : 17150814208 bytes
+[2022.01.24-20.22.54:045][  0]LogD3D11RHI:     AdapterLuid : 0 48430
+[2022.01.24-20.22.54:095][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.01.24-20.22.54:095][  0]LogD3D11RHI: Async texture creation enabled
+[2022.01.24-20.22.54:095][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.01.24-20.22.54:126][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.01.24-20.22.54:147][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.01.24-20.22.54:375][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.01.24-20.22.54:394][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.01.24-20.22.54:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.01.24-20.22.54:409][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.01.24-20.22.54:416][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.01.24-20.22.54:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.01.24-20.22.54:424][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.01.24-20.22.54:427][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.01.24-20.22.54:434][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.01.24-20.22.54:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.01.24-20.22.54:442][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.01.24-20.22.54:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.01.24-20.22.54:462][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.01.24-20.22.54:468][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.01.24-20.22.54:472][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.01.24-20.22.54:475][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.01.24-20.22.54:478][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.01.24-20.22.54:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.01.24-20.22.54:487][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.01.24-20.22.54:494][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.01.24-20.22.54:498][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.01.24-20.22.54:501][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.01.24-20.22.54:504][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.01.24-20.22.54:504][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.01.24-20.22.54:510][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.01.24-20.22.54:533][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.01.24-20.22.54:553][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.01.24-20.22.54:553][  0]LogShaderCompilers: Guid format shader working directory is -43 characters bigger than the processId version (../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Intermediate/Shaders/WorkingDirectory/13448/).
+[2022.01.24-20.22.54:553][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fukin/AppData/Local/Temp/UnrealShaderWorkingDir/9B2AD23A443FB9AABF1D5AA989DAC4AA/'.
+[2022.01.24-20.22.54:553][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.01.24-20.22.54:553][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.01.24-20.22.54:553][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.01.24-20.22.55:306][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.01.24-20.22.55:357][  0]LogDerivedDataCache: Loaded boot cache 0.05s 113MB C:/Users/fukin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.24-20.22.55:357][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/fukin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.01.24-20.22.55:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.01.24-20.22.55:357][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.01.24-20.22.55:357][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.24-20.22.55:357][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.01.24-20.22.55:373][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.01.24-20.22.55:373][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.01.24-20.22.55:373][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.01.24-20.22.55:379][  0]LogDerivedDataCache: Speed tests for C:/Users/fukin/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.01.24-20.22.55:379][  0]LogDerivedDataCache: Display: Performance to C:/Users/fukin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1719.41MBs, RandomWriteSpeed=184.38MBs. Assigned SpeedClass 'Local'
+[2022.01.24-20.22.55:380][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fukin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.01.24-20.22.55:380][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.01.24-20.22.55:380][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.01.24-20.22.55:431][  0]LogSlate: Using FreeType 2.10.0
+[2022.01.24-20.22.55:431][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.01.24-20.22.55:450][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2022.01.24-20.22.55:665][  0]LogInit: Selected Device Profile: [Windows]
+[2022.01.24-20.22.55:665][  0]LogInit: Active device profile: [000001EF1C62D100][000001EF1B0528C0 49] Windows
+[2022.01.24-20.22.55:665][  0]LogInit: Profiles: [000001EF1C62D100][000001EF1B0528C0 49] Windows, [000001EF1C602700][000001EF1B056B40 49] WindowsNoEditor, [000001EF1C62E200][000001EF1B05ADC0 49] WindowsServer, [000001EF1C601900][000001EF1B063080 49] WindowsClient, [000001EF1C62D700][000001EF1B067340 49] IOS, [000001EF1C602900][000001EF1B06B600 49] iPadAir, [000001EF1C62FC00][000001EF1B06F8C0 49] iPadAir2, [000001EF1C5A5400][000001EF1B082280 49] IPadPro, [000001EF1C5A5500][000001EF1B0722C0 49] iPadAir3, [000001EF1C603A00][000001EF1B07A580 49] iPadAir4, [000001EF1C5A6300][000001EF1B076840 49] iPadMini2, [000001EF1C603100][000001EF1B07EB00 49] iPadMini3, [000001EF1C5A6F00][000001EF1B05ED80 49] iPadMini4, [000001EF1C601D00][000001EF1B087000 49] iPadMini5, [000001EF1C5B5000][000001EF1AB6B540 49] iPhone6, [000001EF1C5B5100][000001EF1B08F580 49] iPodTouch6, [000001EF1C62F900][000001EF1AB73AC0 49] iPhone7, [000001EF1C62E900][000001EF1B097B00 49] iPodTouch7, [000001EF1C5A5000][000001EF1B09A240 49] iPhone5S, [000001EF1C62EF00][000001EF1B092500 49] iPhone6Plus, [000001EF1C5A7600][000001EF1AB6E7C0 49] iPhone6S, [000001EF1C62CC00][000001EF1AB76A80 49] iPhone6SPlus, [000001EF1C62DD00][000001EF1AB7AD40 49] iPhone7Plus, [000001EF1C5B4800][000001EF1B08AFC0 49] iPhoneSE, [000001EF1C62C400][000001EF1AB7F240 49] iPhone8, [000001EF1C5B4900][000001EF1AB87500 49] iPhone8Plus, [000001EF1C5B6E00][000001EF1AB8B7C0 49] iPhoneX, [000001EF1C5A5D00][000001EF1AB8FA80 49] iPhoneXS, [000001EF1C5B6700][000001EF1AB921C0 49] iPhoneXSMax, [000001EF1C5A5C00][000001EF1AB96480 49] iPhoneXR, [000001EF1C5B6800][000001EF1AB9A740 49] iPhone11, [000001EF1C5A4F00][000001EF1AB9EA00 49] iPhone11Pro, [000001EF1C5B4B00][000001EF1ABA2CC0 49] iPhone11ProMax, [000001EF1C5A4C00][000001EF1ABA6F80 49] iPhoneSE2, [000001EF1C5B4E00][000001EF1AB83200 49] iPhone12Mini, [000001EF1C62F800][000001EF1ABAF4C0 49] iPhone12, [000001EF1C5B7100][000001EF1ABB3780 49] iPhone12Pro, [000001EF1C62F700][000001EF1ABB7A40 49] iPhone12ProMax, [000001EF1C5B5E00][000001EF1ABBA180 49] iPadPro105, [000001EF1C62D400][000001EF1ABBE440 49] iPadPro129, [000001EF1C5B7E00][000001EF1ABC2700 49] iPadPro97, [000001EF1C62E800][000001EF1ABC69C0 49] iPadPro2_129, [000001EF1C5B6000][000001EF1ABCAC80 49] iPad5, [000001EF1C62E300][000001EF1ABCEF40 49] iPad6, [000001EF1C5B7B00][000001EF1ABAB1C0 49] iPad7, [000001EF1C62DE00][000001EF1ABD3440 49] iPad8, [000001EF1C5B4A00][000001EF1ABDB700 49] iPadPro11, [000001EF1C62FE00][000001EF1ABDF9C0 49] iPadPro2_11, [000001EF1C5B5800][000001EF1ABE2100 49] iPadPro3_129, [000001EF1C62E700][000001EF1ABE63C0 49] iPadPro4_129, [000001EF1C5B4200][000001EF1ABEA680 49] AppleTV, [000001EF1C62FF00][000001EF1ABEE940 49] AppleTV4K, [000001EF1C5B6400][000001EF1ABF2C00 49] TVOS, [000001EF1C62C100][000001EF1ABF6EC0 49] Mac, [000001EF1C5B5D00][000001EF1ABFB180 49] MacClient, [000001EF1C62EA00][000001EF1ABD7400 49] MacNoEditor, [000001EF1C5B7A00][000001EF1ABFF680 49] MacServer, [000001EF1C62E000][000001EF1AC07940 49] Linux, [000001EF1C5B5600][000001EF1AC0BC00 49] LinuxAArch64, [000001EF1C62C800][000001EF1AC0E340 49] LinuxNoEditor, [000001EF1C5B4C00][000001EF1AC12600 49] LinuxAArch64NoEditor, [000001EF1C62FB00][000001EF1AC168C0 49] LinuxClient, [000001EF1C5B7400][000001EF1AC1AB80 49] LinuxAArch64Client, [000001EF1C62FA00][000001EF1AC1EE40 49] LinuxServer, [000001EF1C5B4700][000001EF1AC23100 49] LinuxAArch64Server, [000001EF1C62ED00][000001EF1AC273C0 49] Android, [000001EF1C5B6A00][000001EF1AC03640 49] Android_Low, [000001EF1C62DF00][000001EF1AC2B8C0 49] Android_Mid, [000001EF1C5B5F00][000001EF1AC33B80 49] Android_High, [000001EF1C62D900][000001EF1AC362C0 49] Android_Default, [000001EF1C5B7C00][000001EF1AC3A580 49] Android_Adreno4xx, [000001EF1C62F600][000001EF1AC3E840 49] Android_Adreno5xx_Low, [000001EF1C5B7200][000001EF1AC42B00 49] Android_Adreno5xx, [000001EF1C62D000][000001EF1AC46DC0 49] Android_Adreno6xx, [000001EF1C5B6500][000001EF1AC4B080 49] Android_Adreno6xx_Vulkan, [000001EF1C62CA00][000001EF1AC4F340 49] Android_Mali_T6xx, [000001EF1C5B6900][000001EF1AC53600 49] Android_Mali_T7xx, [000001EF1C62FD00][000001EF1AC2F880 49] Android_Mali_T8xx, [000001EF1C5B6D00][000001EF1AC57B00 49] Android_Mali_G71, [000001EF1C5A7100][000001EF1AC5E240 49] Android_Mali_G72, [000001EF1C602F00][000001EF1AC62500 49] Android_Mali_G72_Vulkan, [000001EF1C5A6B00][000001EF1AC667C0 49] Android_Mali_G76, [000001EF1C600500][000001EF1AC6AA80 49] Android_Mali_G76_Vulkan, [000001EF1C5A6600][000001EF1AC6ED40 49] Android_Mali_G77, [000001EF1C603E00][000001EF1AC73000 49] Android_Mali_G77_Vulkan, [000001EF1C5A6400][000001EF1AC772C0 49] Android_Mali_G78, [000001EF1C600D00][000001EF1AC7B580 49] Android_Mali_G78_Vulkan, [000001EF1C5A7500][000001EF1AC7F840 49] Android_Mali_G710, [000001EF1C602B00][000001EF1AC5BAC0 49] Android_Mali_G710_Vulkan, [000001EF1C5A7E00][000001EF1AC821C0 49] Android_Vulkan_SM5, [000001EF1C601A00][000001EF1AC8A480 49] Android_PowerVR_G6xxx, [000001EF1C5A4500][000001EF1A480740 49] Android_PowerVR_GT7xxx, [000001EF1C600200][000001EF1A484A00 49] Android_PowerVR_GE8xxx, [000001EF1C5A7B00][000001EF1A488CC0 49] Android_PowerVR_GM9xxx, [000001EF1C602100][000001EF1A48CF80 49] Android_PowerVR_GM9xxx_Vulkan, [000001EF1C5A5F00][000001EF1A491240 49] Android_TegraK1, [000001EF1C600A00][000001EF1A495500 49] Android_Unknown_Vulkan, [000001EF1C5A7900][000001EF1A4997C0 49] Lumin, [000001EF1C601200][000001EF1A49DA80 49] Lumin_Desktop, [000001EF1C5A5E00][000001EF1AC86180 49] HoloLens, 
+[2022.01.24-20.22.55:768][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.01.24-20.22.55:768][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.01.24-20.22.55:768][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.01.24-20.22.55:768][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.01.24-20.22.55:768][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.01.24-20.22.55:783][  0]LogNetVersion: EXPVR 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3398417609)
+[2022.01.24-20.22.56:081][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.01.24-20.22.57:571][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.01.24-20.22.57:576][  0]LogUObjectArray: 18445 objects as part of root set at end of initial load.
+[2022.01.24-20.22.57:576][  0]LogUObjectAllocator: 4789344 out of 0 bytes used by permanent object pool.
+[2022.01.24-20.22.57:576][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.01.24-20.22.58:591][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 34EE8CB5470947F9593F8CA6202D6655 | Instance: 76F0C4054827E5A9D9964AA8F6D54C20 (DESKTOP-UCBGAU3-13448).
+[2022.01.24-20.22.58:689][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.24-20.22.58:689][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.24-20.22.58:689][  0]LogPython: Using Python 3.7.7
+[2022.01.24-20.22.59:159][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.01.24-20.22.59:163][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.01.24-20.23.03:371][  0]SourceControl: Source control is disabled
+[2022.01.24-20.23.03:372][  0]SourceControl: Source control is disabled
+[2022.01.24-20.23.03:374][  0]SourceControl: Source control is disabled
+[2022.01.24-20.23.03:376][  0]SourceControl: Source control is disabled
+[2022.01.24-20.23.03:403][  0]SourceControl: Source control is disabled
+[2022.01.24-20.23.03:408][  0]LogUProjectInfo: Found projects:
+[2022.01.24-20.23.03:416][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.01.24-20.23.03:417][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.01.24-20.23.03:417][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.01.24-20.23.09:615][  0]LogOpenImageDenoise: OIDN starting up
+[2022.01.24-20.23.09:633][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.01.24-20.23.09:651][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.24-20.23.09:651][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.01.24-20.23.11:424][  0]LogCollectionManager: Loaded 0 collections in 0.000643 seconds
+[2022.01.24-20.23.11:444][  0]LogFileCache: Scanning file cache for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Collections/' took 0.00s
+[2022.01.24-20.23.11:444][  0]LogFileCache: Scanning file cache for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Developers/fukin/Collections/' took 0.00s
+[2022.01.24-20.23.11:444][  0]LogFileCache: Scanning file cache for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Collections/' took 0.00s
+[2022.01.24-20.23.11:444][  0]LogOcInput: OculusInput pre-init called
+[2022.01.24-20.23.11:623][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.24-20.23.11:623][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.24-20.23.11:623][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumVertices is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: IntProperty FPhysicsConvexData::NumFaces is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: FloatProperty FPhysicsCapsuleData::Length is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: StructProperty FPhysicsBoxData::Dimensions is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: FloatProperty FPhysicsSphereData::Radius is not initialized properly. Module:MeshModelingTools File:Public/Physics/CollisionPropertySets.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: EnumProperty FLODLevelGenerateSettings::TargetMode is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetPercentage is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: IntProperty FLODLevelGenerateSettings::TargetCount is not initialized properly. Module:MeshModelingToolsEditorOnly File:Public/GenerateLODMeshesTool.h
+[2022.01.24-20.23.11:623][  0]LogClass: Display: 9 Uninitialized script struct members found including 0 object properties
+[2022.01.24-20.23.11:624][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.24-20.23.11:624][  0]LogAutomationTest: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.24-20.23.11:624][  0]LogEngine: Initializing Engine...
+[2022.01.24-20.23.13:228][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.01.24-20.23.13:229][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.01.24-20.23.13:229][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.01.24-20.23.13:229][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.01.24-20.23.13:243][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.01.24-20.23.13:347][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.01.24-20.23.13:357][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.01.24-20.23.13:358][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.01.24-20.23.13:360][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.01.24-20.23.13:361][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.01.24-20.23.13:361][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.01.24-20.23.13:361][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.01.24-20.23.13:361][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.01.24-20.23.13:361][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.01.24-20.23.13:361][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.01.24-20.23.13:361][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.01.24-20.23.13:361][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.01.24-20.23.13:361][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.01.24-20.23.13:361][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.01.24-20.23.13:361][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.01.24-20.23.13:361][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.01.24-20.23.13:361][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.01.24-20.23.13:361][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.01.24-20.23.13:361][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.01.24-20.23.13:370][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.01.24-20.23.13:370][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.01.24-20.23.13:383][  0]LogAudioMixer: Display: Using Audio Device Speakers (High Definition Audio Device)
+[2022.01.24-20.23.13:388][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.01.24-20.23.13:390][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.01.24-20.23.13:390][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.01.24-20.23.13:390][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.01.24-20.23.13:390][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.01.24-20.23.13:390][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.01.24-20.23.13:391][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.01.24-20.23.13:391][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.01.24-20.23.13:391][  0]LogInit: FAudioDevice initialized.
+[2022.01.24-20.23.13:391][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.01.24-20.23.13:392][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.01.24-20.23.13:487][  0]LogDerivedDataCache: Saved boot cache 0.10s 113MB C:/Users/fukin/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.01.24-20.23.13:488][  0]LogInit: Texture streaming: Enabled
+[2022.01.24-20.23.13:497][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.1-17735300+++UE4+Release-4.27
+[2022.01.24-20.23.13:499][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.01.24-20.23.13:500][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.01.24-20.23.13:501][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.01.24-20.23.13:524][  0]LogInit: Transaction tracking system initialized
+[2022.01.24-20.23.13:539][  0]BlueprintLog: New page: Editor Load
+[2022.01.24-20.23.13:582][  0]LocalizationService: Localization service is disabled
+[2022.01.24-20.23.13:601][  0]TimingProfiler: Initialize
+[2022.01.24-20.23.13:602][  0]TimingProfiler: OnSessionChanged
+[2022.01.24-20.23.13:602][  0]LoadingProfiler: Initialize
+[2022.01.24-20.23.13:602][  0]LoadingProfiler: OnSessionChanged
+[2022.01.24-20.23.13:602][  0]NetworkingProfiler: Initialize
+[2022.01.24-20.23.13:602][  0]NetworkingProfiler: OnSessionChanged
+[2022.01.24-20.23.13:602][  0]MemoryProfiler: Initialize
+[2022.01.24-20.23.13:602][  0]MemoryProfiler: OnSessionChanged
+[2022.01.24-20.23.13:643][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.01.24-20.23.13:644][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.01.24-20.23.13:644][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2022.01.24-20.23.13:763][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.01.24-20.23.13:763][  0]LogCook: Display: Mobile HDR setting 1
+[2022.01.24-20.23.15:333][  0]LogFileCache: Scanning file cache for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/' took 0.01s
+[2022.01.24-20.23.19:056][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.24-20.23.19:056][  0]LogImageWrapper: Warning: PNG Warning: Duplicate iCCP chunk
+[2022.01.24-20.23.19:056][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.01.24-20.23.19:058][  0]SourceControl: Source control is disabled
+[2022.01.24-20.23.19:058][  0]LogUnrealEdMisc: Loading editor; pre map load, took 26.721
+[2022.01.24-20.23.19:058][  0]Cmd: MAP LOAD FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.01.24-20.23.19:058][  0]LightingResults: New page: Lighting Build
+[2022.01.24-20.23.19:060][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.01.24-20.23.19:060][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.01.24-20.23.19:060][  0]MapCheck: New page: Map Check
+[2022.01.24-20.23.19:060][  0]LightingResults: New page: Lighting Build
+[2022.01.24-20.23.21:433][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.01.24-20.23.21:436][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.01.24-20.23.28:724][  0]LogLinker: Warning: Asset '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/MSPresets/Decal_MasterMaterial/Decal_MasterMaterial.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.01.24-20.23.28:735][  0]LogLinker: Warning: Asset '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/MSPresets/MSTextures/Metalness.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2022.01.24-20.23.29:034][  0]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\StarterContent\Shapes\Shape_Plane.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.01.24-20.23.29:034][  0]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\StarterContent\Shapes\Shape_Plane.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.01.24-20.23.29:034][  0]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\StarterContent\Shapes\Shape_Plane.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Opacity_2K_vh1oehbs (OODLE_BC4, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Opacity_2K_shhnouh (OODLE_BC4, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Displacement_2K_vh1oehbs (OODLE_BC4, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Roughness_2K_vh1oehbs (OODLE_BC4, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Displacement_2K_shhnouh (OODLE_BC4, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Normal_2K_vh1oehbs (OODLE_BC5, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Albedo_2K_vh1oehbs (OODLE_AutoDXT, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Roughness_2K_shhnouh (OODLE_BC4, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Albedo_2K_shhnouh (OODLE_AutoDXT, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTexture: Display: Building textures: Normal_2K_shhnouh (OODLE_BC5, 2048X2048)
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC4 (Oodle OodleTex_BC4U) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.24-20.23.31:489][  0]LogLinker: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\StarterContent\Shapes\Shape_Plane.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2022.01.24-20.23.31:489][  0]LoadErrors: Failed to load /Game/StarterContent/Materials/M_Basic_Wall.M_Basic_Wall Referenced by Shape_Plane
+[2022.01.24-20.23.32:284][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2022.01.24-20.23.32:284][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2022.01.24-20.23.32:284][  0]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 128X128)
+[2022.01.24-20.23.32:284][  0]LogTexture: Display: Building textures: Texture2D_1000 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1004 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1007 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1008 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1009 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1005 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1012 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1013 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1014 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1015 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1016 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1017 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1018 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1019 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1020 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1021 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1022 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1023 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1024 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1025 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1027 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1028 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1029 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1026 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1030 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1032 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1031 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1034 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1033 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1035 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1036 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1037 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1038 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1039 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_104 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1040 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1041 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1042 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1043 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1044 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1045 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1046 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1048 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1050 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1051 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1052 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1053 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1055 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1056 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1057 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1059 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1060 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1061 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1064 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1065 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1069 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1070 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1071 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1072 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1073 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1077 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1080 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1081 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1085 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1086 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1089 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1092 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1095 (BGRA8, 128X128)
+[2022.01.24-20.23.32:285][  0]LogTexture: Display: Building textures: Texture2D_1098 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1102 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1103 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1106 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1111 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1114 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1117 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_112 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_113 (BGRA8, 512X512)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1138 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1141 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1144 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1147 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1150 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1159 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1162 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1165 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1168 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_117 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1171 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1174 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1183 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1198 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_120 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1200 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1226 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_126 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_128 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_129 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1316 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1325 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1336 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1343 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1346 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1349 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1352 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1356 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1374 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1378 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1388 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1389 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1390 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1392 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1395 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1396 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1398 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1407 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1414 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1421 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1424 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1427 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1428 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_143 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1430 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1433 (BGRA8, 128X128)
+[2022.01.24-20.23.32:286][  0]LogTexture: Display: Building textures: Texture2D_1434 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1435 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1437 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_144 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1440 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1447 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1450 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1460 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1463 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1466 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1467 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1469 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1472 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1475 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1478 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1498 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_151 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1512 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_152 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_153 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1544 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1561 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1564 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_159 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1590 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1596 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1599 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_160 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_161 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1613 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1616 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogTexture: Display: Building textures: Texture2D_1619 (BGRA8, 128X128)
+[2022.01.24-20.23.32:287][  0]LogMaterial: Display: Missing cached shadermap for Decal_MasterMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D70FF83C9F0AB7DE70B4B11C3C38651B465D8786), compiling. 
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1622 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1655 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1658 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_166 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1661 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1664 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1667 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1670 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1673 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1676 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1691 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1694 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1697 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1700 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_17 (BGRA8, 512X512)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1725 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1728 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_174 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1756 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1759 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1763 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1766 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1770 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1773 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1787 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1790 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1793 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_180 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1802 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1805 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1808 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_181 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1817 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1820 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1823 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1826 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1829 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1832 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1835 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogTexture: Display: Building textures: Texture2D_1838 (BGRA8, 128X128)
+[2022.01.24-20.23.32:500][  0]LogShaderCompilers: Display: Submitted 71 shader compile jobs with 'Low' priority
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1842 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1845 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 71
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 63
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 55
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 47
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 39
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 31
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 23
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Worker (9/9): shaders left to compile 7
+[2022.01.24-20.23.35:328][  0]LogShaderCompilers: Display: Started 71 'Local' shader compile jobs with 'Low' priority
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1854 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1857 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1860 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1863 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1866 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1869 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1870 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1872 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1875 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1878 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1881 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1884 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1887 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1888 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_189 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1890 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1893 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1896 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1899 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1902 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1905 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1908 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1911 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1914 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1917 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1920 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1923 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1926 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1929 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_193 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1938 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1943 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1965 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1968 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1971 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1974 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1977 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1980 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1983 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_1986 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_20 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2009 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2006 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2012 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2024 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2065 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2076 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2079 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2082 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2085 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2088 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2091 (BGRA8, 128X128)
+[2022.01.24-20.23.35:328][  0]LogTexture: Display: Building textures: Texture2D_2094 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2097 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2100 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2103 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2106 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2109 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2112 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_23 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2514 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2517 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2520 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2523 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2526 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2529 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2532 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2535 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2538 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2541 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2546 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2549 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_255 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2560 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2563 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_260 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2679 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2682 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_270 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2700 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2703 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2707 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2710 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2714 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2717 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2721 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2724 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2728 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2731 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2735 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2738 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2742 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2745 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2749 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2752 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2756 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2759 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2763 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2766 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2770 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2779 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2783 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2786 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2986 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_2989 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_305 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_309 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_313 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_322 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_325 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_328 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_329 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3301 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3304 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_331 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_334 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_337 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_338 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_340 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_343 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_344 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_346 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_349 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_352 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_355 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_358 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3588 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3591 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3595 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3598 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3602 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3605 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3609 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_361 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3612 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3616 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3619 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_362 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3623 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3626 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3637 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_364 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3640 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3644 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3647 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3651 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3654 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3658 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3661 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3665 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3668 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_367 (BGRA8, 128X128)
+[2022.01.24-20.23.35:329][  0]LogTexture: Display: Building textures: Texture2D_3672 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_3675 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_3679 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_368 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_3682 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_3686 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_3689 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_370 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_373 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_376 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_379 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_382 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_383 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_385 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_386 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_388 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_391 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_394 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_397 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_401 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_400 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_403 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_404 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_406 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_409 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_412 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_415 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_416 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_418 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_421 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_422 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_424 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_427 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_430 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_433 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_436 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_439 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_442 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_445 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_446 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_448 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_452 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_451 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_454 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_455 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_457 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_460 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_463 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_466 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_469 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_472 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_473 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_475 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_478 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_481 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_484 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_492 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_494 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_497 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_500 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_503 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_506 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_509 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_510 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_518 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_521 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_524 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_527 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_528 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_530 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_545 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_563 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_565 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_568 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_577 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_580 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_59 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_595 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_598 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_601 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_602 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_605 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_608 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_611 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_614 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_617 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_620 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_623 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_626 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_629 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_632 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_635 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_638 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_64 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_641 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_644 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_647 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_650 (BGRA8, 128X128)
+[2022.01.24-20.23.35:330][  0]LogTexture: Display: Building textures: Texture2D_651 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_652 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_665 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_668 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_67 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_671 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_674 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_677 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_678 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_688 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_691 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_692 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_695 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_698 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_701 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_704 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_705 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_706 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_707 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_712 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_714 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_715 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_716 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_72 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_742 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_746 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_766 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_771 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_775 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_777 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_781 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_800 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_832 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_835 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_838 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_841 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_850 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_853 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_862 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_865 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_874 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_877 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_880 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_883 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_886 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_889 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_892 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_895 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_898 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_901 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_904 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_908 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_911 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_914 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_934 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_941 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_944 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_947 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_950 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_953 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_956 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_963 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_967 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_968 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_969 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_97 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_971 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_977 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_98 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_980 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_981 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_983 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_984 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_985 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_986 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_988 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_990 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_992 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_996 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: Texture2D_999 (BGRA8, 128X128)
+[2022.01.24-20.23.35:331][  0]LogTexture: Display: Building textures: T_Wood_M (OODLE_AutoDXT, 2048X2048)
+[2022.01.24-20.23.35:331][  0]LogStaticMesh: Building static mesh Car_windows_Cube_001...
+[2022.01.24-20.23.35:336][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Melvin_assets/Car_windows_Cube_001.Car_windows_Cube_001
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_Wood_BC (OODLE_AutoDXT, 2048X2048)
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_UniqueSet_M (OODLE_AutoDXT, 4096X4096)
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_Wood_R (OODLE_AutoDXT, 2048X2048)
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_Rope_BC (OODLE_AutoDXT, 2048X2048)
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_UniqueSet_R (OODLE_AutoDXT, 4096X4096)
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_Rope_R (OODLE_AutoDXT, 2048X2048)
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_Rope_NRM (OODLE_BC5, 2048X2048)
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_Wood_NRM (OODLE_BC5, 2048X2048)
+[2022.01.24-20.23.40:346][  0]LogTexture: Display: Building textures: T_UniqueSet_BC (OODLE_AutoDXT, 4096X4096)
+[2022.01.24-20.23.40:346][  0]LogMaterial: Display: Missing cached shadermap for LandscapeMaterialInstanceConstant_18 in PCD3D_SM5, Default, SM5 (DDC key hash: CFD0C070BB702AF8A5573293CB89656044EB0F17), compiling. 
+[2022.01.24-20.23.40:348][  0]LogMaterial: Warning: [AssetLog] D:\uni\year 3\3D VR project\The actual game\DAT-Project\DAT-Project\EXPVR\Content\EXVR_P.umap: Failed to compile Material Instance with Base M_landscapeGround_ajustabel for platform PCD3D_SM5, Default Material will be used in game.
+[2022.01.24-20.23.40:348][  0]LogMaterial: Display: 	(Node Transform) input must be a vector (0.00000000: float) or a scalar (if source is Tangent)
+[2022.01.24-20.23.40:510][  0]LogStaticMesh: Building static mesh SM_ClimbingFrame...
+[2022.01.24-20.23.42:032][  0]LogStaticMesh: Built static mesh [1.52s] /Game/StoreAssets/MOUT_Civilian/Meshes/Props/Playground/ClimbingFrame/SM_ClimbingFrame.SM_ClimbingFrame
+[2022.01.24-20.23.42:930][  0]LogMaterial: Display: Missing cached shadermap for Car_Window_Matt in PCD3D_SM5, Default, SM5 (DDC key hash: 61F0D7C5651A4233031F084A821F56A20776F87E), compiling. 
+[2022.01.24-20.23.42:954][  0]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.01.24-20.23.43:110][  0]LogMaterial: Display: Missing cached shadermap for M_Wood in PCD3D_SM5, Default, SM5 (DDC key hash: EC97A62D3A7A27F18B521507B8F146F12F4C58C2), compiling. 
+[2022.01.24-20.23.43:150][  0]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.01.24-20.23.43:151][  0]LogMaterial: Display: Missing cached shadermap for M_Rope in PCD3D_SM5, Default, SM5 (DDC key hash: E48BEB92F237DFC4B41C3CAEE77F72DC439AE64D), compiling. 
+[2022.01.24-20.23.43:168][  0]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.01.24-20.23.45:344][  0]LogTexture: Display: Building textures: T_UniqueSet_NRM (OODLE_BC5, 4096X4096)
+[2022.01.24-20.23.45:344][  0]LogMaterial: Display: Missing cached shadermap for M_UniqueSet in PCD3D_SM5, Default, SM5 (DDC key hash: 8F3BDB02661A9FF4AAE158E4AB67F53847C5C008), compiling. 
+[2022.01.24-20.23.45:360][  0]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2022.01.24-20.23.45:555][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'EXVR_P'.
+[2022.01.24-20.23.45:556][  0]LogAIModule: Creating AISystem for world EXVR_P
+[2022.01.24-20.23.46:120][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.01.24-20.23.46:603][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2022.01.24-20.23.46:606][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.01.24-20.23.46:606][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.149ms to complete.
+[2022.01.24-20.23.46:606][  0]LogFileHelpers: Loading map 'EXVR_P' took 27.548
+[2022.01.24-20.23.46:608][  0]LogUnrealEdMisc: Total Editor Startup Time, took 54.271
+[2022.01.24-20.23.46:716][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.24-20.23.46:721][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.24-20.23.46:726][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.24-20.23.46:731][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.01.24-20.23.46:747][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0104 seconds. Added 4336 classes and 1002 folders.
+[2022.01.24-20.23.46:779][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.24-20.23.46:789][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.24-20.23.46:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:790][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.24-20.23.46:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:790][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.01.24-20.23.46:790][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2022.01.24-20.23.46:797][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.24-20.23.46:797][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:797][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.24-20.23.46:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:797][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.01.24-20.23.46:797][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.01.24-20.23.46:800][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.01.24-20.23.46:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.01.24-20.23.46:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.01.24-20.23.46:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.24-20.23.46:804][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.24-20.23.46:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.24-20.23.46:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.01.24-20.23.46:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.01.24-20.23.46:808][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.24-20.23.46:808][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:808][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.24-20.23.46:808][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:808][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.01.24-20.23.46:808][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.24-20.23.46:811][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.24-20.23.46:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.24-20.23.46:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.01.24-20.23.46:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.01.24-20.23.46:815][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.24-20.23.46:815][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:815][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.24-20.23.46:815][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:815][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.01.24-20.23.46:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.24-20.23.46:818][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.24-20.23.46:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.24-20.23.46:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.01.24-20.23.46:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.01.24-20.23.46:822][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.24-20.23.46:822][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:822][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.24-20.23.46:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:822][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.01.24-20.23.46:822][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.01.24-20.23.46:825][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.01.24-20.23.46:825][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:825][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.01.24-20.23.46:825][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:825][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.01.24-20.23.46:825][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.01.24-20.23.46:828][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.01.24-20.23.46:828][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:828][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.01.24-20.23.46:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:828][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.01.24-20.23.46:828][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.24-20.23.46:832][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.24-20.23.46:832][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:832][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.24-20.23.46:832][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:832][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.01.24-20.23.46:832][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.01.24-20.23.46:835][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.24-20.23.46:835][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:835][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.24-20.23.46:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:835][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.01.24-20.23.46:835][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.01.24-20.23.46:838][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.24-20.23.46:838][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:838][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.24-20.23.46:838][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:839][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.01.24-20.23.46:839][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.01.24-20.23.46:843][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.01.24-20.23.46:843][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:843][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.01.24-20.23.46:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:843][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.01.24-20.23.46:843][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.01.24-20.23.46:847][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.24-20.23.46:847][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:847][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.24-20.23.46:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:847][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.01.24-20.23.46:847][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.01.24-20.23.46:851][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.01.24-20.23.46:851][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:851][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.01.24-20.23.46:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:851][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.01.24-20.23.46:851][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.24-20.23.46:855][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.24-20.23.46:855][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:855][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.24-20.23.46:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:855][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.01.24-20.23.46:855][  0]LogPakFile: OnPakFileMounted2Time == 0.000038
+[2022.01.24-20.23.46:858][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.24-20.23.46:858][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:858][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.24-20.23.46:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:858][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.01.24-20.23.46:858][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.24-20.23.46:864][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.24-20.23.46:864][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:864][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.24-20.23.46:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:864][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.01.24-20.23.46:864][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.24-20.23.46:868][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.01.24-20.23.46:868][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:868][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.01.24-20.23.46:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:868][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.01.24-20.23.46:868][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.24-20.23.46:871][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.01.24-20.23.46:871][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:871][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.01.24-20.23.46:871][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:871][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.01.24-20.23.46:871][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.24-20.23.46:874][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.01.24-20.23.46:874][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:874][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.01.24-20.23.46:874][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:874][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.01.24-20.23.46:874][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.01.24-20.23.46:886][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.01.24-20.23.46:886][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:886][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.01.24-20.23.46:886][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:886][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.01.24-20.23.46:886][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.01.24-20.23.46:890][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.01.24-20.23.46:890][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:890][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.01.24-20.23.46:890][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:890][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.01.24-20.23.46:890][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.01.24-20.23.46:893][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.01.24-20.23.46:893][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.01.24-20.23.46:893][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.01.24-20.23.46:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.01.24-20.23.46:893][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/programs/unreal engine/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.01.24-20.23.46:893][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.01.24-20.23.47:097][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.24-20.23.47:098][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.01.24-20.23.47:269][  0]LogSlate: Took 0.000090 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.01.24-20.23.47:275][  0]LogSlate: Took 0.005350 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.01.24-20.23.47:276][  0]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.01.24-20.23.47:430][  0]LogRenderer: Reallocating scene render targets to support 1220x656 Format 10 NumSamples 1 (Frame:1).
+[2022.01.24-20.23.47:546][  0]LogSlate: Took 0.006046 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.01.24-20.23.47:584][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.01.24-20.23.47:584][  0]LogLoad: (Engine Initialization) Total time: 55.25 seconds
+[2022.01.24-20.23.47:584][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.01.24-20.23.47:774][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.01.24-20.23.47:800][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/' took 0.20s
+[2022.01.24-20.23.47:817][  1]LogAssetRegistry: Asset discovery search completed in 52.3678 seconds
+[2022.01.24-20.23.47:822][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2022.01.24-20.23.49:624][ 60]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-20.23.49:633][ 60]LogSlate: Window 'Message Log' being destroyed
+[2022.01.24-20.23.51:141][121]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2022.01.24-20.23.51:141][121]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.23.51:313][127]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 7
+[2022.01.24-20.23.51:314][127]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.23.51:443][130]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2022.01.24-20.23.51:443][130]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.23.51:528][133]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2022.01.24-20.23.51:528][133]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.23.51:684][137]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2022.01.24-20.23.51:684][137]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.23.51:764][140]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.24-20.23.51:764][140]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.23.51:884][143]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2022.01.24-20.23.51:885][143]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.23.51:898][144]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (concground2)
+[2022.01.24-20.23.51:985][144]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.01.24-20.23.51:985][144]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.23.51:985][144]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 98
+[2022.01.24-20.23.51:985][144]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.51:985][144]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 88
+[2022.01.24-20.23.51:985][144]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.52:088][145]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 78
+[2022.01.24-20.23.52:088][145]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.52:104][146]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 68
+[2022.01.24-20.23.52:104][146]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.52:154][146]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 59
+[2022.01.24-20.23.52:154][146]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.52:227][150]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 51
+[2022.01.24-20.23.52:227][150]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.52:298][152]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 44
+[2022.01.24-20.23.52:298][152]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.52:391][154]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 38
+[2022.01.24-20.23.52:391][154]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.55:029][291]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 33
+[2022.01.24-20.23.55:029][291]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.55:060][292]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 28
+[2022.01.24-20.23.55:061][292]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.55:294][304]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 24
+[2022.01.24-20.23.55:294][304]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.56:010][344]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2022.01.24-20.23.56:010][344]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.56:235][355]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2022.01.24-20.23.56:235][355]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.56:253][356]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2022.01.24-20.23.56:253][356]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.56:315][359]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.24-20.23.56:315][359]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.01.24-20.23.56:343][361]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 12
+[2022.01.24-20.23.56:343][361]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.56:812][386]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2022.01.24-20.23.56:812][386]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.56:905][392]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 8
+[2022.01.24-20.23.56:905][392]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.56:981][397]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.01.24-20.23.56:981][397]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.57:147][406]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2022.01.24-20.23.57:147][406]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.57:336][416]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2022.01.24-20.23.57:336][416]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.57:396][420]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 3
+[2022.01.24-20.23.57:396][420]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.57:449][423]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.01.24-20.23.57:449][423]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.23.57:477][425]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.24-20.23.57:477][425]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.28.01:610][ 78]LogSlate: Took 0.016856 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.01.24-20.28.01:906][ 78]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\gas station\Gas station building.fbx)
+[2022.01.24-20.28.01:935][ 78]LogFbx: Loading FBX Scene from D:\uni\year 3\3D VR project\3D DAT VR\gas station\Gas station building.fbx
+[2022.01.24-20.28.01:954][ 78]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.24-20.28.02:995][ 78]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.01.24-20.28.03:126][ 78]LogMaterial: Display: Missing cached shadermap for lambert1 in PCD3D_SM5, Default, SM5 (DDC key hash: AE98C783B29EF13F4BD0BDD97A4C94677519DF7D), compiling. 
+[2022.01.24-20.28.03:177][ 78]LogFbx: Display: Triangulating static mesh polySurface164
+[2022.01.24-20.28.03:428][ 78]LogStaticMesh: Building static mesh Gas_station_building...
+[2022.01.24-20.28.03:536][ 78]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/Alex_assets/Gas_Station/Gas_station_building.Gas_station_building
+[2022.01.24-20.28.03:681][ 78]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\uni\year 3\3D VR project\3D DAT VR\gas station\Gas station price stand.fbx)
+[2022.01.24-20.28.03:700][ 78]LogFbx: Loading FBX Scene from D:\uni\year 3\3D VR project\3D DAT VR\gas station\Gas station price stand.fbx
+[2022.01.24-20.28.03:705][ 78]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.24-20.28.04:779][ 78]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.01.24-20.28.04:788][ 78]LogFbx: Display: Triangulating static mesh polySurface160
+[2022.01.24-20.28.04:795][ 78]LogStaticMesh: Building static mesh Gas_station_price_stand...
+[2022.01.24-20.28.04:804][ 78]LogStaticMesh: Built static mesh [0.01s] /Game/Assets/Alex_assets/Gas_Station/Gas_station_price_stand.Gas_station_price_stand
+[2022.01.24-20.28.04:895][ 80]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.28.04:895][ 80]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2022.01.24-20.28.04:895][ 80]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2022.01.24-20.28.04:895][ 80]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.01.24-20.28.04:906][ 81]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2022.01.24-20.28.04:906][ 81]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2022.01.24-20.28.04:906][ 81]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.01.24-20.28.04:906][ 81]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2022.01.24-20.28.04:906][ 81]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.01.24-20.28.04:906][ 81]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2022.01.24-20.28.04:906][ 81]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2022.01.24-20.28.04:906][ 81]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.28.05:461][103]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2022.01.24-20.28.05:461][103]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.28.05:474][104]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.01.24-20.28.05:474][104]LogShaderCompilers: Display: Total job queries 305, among them cache hits 111 (36.39%)
+[2022.01.24-20.28.05:474][104]LogShaderCompilers: Display: Tracking 179 distinct input hashes that result in 109 distinct outputs (60.89%)
+[2022.01.24-20.28.05:474][104]LogShaderCompilers: Display: RAM used: 0.55 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.03%
+[2022.01.24-20.28.05:474][104]LogShaderCompilers: Display: ================================================
+[2022.01.24-20.28.05:541][108]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2022.01.24-20.28.05:541][108]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.01.24-20.28.06:535][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.01.24-20.28.07:502][170]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.24-20.28.07:513][170]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Alex_assets/Gas_Station/lambert1.lambert1
+[2022.01.24-20.29.04:922][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2022.01.24-20.29.20:490][390]LogActorFactory: Actor Factory created Gas_station_building
+[2022.01.24-20.29.20:918][419]LogActorFactory: Actor Factory created Gas_station_building
+[2022.01.24-20.29.22:434][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gas_Station_Combined)
+[2022.01.24-20.29.39:133][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gas_Station_Combined)
+[2022.01.24-20.29.42:053][263]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gas_station_building)
+[2022.01.24-20.29.44:872][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.24-20.29.48:401][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gas_Station_Combined)
+[2022.01.24-20.29.51:087][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gas_station_building)
+[2022.01.24-20.29.57:565][598]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gas_station_building)
+[2022.01.24-20.29.58:016][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gas_station_building)
+[2022.01.24-20.30.08:970][755]Cmd: TRANSACTION UNDO
+[2022.01.24-20.30.08:970][755]LogEditorTransaction: Undo Move Actors
+[2022.01.24-20.30.16:877][420]Cmd: TRANSACTION UNDO
+[2022.01.24-20.30.16:877][420]LogEditorTransaction: Undo Move Actors
+[2022.01.24-20.30.29:062][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2022.01.24-20.30.29:923][502]LogSlate: Window 'Delete Assets' being destroyed
+[2022.01.24-20.30.29:946][502]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Assets/Alex_assets/Gas_Station/Gas_station_building.Gas_station_building
+[2022.01.24-20.30.30:253][502]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2022.01.24-20.30.35:752][ 14]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/gas station/Gas Station Combined.fbx]
+[2022.01.24-20.30.35:789][ 14]LogFbx: Loading FBX Scene from D:/uni/year 3/3D VR project/3D DAT VR/gas station/Gas Station Combined.fbx
+[2022.01.24-20.30.35:798][ 14]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.24-20.30.35:846][ 14]LogStaticMesh: Building static mesh Gas_Station_Combined...
+[2022.01.24-20.30.35:966][ 14]LogStaticMesh: Built static mesh [0.12s] /Engine/Transient.Gas_Station_Combined
+[2022.01.24-20.30.36:054][ 14]LogFbx: Display: Triangulating static mesh Combined
+[2022.01.24-20.30.36:239][ 14]LogStaticMesh: Building static mesh Gas_Station_Combined...
+[2022.01.24-20.30.36:344][ 14]LogStaticMesh: Built static mesh [0.11s] /Game/Assets/Alex_assets/Gas_Station/Gas_Station_Combined.Gas_Station_Combined
+[2022.01.24-20.30.36:387][ 14]LogEditorFactories: -- imported successfully
+[2022.01.24-20.30.36:389][ 14]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.01.24-20.30.41:918][316]LogEditorFactories: Performing atomic reimport of [D:/uni/year 3/3D VR project/3D DAT VR/gas station/Gas station building.fbx]
+[2022.01.24-20.30.41:947][316]LogFbx: Loading FBX Scene from D:/uni/year 3/3D VR project/3D DAT VR/gas station/Gas station building.fbx
+[2022.01.24-20.30.41:955][316]LogFbx: FBX Scene Loaded Succesfully
+[2022.01.24-20.30.42:032][316]LogFbx: Display: Triangulating static mesh polySurface164
+[2022.01.24-20.30.42:178][316]LogStaticMesh: Building static mesh Gas_Station_Combined...
+[2022.01.24-20.30.42:279][316]LogStaticMesh: Built static mesh [0.10s] /Game/Assets/Alex_assets/Gas_Station/Gas_Station_Combined.Gas_Station_Combined
+[2022.01.24-20.30.42:311][316]LogEditorFactories: -- imported successfully
+[2022.01.24-20.30.44:818][522]LogActorFactory: Actor Factory created Gas_station_price_stand
+[2022.01.24-20.30.45:194][549]LogActorFactory: Actor Factory created Gas_station_price_stand
+[2022.01.24-20.31.06:457][426]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2022.01.24-20.31.19:873][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SkyDomeMesh)
+[2022.01.24-20.31.23:404][703]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.01.24-20.31.23:424][703]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/EXVR_P" FILE="../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.01.24-20.31.23:430][703]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2022.01.24-20.31.26:964][703]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/EXVR_P38C2E1574DFE92E9FF8B1D914D52875A.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/EXVR_P.umap'
+[2022.01.24-20.31.26:977][703]LogFileHelpers: Saving map 'EXVR_P' took 3.555
+[2022.01.24-20.31.27:163][703]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Gas_Station_CombinedCA386FAD4E92B597C9CDECBD9BAF90A3.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/Gas_Station/Gas_Station_Combined.uasset'
+[2022.01.24-20.31.27:193][703]LogSavePackage: Moving '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Saved/Gas_station_price_stand52F63086415E8503042340BAC5BEEEDD.tmp' to '../../../../../../uni/year 3/3D VR project/The actual game/DAT-Project/DAT-Project/EXPVR/Content/Assets/Alex_assets/Gas_Station/Gas_station_price_stand.uasset'
+[2022.01.24-20.31.27:225][703]AssetCheck: New page: Asset Save: multiple assets
+[2022.01.24-20.31.27:225][703]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Alex_assets/Gas_Station/Gas_station_price_stand.Gas_station_price_stand
+[2022.01.24-20.31.27:225][703]LogContentValidation: Display: Validating StaticMesh /Game/Assets/Alex_assets/Gas_Station/Gas_Station_Combined.Gas_Station_Combined
+[2022.01.24-20.31.27:225][703]LogContentValidation: Display: Validating World /Game/EXVR_P.EXVR_P
